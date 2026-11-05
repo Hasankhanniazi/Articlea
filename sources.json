@@ -4,42 +4,77 @@
       "name": "Comic Book Resources",
       "feed": "https://www.cbr.com/feed/",
       "category": "Anime & Comics",
-      "enabled": true
+      "enabled": true,
+      "region": "GLOBAL"
     },
     {
       "name": "Anime News Network",
       "feed": "https://www.animenewsnetwork.com/all/rss.xml",
       "category": "Anime & Comics",
-      "enabled": true
+      "enabled": true,
+      "region": "GLOBAL"
     },
     {
       "name": "BBC Sport",
       "feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
       "category": "Sports",
-      "enabled": true
+      "enabled": true,
+      "region": "GLOBAL"
     },
     {
       "name": "BBC Technology",
       "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
       "category": "Technology",
-      "enabled": true
+      "enabled": true,
+      "region": "GLOBAL"
     },
     {
       "name": "BBC Entertainment & Arts",
       "feed": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
       "category": "Entertainment",
-      "enabled": true
+      "enabled": true,
+      "region": "GLOBAL"
     },
     {
       "name": "BBC World News",
       "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "World News",
-      "enabled": true
+      "enabled": true,
+      "region": "GLOBAL"
     },
     {
       "name": "PC Gamer",
       "feed": "https://www.pcgamer.com/rss/",
       "category": "Gaming",
+      "enabled": true,
+      "region": "GLOBAL"
+    },
+    {
+      "name": "ARY News",
+      "feed": "https://arynews.tv/feed",
+      "category": "World News",
+      "region": "PK",
+      "enabled": true
+    },
+    {
+      "name": "The Guardian",
+      "feed": "https://www.theguardian.com/world/rss",
+      "category": "World News",
+      "region": "GLOBAL",
+      "enabled": true
+    },
+    {
+      "name": "The Nation",
+      "feed": "https://nation.com.pk/rss/top-stories",
+      "category": "World News",
+      "region": "PK",
+      "enabled": true
+    },
+    {
+      "name": "Dawn",
+      "feed": "https://www.dawn.com/feeds/home",
+      "category": "World News",
+      "region": "PK",
       "enabled": true
     }
   ]
