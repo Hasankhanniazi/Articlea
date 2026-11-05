@@ -1,43 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#eaf8e2"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9f8df"/><stop offset="1" stop-color="#b9e6a4"/></linearGradient>
  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8ee34a"/><stop offset="1" stop-color="#2f8d24"/></linearGradient>
- <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#102b18" flood-opacity=".18"/></filter>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#398b38" opacity=".12"/></pattern>
 </defs>
-<rect width="1200" height="630" fill="url(#bg)"/>
-<circle cx="1080" cy="60" r="270" fill="#d9f3cf" opacity=".75"/><circle cx="40" cy="590" r="220" fill="#e2f6d9"/>
-<path d="M0 535 Q270 475 520 550 T1200 520 V630 H0Z" fill="#155d20"/>
-<path d="M0 535 Q270 475 520 550 T1200 520" fill="none" stroke="#82dc42" stroke-width="12"/>
-<g transform="translate(72 105)">
- <rect width="86" height="86" rx="22" fill="url(#green)"/>
- <path d="M43 17 15 72h17l5-11h14l5 11h17L43 17Zm0 23 6 12H37l6-12Z" fill="#fff"/>
- <text x="108" y="68" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" letter-spacing="-4" fill="#12231a">Articlea</text>
- <text x="0" y="160" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="700" fill="#14251b">Discover the latest stories</text>
- <text x="0" y="210" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="700" fill="#278b2d">from around the web.</text>
- <text x="0" y="274" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#536457">Headlines, trending topics and fresh reads</text>
- <text x="0" y="304" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#536457">across the subjects you care about.</text>
- <g font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700">
-  <rect x="0" y="350" width="142" height="42" rx="21" fill="#d9f2d0"/><text x="71" y="377" text-anchor="middle" fill="#246d2b">World News</text>
-  <rect x="154" y="350" width="112" height="42" rx="21" fill="#d9f2d0"/><text x="210" y="377" text-anchor="middle" fill="#246d2b">Sports</text>
-  <rect x="278" y="350" width="176" height="42" rx="21" fill="#d9f2d0"/><text x="366" y="377" text-anchor="middle" fill="#246d2b">Anime &amp; Comics</text>
-  <rect x="466" y="350" width="155" height="42" rx="21" fill="#d9f2d0"/><text x="543" y="377" text-anchor="middle" fill="#246d2b">Technology</text>
- </g>
+<rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#dots)"/>
+<g fill="#62b84c" opacity=".2" transform="translate(0 12)">
+ <path d="M96 148 154 94 236 78 291 112 332 102 380 144 365 181 318 193 302 235 255 248 235 289 197 276 172 230 125 213 108 179Z"/>
+ <path d="M285 298 328 320 357 370 344 422 314 477 281 449 271 397 249 356Z"/>
+ <path d="M463 127 517 99 586 111 618 143 667 137 704 165 755 151 792 173 832 151 887 163 930 143 1000 163 1068 147 1120 184 1093 218 1038 222 1004 254 952 250 916 278 864 264 824 290 787 269 749 294 711 273 674 287 647 251 604 244 574 213 527 213 499 184 462 171Z"/>
+ <path d="M646 291 694 307 729 354 716 404 682 451 653 419 638 369Z"/>
+ <path d="M901 352 956 336 1005 359 1028 398 1001 433 952 426 924 397Z"/>
 </g>
-<g transform="translate(760 82) rotate(3 190 220)" filter="url(#shadow)">
- <rect x="0" y="0" width="350" height="438" rx="28" fill="#fff" stroke="#d7e3d6" stroke-width="3"/>
- <rect x="24" y="22" width="44" height="44" rx="12" fill="url(#green)"/><path d="M46 30 33 58h8l2-6h7l2 6h8L46 30Z" fill="#fff"/>
- <text x="80" y="54" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="800" fill="#15251a">Articlea</text>
- <path d="M25 84H325" stroke="#e7ece7" stroke-width="2"/>
- <rect x="24" y="104" width="302" height="145" rx="14" fill="#1d4827"/>
- <rect x="24" y="104" width="302" height="145" rx="14" fill="#8bcf76" opacity=".24"/>
- <text x="44" y="139" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#c9f2bb">TRENDING STORY</text>
- <text x="44" y="181" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#fff">Stories worth</text>
- <text x="44" y="210" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#fff">your attention.</text>
- <text x="25" y="286" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="800" fill="#17291b">Trending Now</text>
- <g fill="#e4f5df"><rect x="24" y="302" width="136" height="34" rx="17"/><rect x="169" y="302" width="157" height="34" rx="17"/><rect x="24" y="345" width="118" height="34" rx="17"/></g>
- <g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#286b2d"><text x="92" y="324" text-anchor="middle">World News</text><text x="247" y="324" text-anchor="middle">Anime &amp; Comics</text><text x="83" y="367" text-anchor="middle">Technology</text></g>
- <path d="M24 399H326" stroke="#e7ece7" stroke-width="2"/>
- <text x="25" y="423" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#617064">Fresh stories. Trusted sources.</text>
+<g transform="translate(0 0)" fill="#398b38" opacity=".18">
+ <path d="M90 155 150 104 235 90 287 121 329 115 365 148 350 180 307 195 290 233 250 243 227 283 194 267 173 224 124 207 108 177Z"/>
+ <path d="M278 299 321 322 348 371 335 420 309 468 279 443 269 396 246 355Z"/>
+ <path d="M468 132 521 104 584 116 617 145 668 140 705 167 754 155 792 175 833 154 887 166 930 147 999 167 1066 151 1116 187 1090 218 1037 225 1004 255 951 252 915 279 864 267 823 292 786 273 748 297 710 276 674 290 646 254 604 247 574 216 528 215 498 187 464 173Z"/>
+ <path d="M647 294 693 310 727 354 714 402 681 447 654 417 638 370Z"/>
+ <path d="M903 355 955 340 1003 362 1025 398 999 431 952 425 925 397Z"/>
 </g>
-<text x="600" y="592" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#fff">Stay curious. Discover more.</text>
+<rect width="1200" height="630" fill="#f6fff0" opacity=".2"/>
+<g transform="translate(0 0)">
+ <rect x="340" y="246" width="138" height="138" rx="32" fill="url(#green)"/>
+ <path d="M409 273 365 357h26l8-18h21l8 18h26l-45-84Zm0 35 9 18h-18l9-18Z" fill="#fff"/>
+ <text x="505" y="350" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="800" letter-spacing="-4" fill="#173d1e">Articlea</text>
+</g>
 </svg>
