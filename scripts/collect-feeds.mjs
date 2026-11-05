@@ -155,6 +155,6 @@ await recoverAnnImages();
 
 // Reclassify the complete retained archive as well as newly collected stories.
 const articles=[...map.values()].map(a=>{const category=classifyCategory(a,a.category);return {...a,category,subcategory:classifySubcategory(a,category)}})
- .sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0)).slice(0,500);
+ .sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0)).slice(0,5000);
 await fs.writeFile(path,JSON.stringify({updatedAt:new Date().toISOString(),articles},null,2)+"\n");
 console.log("Saved",articles.length,"unique articles with automatic categories.");
