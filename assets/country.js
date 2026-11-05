@@ -70,7 +70,7 @@
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 6000);
     try {
-      const response = await fetch("https://ipapi.co/country/", {
+      const response = await fetch("https://free.freeipapi.com/api/v1/json", {
         method: "GET",
         cache: "no-store",
         credentials: "omit",
@@ -78,7 +78,8 @@
         signal: controller.signal
       });
       if (!response.ok) throw new Error("Country lookup unavailable");
-      const country = (await response.text()).trim().toUpperCase();
+      const lookup = await response.json();
+      const country = String(lookup.countryCode || "").trim().toUpperCase();
       if (!supportedCountries.has(country)) throw new Error("Country not supported yet");
       selectCountry(country);
     } catch {
