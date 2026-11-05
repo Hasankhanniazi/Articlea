@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-05T13:13:49.691Z",
+  "updatedAt": "2026-11-05T14:10:58.205Z",
   "articles": [
+    {
+      "title": "Liam Neeson's 98-Minute Action Thriller Is Already a Box Office Bomb After Opening Weekend",
+      "url": "https://www.cbr.com/liam-neeson-action-thriller-mongoose-box-office-bomb-opening-weekend/",
+      "summary": "Critics are tearing apart Liam Neeson's new action thriller movie, and the box office receipts aren't painting a pretty picture either.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T14:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/liam-neeson-at-the-uk-premiere-of-marlowe-at-vue-west-end-in-london.jpg",
+      "subcategory": "Movies"
+    },
+    {
+      "title": "5 Masterpiece Mystery Movies That Are Perfect From Start to Finish",
+      "url": "https://www.cbr.com/best-mystery-movies-perfect-start-to-finish-list/",
+      "summary": "A good mystery movie can keep audiences guessing for two hours, but a great one makes them want to go back and watch the whole thing all over again.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T14:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/04/jack-nicholson-chinatown.jpeg",
+      "subcategory": "Movies"
+    },
+    {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T13:51:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+      "subcategory": null
+    },
+    {
+      "title": "CBS Finally Has a Proper Blue Bloods Replacement & It's Not Boston Blue",
+      "url": "https://www.cbr.com/blue-bloods-marshals-cbs-comparison/",
+      "summary": "CBS finally has a proper successor to Blue Bloods after the network canceled Tom Selleck's classic Reagan family police procedural drama in 2024.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T13:45:02.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/tom-selleck-blue-bloods_.jpg",
+      "subcategory": null
+    },
+    {
+      "title": "Apple TV's Mistborn Movie is Copying Harry Potter's Casting",
+      "url": "https://www.cbr.com/apple-tv-mistborn-movie-copying-harry-potter-casting/",
+      "summary": "Brandon Sanderson's upcoming Mistborn film is copying Harry Potter's strategy of casting an A-list actor for its central mentor character.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T13:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/mistborn-cropped.jpg",
+      "subcategory": "Movies"
+    },
+    {
+      "title": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/",
+      "summary": "Big ups to Blizzard.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T13:25:12.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zF8xC7jHffVttkPxRpBE64-1920-80.png",
+      "subcategory": "Game Releases"
+    },
+    {
+      "title": "MAGES. Works on New Girls und Panzer Console Game",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-05/mages-works-on-new-girls-und-panzer-console-game/.243557",
+      "summary": "Franchise announces new game on November 14 at Oarai",
+      "publisher": "Anime News Network",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T13:19:48.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/news.10/243557/panzer.png.jpg",
+      "subcategory": "Game Releases"
+    },
+    {
+      "title": "Who could be the next England debutant and who are the potential recalls?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T13:13:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8e32/live/146d4c00-d870-11f1-85ab-b3cc3b5498c6.png",
+      "subcategory": "Football"
+    },
     {
       "title": "France holds new strikes and protests as unions demand immediate answers",
       "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
@@ -8,8 +88,18 @@
       "publisher": "BBC World News",
       "category": "World News",
       "publishedAt": "2026-11-05T13:04:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg",
       "subcategory": null
+    },
+    {
+      "title": "Coleman in 'hybrid role' with Republic of Ireland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played since June.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T13:03:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg",
+      "subcategory": "Football"
     },
     {
       "title": "PlayStation & Xbox Game Will Officially Shut Down December 31",
@@ -78,7 +168,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T12:44:43.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/youtube/XPyht8yzgeE.jpg",
       "subcategory": null
     },
     {
@@ -298,7 +388,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T11:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/youtube/p15JWZsi3Ao.jpg",
       "subcategory": "Anime"
     },
     {
@@ -328,7 +418,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T10:10:31.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/daily-briefs/243554/banka.jpg",
       "subcategory": "Anime"
     },
     {
@@ -338,7 +428,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T09:31:49.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.10/243555/circle.png.jpg",
       "subcategory": null
     },
     {
@@ -348,7 +438,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T09:05:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF7/cms/news.10/243547/geass.jpg",
       "subcategory": "Anime"
     },
     {
@@ -380,16 +470,6 @@
       "publishedAt": "2026-11-05T08:24:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg",
       "subcategory": "Football"
-    },
-    {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-05T08:07:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
-      "subcategory": null
     },
     {
       "title": "Italian chef fired after refusing to put pineapple on pizza",
@@ -568,7 +648,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T04:25:45.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.10/243538/saturno.jpg",
       "subcategory": "Anime"
     },
     {
@@ -578,7 +658,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T04:21:18.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/news.10/243536/wandance-liveaction-postervisual.jpg",
       "subcategory": "Movies"
     },
     {
@@ -648,7 +728,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T02:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/interest.3/243470/rgg-roblox.jpg",
       "subcategory": "TV Shows"
     },
     {
@@ -668,7 +748,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T01:30:45.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.7/209922/gls-fpqasaansh2.jpg",
       "subcategory": "Movies"
     },
     {
@@ -678,7 +758,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T01:28:12.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.9/239467/bafkreieus7mvngxcunaow4evfcbc7skdfjw4wy5w4mmtqdxj6alchyvpie.webp",
       "subcategory": "Movies"
     },
     {
@@ -698,7 +778,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T00:26:43.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY6/cms/news.10/243530/led-by-stars-m1-cover-jpn.jpg",
       "subcategory": "Manga"
     },
     {
@@ -738,7 +818,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T23:26:04.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243531/871226383-18184906897428812-772152245061929119-n.jpg",
       "subcategory": "Movies"
     },
     {
@@ -928,7 +1008,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T21:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK1/cms/news.10/243514/exorcist.jpg",
       "subcategory": "Manga"
     },
     {
@@ -948,7 +1028,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T20:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.10/243512/hwkcka8bgaaafkl.jfif.jpeg",
       "subcategory": "Manga"
     },
     {
@@ -1018,7 +1098,7 @@
       "publisher": "Anime News Network",
       "category": "Gaming",
       "publishedAt": "2026-11-04T17:30:11.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.10/243522/pokemon-pokopia-dazzling-decorations.jpg",
       "subcategory": "Nintendo"
     },
     {
@@ -1058,7 +1138,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T17:00:45.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM4/youtube/XUPewTvbu3I.jpg",
       "subcategory": "Anime"
     },
     {
@@ -1068,7 +1148,7 @@
       "publisher": "Anime News Network",
       "category": "Gaming",
       "publishedAt": "2026-11-04T17:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g3E/cms/game-review/243431/ann-castlevania-belmonts-curse-1.png.jpg",
       "subcategory": "Nintendo"
     },
     {
@@ -1158,7 +1238,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T16:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/news.9/235423/4cc42112cb621160b16423a49e93f8e2-original.png.jpg",
       "subcategory": "Manga"
     },
     {
@@ -1178,7 +1258,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T15:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC7/cms/news.10/243510/ryu.jpg",
       "subcategory": "Manga"
     },
     {
@@ -1188,7 +1268,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T14:30:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRT/cms/episode-review.5/243516/overgeared.png.jpg",
       "subcategory": "TV Shows"
     },
     {
@@ -1208,7 +1288,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T14:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV0/cms/convention/239696/annanagasethumbnail.jpg",
       "subcategory": "Anime"
     },
     {
@@ -1218,7 +1298,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T13:46:36.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBC/cms/news.8/225214/sakamoto-holidays.jpg",
       "subcategory": "Manga"
     },
     {
@@ -1228,7 +1308,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T13:30:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/episode-review.5/243501/nia-listion-episode-5-review.jpeg",
       "subcategory": "TV Shows"
     },
     {
@@ -1248,7 +1328,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T12:30:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g2R/cms/episode-review.5/243499/ss-2026-11-03-01-55-17-941.jpg",
       "subcategory": "TV Shows"
     },
     {
@@ -1328,7 +1408,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T09:59:56.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/youtube/KXRkR5KP_WA.jpg",
       "subcategory": "Anime"
     },
     {
@@ -1378,7 +1458,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T03:57:16.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9W/cms/news.10/243508/oshiritantei.jpg",
       "subcategory": "Anime"
     },
     {
@@ -1388,7 +1468,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T03:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/news.10/243469/spotthumb.jpg",
       "subcategory": "Anime"
     },
     {
@@ -1398,7 +1478,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T02:54:42.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.10/243506/peroperosparkles-kv.jpg",
       "subcategory": "Anime"
     },
     {
@@ -1408,7 +1488,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T02:42:35.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/cms/news.5/182181/kemonojihen.jpg",
       "subcategory": "Manga"
     },
     {
@@ -1418,7 +1498,7 @@
       "publisher": "Anime News Network",
       "category": "Gaming",
       "publishedAt": "2026-11-04T01:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/interest.3/243471/google-zelda-ooc-03.jpeg",
       "subcategory": "Nintendo"
     },
     {
@@ -1428,7 +1508,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T00:56:45.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/youtube/Hf4-i5u3Bbs.jpg",
       "subcategory": "Manga"
     },
     {
@@ -1478,7 +1558,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-04T00:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/cms/news.10/243477/reiwa.jpg",
       "subcategory": "Manga"
     },
     {
@@ -1508,7 +1588,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-03T23:41:39.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCG/cms/news.10/243498/ovlb-igpost-1080x1350.jpeg",
       "subcategory": null
     },
     {
@@ -1518,7 +1598,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-03T23:20:53.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.10/243497/hwpds1eaaaatbry.jpeg",
       "subcategory": "Manga"
     },
     {
@@ -1528,7 +1608,7 @@
       "publisher": "Anime News Network",
       "category": "Entertainment",
       "publishedAt": "2026-11-03T23:00:00.000Z",
-      "image": null,
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO5/cms/news.10/243466/honeytrapmethod.jpg",
       "subcategory": "Manga"
     },
     {
