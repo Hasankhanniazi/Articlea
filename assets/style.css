@@ -308,3 +308,6 @@ header{justify-content:space-between;gap:12px}
 .country-dialog-options .country-option{padding:14px 12px;border:1px solid var(--line);border-radius:9px;font-size:13px}
 .country-dialog-options .country-option:hover{border-color:#c9e5a8}
 @media(max-width:560px){header{gap:8px}.header-actions{gap:7px}.country-toggle{height:38px;min-width:53px;padding:0 9px}.menu-toggle{width:38px;height:38px}.menu-wrap{margin-left:0}.country-menu{top:46px}.country-dialog-card{padding:24px 20px}}
+
+/* Publisher coverage links for grouped stories */
+.coverage-links{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;margin-top:8px;font-size:10px;line-height:1.4;color:#7b8796}.coverage-links a{color:#4e7337;font-weight:750;text-decoration:none}.coverage-links a:hover{text-decoration:underline}.coverage-links span{font-weight:650}
