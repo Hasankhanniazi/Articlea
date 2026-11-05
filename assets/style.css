@@ -236,3 +236,49 @@ header{position:sticky;top:0;z-index:100;background:#fff}
 .menu-panel .menu-subcategories a:focus{
   background:#eaf5df;
 }
+
+
+/* CBR-style category accordion: subcategories sit underneath their parent row */
+.menu-category-head{
+  display:block;
+  position:relative;
+  padding:2px 5px 2px 11px;
+}
+.menu-category-head>a{
+  display:block;
+  width:100%;
+  padding:10px 44px 10px 2px;
+  box-sizing:border-box;
+}
+.menu-category-head details{
+  display:block;
+  position:static;
+  width:100%;
+}
+.menu-category-head summary{
+  position:absolute;
+  top:3px;
+  right:5px;
+}
+.menu-category-head .menu-subcategories{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  box-sizing:border-box;
+  padding:3px 0 8px 14px;
+  gap:2px;
+}
+.menu-category-head .menu-subcategories a{
+  display:block;
+  width:100%;
+  padding:9px 12px;
+  border-radius:7px;
+  background:#f7f9f5;
+  font-size:12px;
+  line-height:1.35;
+  font-weight:650;
+}
+.menu-category-head .menu-subcategories a:hover,
+.menu-category-head .menu-subcategories a:focus{
+  background:#eaf5df;
+}
