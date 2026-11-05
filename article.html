@@ -48,7 +48,7 @@ document.getElementById("year").textContent=new Date().getFullYear();
   root.innerHTML=`
    ${article.image?`<img class="detail-image" src="${esc(article.image)}" alt="">`:""}
    <div class="detail-body">
-    <div class="detail-meta"><span class="pill">${esc(article.category)}</span><span>${esc(article.publisher||"Publisher")}</span>${date(article.publishedAt)?`<span>· ${date(article.publishedAt)}</span>`:""}</div>
+    <div class="detail-meta"><a class="pill detail-topic-link" href="topic.html?category=${encodeURIComponent(article.category)}" aria-label="Browse more ${esc(article.category)} stories">${esc(article.category)} ↗</a><span>${esc(article.publisher||"Publisher")}</span>${date(article.publishedAt)?`<span>· ${date(article.publishedAt)}</span>`:""}</div>
     <h1 class="detail-title">${esc(article.title)}</h1>
     <p class="detail-excerpt">${esc(article.summary||"A short preview is not available for this story. Visit the publisher to read the full article.")}</p>
     <div class="preview-note">You're reading an Articlea preview. The full story belongs to its original publisher.</div>
