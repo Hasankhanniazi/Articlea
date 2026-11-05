@@ -1,3 +1,106 @@
-const cats=["All","World News","Sports","Entertainment","Technology","Gaming"];let data=[],topic="All",query="",order="newest",currentCountry=window.articleaCountry||"GLOBAL";const $=id=>document.getElementById(id);const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));function date(s){let d=new Date(s);return isNaN(d)?"Recently":d.toLocaleDateString(undefined,{month:"short",day:"numeric",year:"numeric"})}const trendStop=new Set(["The","This","That","What","When","Where","Why","How","After","Before","Inside","Here","There","New","Best","Top","Watch","Meet","Who","Your","Our","Their","One","Two","Five","Ten","First","Latest","Could","Would","Should","Has","Have","Will","With","From","Into","Over","Under","About","Today","Tomorrow","Yesterday","BBC","News","Review","Explained","Reveals","Officially","Report","Reports","Says","Said","World","Sport","Sports","Anime","Comics","Gaming","Technology","Entertainment"]);function relativeTime(value){const ms=Date.now()-new Date(value).getTime();if(!Number.isFinite(ms)||ms<0)return"just now";const n=Math.floor(ms/60000);if(n<1)return"just now";if(n<60)return n+" min ago";const h=Math.floor(n/60);if(h<24)return h+" hr"+(h===1?"":"s")+" ago";const d=Math.floor(h/24);return d+" day"+(d===1?"":"s")+" ago"}function visibleData(){return data.filter(a=>!Array.isArray(a.regions)||a.regions.includes("GLOBAL")||a.regions.includes(currentCountry))}function detectTrends(){const recent=visibleData().filter(x=>{const t=Date.parse(x.publishedAt);return Number.isFinite(t)&&Date.now()-t<72*3600000});const candidates=new Set();for(const item of recent){const source=String(item.title||"")+" "+String(item.summary||"");const re=/\b(?:[A-Z][a-z0-9’'-]+|[A-Z]{2,})(?:\s+(?:of|the|and|for|to|in|on|at|with|[A-Z][a-z0-9’'-]+|[A-Z]{2,})){1,3}\b/g;for(const m of source.matchAll(re)){const phrase=m[0].trim().replace(/\s+/g," ");const words=phrase.split(" ");if(words.length>=2&&words.length<=4&&!trendStop.has(words[0]))candidates.add(phrase)}}const groups=[];for(const phrase of candidates){const words=phrase.toLowerCase().split(" ");const stories=recent.filter(x=>(String(x.title||"")+" "+String(x.summary||"")).toLowerCase().includes(phrase.toLowerCase()));if(stories.length<2)continue;const newest=Math.max(...stories.map(x=>Date.parse(x.publishedAt)||0));const oldest=Math.min(...stories.map(x=>Date.parse(x.publishedAt)||newest));groups.push({phrase,stories,newest,oldest,words})}groups.sort((x,y)=>y.stories.length-x.stories.length||y.newest-x.newest||y.phrase.length-x.phrase.length);const picked=[];for(const g of groups){if(picked.some(p=>p.phrase.toLowerCase().includes(g.phrase.toLowerCase())||g.phrase.toLowerCase().includes(p.phrase.toLowerCase())))continue;picked.push(g);if(picked.length===6)break}return picked}function drawTrends(){const host=$("trending-list");const trends=detectTrends();if(!trends.length){host.innerHTML='<div class="trending-empty">We’re watching incoming headlines. A topic appears here when multiple recent stories point to the same subject.</div>';return}host.innerHTML=trends.map(t=>'<a class="trend-card" href="topic.html?trend='+encodeURIComponent(t.phrase)+'"><strong>'+esc(t.phrase)+'</strong></a>').join("")}function storyTokens(a){return (String(a.title||"").toLowerCase().match(/[a-z0-9]{3,}/g)||[]).filter(w=>!new Set(["the","and","for","with","from","that","this","after","before","into","over","under","about","says","said","news","report","reports","latest","what","when","where","how","why","who","has","have","will","could","would","should","their","your","our","new","more","than","its","are","was","were","is","to","of","in","on","at","by","as","an","a"]).has(w));}
-function groupRelatedStories(items){const groups=[];const ordered=[...items].sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0));for(const item of ordered){const tokens=storyTokens(item);let target=null;for(const group of groups){if(group.items.some(x=>x.publisher===item.publisher))continue;const age=Math.abs((Date.parse(item.publishedAt)||0)-(Date.parse(group.items[0].publishedAt)||0));if(age>48*3600000)continue;const other=group.tokens;const shared=tokens.filter(w=>other.has(w)).length;const score=shared/Math.max(1,Math.min(tokens.length,other.size));if(shared>=3&&score>=0.62){target=group;break}}if(target){target.items.push(item);for(const t of tokens)target.tokens.add(t)}else groups.push({items:[item],tokens:new Set(tokens)})}return groups}
-function draw(){let rows=visibleData().filter(a=>(topic==="All"||a.category===topic)&&[a.title,a.summary,a.publisher,a.category,a.subcategory].join(" ").toLowerCase().includes(query));rows.sort((a,b)=>(order==="newest"?-1:1)*((Date.parse(a.publishedAt)||0)-(Date.parse(b.publishedAt)||0)));const grouped=groupRelatedStories(rows);$("cards").innerHTML=grouped.map((group,index)=>{const a=group.items[0];const sources=group.items;const sourceLinks="";return `<article class="card"><a class="thumb story-link" href="article.html?url=${encodeURIComponent(a.url)}" aria-label="Preview: ${esc(a.title)}">${a.image?`<img src="${esc(a.image)}" alt="" width="640" height="360" loading="${index===0?"eager":"lazy"}" decoding="async" fetchpriority="${index===0?"high":"low"}" onerror="this.remove()">`:"A"}</a><div class="body"><div class="meta"><a class="pill" href="topic.html?category=${encodeURIComponent(a.category)}">${esc(a.category)}</a>${a.subcategory?`<a class="sub-pill" href="topic.html?category=${encodeURIComponent(a.category)}&subcategory=${encodeURIComponent(a.subcategory)}">${esc(a.subcategory)}</a>`:""}${date(a.publishedAt)}</div><h3><a class="story-link" href="article.html?url=${encodeURIComponent(a.url)}">${esc(a.title)}</a></h3><p>${esc(a.summary||"Open the preview to find the original story.")}</p><div class="bottom"><span class="publisher">${esc(a.publisher||"Publisher")}${sources.length>1?" + "+(sources.length-1):""}</span><a class="read" href="article.html?url=${encodeURIComponent(a.url)}">Read preview →</a></div>${sourceLinks}</div></article>`}).join("");$("count").textContent=`${grouped.length} ${grouped.length===1?"story":"stories"}`; $("empty").hidden=grouped.length>0;$("cards").hidden=grouped.length===0;$("feed-title").textContent=topic==="All"?(query?"Search results":"Latest stories"):topic}function initTopics(){$("topics-list").innerHTML=cats.map(c=>`<button class="topic ${c==="All"?"active":""}" data-topic="${esc(c)}">${c==="All"?"✳":"✦"} &nbsp;${esc(c==="All"?"All stories":c)}</button>`).join("");$("topics-list").addEventListener("click",e=>{let b=e.target.closest("[data-topic]");if(!b)return;topic=b.dataset.topic;document.querySelectorAll(".topic").forEach(x=>x.classList.toggle("active",x===b));draw()})}async function load(){try{let r=await fetch("data/articles.json",{cache:"no-cache"});if(!r.ok)throw Error();let j=await r.json();data=Array.isArray(j.articles)?j.articles:[];drawTrends();$("status").textContent=data.length?`Feed last updated: ${date(j.updatedAt)}.`:"Articlea is ready. Run the RSS collector to bring stories into this feed."}catch{$("status").textContent="Article data is not available yet. The RSS collector will populate this feed."}draw()}$("search").addEventListener("submit",e=>e.preventDefault());$("q").addEventListener("input",e=>{query=e.target.value.trim().toLowerCase();draw()});$("sort").addEventListener("change",e=>{order=e.target.value;draw()});$("clear").addEventListener("click",()=>{topic="All";query="";$("q").value="";document.querySelectorAll(".topic").forEach(x=>x.classList.toggle("active",x.dataset.topic==="All"));draw()});$("year").textContent=new Date().getFullYear();document.addEventListener("articlea:countrychange",e=>{currentCountry=e.detail?.country||"GLOBAL";drawTrends();draw()});load();
+const PAGE_SIZE=30;
+const cats=["All","World News","Sports","Entertainment","Technology","Gaming"];
+let data=[],topic="All",query="",order="newest",currentCountry=window.articleaCountry||"GLOBAL";
+let page=0,totalPages=0,archiveLoaded=false,loading=false,displayLimit=30,updatedAt="";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function date(s){const d=new Date(s);return isNaN(d)?"Recently":d.toLocaleDateString(undefined,{month:"short",day:"numeric",year:"numeric"})}
+function visibleData(){return data.filter(a=>!Array.isArray(a.regions)||a.regions.includes("GLOBAL")||a.regions.includes(currentCountry))}
+const stopWords=new Set(["the","and","for","with","from","that","this","after","before","into","over","under","about","says","said","news","report","reports","latest","what","when","where","how","why","who","has","have","will","could","would","should","their","your","our","new","more","than","its","are","was","were","is","to","of","in","on","at","by","as","an","a"]);
+function storyTokens(a){return (String(a.title||"").toLowerCase().match(/[a-z0-9]{3,}/g)||[]).filter(w=>!stopWords.has(w))}
+function groupRelatedStories(items){
+ const groups=[],ordered=[...items].sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0));
+ for(const item of ordered){
+  const tokens=storyTokens(item);let target=null;
+  for(const group of groups){
+   if(group.items.some(x=>x.publisher===item.publisher))continue;
+   const age=Math.abs((Date.parse(item.publishedAt)||0)-(Date.parse(group.items[0].publishedAt)||0));
+   if(age>48*3600000)continue;
+   const shared=tokens.filter(w=>group.tokens.has(w)).length,score=shared/Math.max(1,Math.min(tokens.length,group.tokens.size));
+   if(shared>=3&&score>=0.62){target=group;break}
+  }
+  if(target){target.items.push(item);for(const t of tokens)target.tokens.add(t)}
+  else groups.push({items:[item],tokens:new Set(tokens)});
+ }
+ return groups;
+}
+function skeletonMarkup(count){return Array.from({length:count},()=>'<article class="card skeleton-card" aria-hidden="true"><div class="skeleton-thumb"></div><div class="skeleton-body"><i class="skeleton-line short"></i><i class="skeleton-line"></i><i class="skeleton-line medium"></i><i class="skeleton-line tiny"></i></div></article>').join("")}
+function currentGroups(){
+ let rows=visibleData().filter(a=>(topic==="All"||a.category===topic)&&[a.title,a.summary,a.publisher,a.category,a.subcategory].join(" ").toLowerCase().includes(query));
+ rows.sort((a,b)=>(order==="newest"?-1:1)*((Date.parse(a.publishedAt)||0)-(Date.parse(b.publishedAt)||0)));
+ return groupRelatedStories(rows);
+}
+function render(){
+ const grouped=currentGroups(),shown=grouped.slice(0,displayLimit);
+ $("cards").innerHTML=shown.map((group,index)=>{
+  const a=group.items[0],sources=group.items;
+  return `<article class="card"><a class="thumb story-link" href="article.html?url=${encodeURIComponent(a.url)}" aria-label="Preview: ${esc(a.title)}">${a.image?`<img src="${esc(a.image)}" alt="" width="640" height="360" loading="${index===0?"eager":"lazy"}" decoding="async" fetchpriority="${index===0?"high":"low"}" onerror="this.remove()">`:"A"}</a><div class="body"><div class="meta"><a class="pill" href="topic.html?category=${encodeURIComponent(a.category)}">${esc(a.category)}</a>${a.subcategory?`<a class="sub-pill" href="topic.html?category=${encodeURIComponent(a.category)}&subcategory=${encodeURIComponent(a.subcategory)}">${esc(a.subcategory)}</a>`:""}${date(a.publishedAt)}</div><h3><a class="story-link" href="article.html?url=${encodeURIComponent(a.url)}">${esc(a.title)}</a></h3><p>${esc(a.summary||"Open the preview to find the original story.")}</p><div class="bottom"><span class="publisher">${esc(a.publisher||"Publisher")}${sources.length>1?" + "+(sources.length-1):""}</span><a class="read" href="article.html?url=${encodeURIComponent(a.url)}">Read preview →</a></div></div></article>`;
+ }).join("");
+ $("count").textContent=`${shown.length} stories shown`;
+ $("empty").hidden=shown.length>0;
+ $("cards").hidden=shown.length===0;
+ $("feed-title").textContent=topic==="All"?(query?"Search results":"Latest stories"):topic;
+ $("status").textContent=updatedAt?`Feed last updated: ${date(updatedAt)}.`:"";
+ const more=page<totalPages&&!archiveLoaded;
+ $("load-more").hidden=!more;
+ $("end-feed").hidden=more||loading||shown.length===0;
+}
+async function fetchNextPage(){
+ if(loading||archiveLoaded||page>=totalPages)return false;
+ loading=true;$("cards").insertAdjacentHTML("beforeend",skeletonMarkup(6));$("load-more-button").textContent="Loading…";
+ try{
+  const next=page+1,res=await fetch(`data/feed/page-${next}.json`,{cache:"no-cache"});
+  if(!res.ok)throw Error("Page unavailable");
+  const chunk=await res.json();data.push(...(Array.isArray(chunk.articles)?chunk.articles:[]));
+  page=Number(chunk.page)||next;totalPages=Number(chunk.pages)||totalPages;updatedAt=chunk.updatedAt||updatedAt;return true;
+ }catch{
+  try{
+   const res=await fetch("data/articles.json",{cache:"no-cache"});if(!res.ok)throw Error("Archive unavailable");
+   const archive=await res.json();data=Array.isArray(archive.articles)?archive.articles:[];updatedAt=archive.updatedAt||updatedAt;archiveLoaded=true;page=totalPages;return true;
+  }catch{$("status").textContent="We couldn't load more stories. Please check your connection and try again.";return false}
+ }finally{loading=false;$("load-more-button").textContent="Load more stories";render()}
+}
+async function ensureItems(target){
+ while(!archiveLoaded&&page<totalPages&&currentGroups().length<target){if(!await fetchNextPage())break}
+}
+async function loadArchive(){
+ if(archiveLoaded)return;
+ if(loading)await new Promise(resolve=>{const timer=setInterval(()=>{if(!loading){clearInterval(timer);resolve()}},80)});
+ if(archiveLoaded)return;
+ $("cards").innerHTML=skeletonMarkup(6);loading=true;
+ try{
+  const res=await fetch("data/articles.json",{cache:"no-cache"});if(!res.ok)throw Error();
+  const archive=await res.json();data=Array.isArray(archive.articles)?archive.articles:[];updatedAt=archive.updatedAt||updatedAt;archiveLoaded=true;page=totalPages;
+ }catch{$("status").textContent="Search is temporarily unavailable. Please try again."}
+ finally{loading=false;render()}
+}
+async function load(){
+ $("cards").innerHTML=skeletonMarkup(6);
+ try{
+  const res=await fetch("data/feed/page-1.json",{cache:"no-cache"});if(!res.ok)throw Error("First page not generated yet");
+  const chunk=await res.json();data=Array.isArray(chunk.articles)?chunk.articles:[];page=Number(chunk.page)||1;totalPages=Number(chunk.pages)||1;updatedAt=chunk.updatedAt||"";
+  render();await ensureItems(30);
+ }catch{
+  try{
+   const res=await fetch("data/articles.json",{cache:"no-cache"});if(!res.ok)throw Error();
+   const archive=await res.json();data=Array.isArray(archive.articles)?archive.articles:[];updatedAt=archive.updatedAt||"";archiveLoaded=true;page=totalPages;render();
+  }catch{$("cards").innerHTML="";$("status").textContent="Article data is not available yet. Please try again shortly."}
+ }
+}
+async function applyFilters(){
+ displayLimit=30;render();
+ if(query||order==="oldest"){await loadArchive();return}
+ await ensureItems(30);render();
+}
+$("search").addEventListener("submit",e=>e.preventDefault());
+$("q").addEventListener("input",async e=>{query=e.target.value.trim().toLowerCase();await applyFilters()});
+$("sort").addEventListener("change",async e=>{order=e.target.value;await applyFilters()});
+$("clear").addEventListener("click",async()=>{topic="All";query="";order="newest";$("q").value="";$("sort").value="newest";document.querySelectorAll(".topic").forEach(x=>x.classList.toggle("active",x.dataset.topic==="All"));displayLimit=30;render();await ensureItems(30);render()});
+$("load-more-button").addEventListener("click",async()=>{displayLimit+=30;render();await ensureItems(displayLimit);render()});
+$("year").textContent=new Date().getFullYear();
+document.addEventListener("articlea:countrychange",async e=>{currentCountry=e.detail?.country||"GLOBAL";displayLimit=30;render();await ensureItems(30);render()});
+if("IntersectionObserver"in window){
+ const observer=new IntersectionObserver(entries=>{if(entries.some(x=>x.isIntersecting)&&!loading&&page<totalPages&&!archiveLoaded){displayLimit+=30;render();ensureItems(displayLimit)}},{rootMargin:"700px"});
+ observer.observe($("load-more"));
+}
+load();
