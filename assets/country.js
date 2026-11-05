@@ -20,6 +20,7 @@
 
   const selectCountry = (country, remember = false) => {
     if (!supportedCountries.has(country)) return;
+    window.articleaCountry = country;
     codeLabel.textContent = country;
     toggle.setAttribute(
       "aria-label",
