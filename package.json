@@ -1,0 +1,8 @@
+{
+  "name": "articlea-feed-collector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"collect": "node scripts/collect-feeds.mjs"},
+  "dependencies": {"fast-xml-parser": "^4.5.3"}
+}
