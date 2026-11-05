@@ -128,11 +128,11 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
 // Anime News Network's RSS feed omits per-article thumbnails. Recover the
 // publisher's Open Graph image from each article page when the feed has none.
 function metaContent(html,property){
- const tags=html.match(/<meta\\b[^>]*>/gi)||[];
+ const tags=html.match(/<meta\b[^>]*>/gi)||[];
  for(const tag of tags){
-  const prop=tag.match(/(?:property|name)=[\\"']([^\\"']+)[\\"']/i)?.[1];
+  const prop=tag.match(/(?:property|name)=["']([^"']+)["']/i)?.[1];
   if(prop!==property)continue;
-  return tag.match(/content=[\\"']([^\\"']+)[\\"']/i)?.[1]||"";
+  return tag.match(/content=["']([^"']+)["']/i)?.[1]||"";
  }
  return "";
 }
