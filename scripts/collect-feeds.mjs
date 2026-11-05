@@ -8,7 +8,7 @@ const old=JSON.parse(await fs.readFile(path,"utf8").catch(()=>'{"articles":[]}')
 
 const arr=v=>v==null?[]:Array.isArray(v)?v:[v];
 const str=v=>typeof v==="string"?v:v&&typeof v==="object"?String(v["#text"]||""):"";
-const clean=v=>str(v).replace(/<[^>]*>/g," ").replace(/&amp;/g,"&").replace(/&nbsp;/g," ").replace(/&quot;/g,'"').replace(/&apos;|&#39;/g,"\'").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/\s+/g," ").trim();
+const clean=v=>{let value=str(v);const decode=s=>s.replace(/&(#x[0-9a-f]+|#\\d+|amp|lt|gt|quot|apos|nbsp);/gi,(match,entity)=>{const key=entity.toLowerCase();if(key==="amp")return "&";if(key==="lt")return "<";if(key==="gt")return ">";if(key==="quot")return '"';if(key==="apos")return "'";if(key==="nbsp")return " ";try{return key.startsWith("#x")?String.fromCodePoint(parseInt(key.slice(2),16)):key.startsWith("#")?String.fromCodePoint(parseInt(key.slice(1),10)):match}catch{return " "}});for(let i=0;i<2;i++)value=decode(value);value=value.replace(/<!--[\\s\\S]*?-->/g," ").replace(/<script\\b[^>]*>[\\s\\S]*?<\\/script>/gi," ").replace(/<style\\b[^>]*>[\\s\\S]*?<\\/style>/gi," ").replace(/<[^>]*>/g," ");value=decode(value);return value.replace(/<[^>]*>/g," ").replace(/https?:\\/\\/[^\\s]+/gi," ").replace(/\\s+/g," ").trim()};
 const url=v=>{try{let raw=str(v).replace(/&amp;amp;/g,"&").replace(/&amp;/g,"&").replace(/&#38;|&#x26;/gi,"&").trim();let u=new URL(raw);if(!["http:","https:"].includes(u.protocol))return "";u.hash="";for(const key of [...u.searchParams.keys()])if(/^(at_medium|at_campaign|utm_.+|fbclid|gclid|ref|source)$/i.test(key))u.searchParams.delete(key);return u.href}catch{return ""}};
 const titleKey=v=>clean(v).toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
 const map=new Map();
@@ -178,7 +178,7 @@ const sourceByName=new Map(cfg.sources.map(source=>[source.name,source]));
 const byStory=new Map();
 for(const a of map.values()){
  const category=classifyCategory(a,a.category);
- const item={...a,category,subcategory:classifySubcategory(a,category),regions:classifyRegions(a,sourceByName.get(a.publisher)||{region:"GLOBAL"})};
+ const item={...a,summary:clean(a.summary).slice(0,360),category,subcategory:classifySubcategory(a,category),regions:classifyRegions(a,sourceByName.get(a.publisher)||{region:"GLOBAL"})};
  const key=(item.publisher||"").toLowerCase()+"|"+titleKey(item.title);
  const prev=byStory.get(key);
  if(!prev||Date.parse(item.publishedAt)>Date.parse(prev.publishedAt))byStory.set(key,{...prev,...item,image:item.image||prev?.image});
