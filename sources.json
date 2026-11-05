@@ -35,6 +35,12 @@
       "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "World News",
       "enabled": true
+    },
+    {
+      "name": "PC Gamer",
+      "feed": "https://www.pcgamer.com/rss/",
+      "category": "Gaming",
+      "enabled": true
     }
   ]
 }
