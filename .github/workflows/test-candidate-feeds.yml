@@ -1,4 +1,5 @@
 name: Test candidate publisher feeds
+# Temporary feed diagnostics; remove after this one-off run.
 on:
   push:
     paths:
