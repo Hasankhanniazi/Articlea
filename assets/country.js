@@ -18,17 +18,19 @@
     if (firstOption) firstOption.focus();
   };
 
-  const selectCountry = country => {
+  const selectCountry = (country, remember = false) => {
     if (!supportedCountries.has(country)) return;
     codeLabel.textContent = country;
     toggle.setAttribute(
       "aria-label",
       country === "PK" ? "Country: Pakistan. Change country" : "Country: United States. Change country"
     );
-    try {
-      localStorage.setItem(storageKey, country);
-    } catch {
-      // Keep the selection for this page view if browser storage is unavailable.
+    if (remember) {
+      try {
+        localStorage.setItem(storageKey, country);
+      } catch {
+        // Keep the selection for this page view if browser storage is unavailable.
+      }
     }
     closeMenu();
     dialog.hidden = true;
@@ -50,7 +52,7 @@
   });
 
   document.querySelectorAll("[data-country]").forEach(button => {
-    button.addEventListener("click", () => selectCountry(button.dataset.country));
+    button.addEventListener("click", () => selectCountry(button.dataset.country, true));
   });
 
   let savedCountry = "";
