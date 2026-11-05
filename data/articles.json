@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-05T12:22:13.057Z",
+  "updatedAt": "2026-11-05T12:50:53.555Z",
   "articles": [
+    {
+      "title": "The Cat in the Hat Movie’s Biggest Book Change Gets Explained By the Director",
+      "url": "https://www.cbr.com/cat-in-the-hat-2026-movie-book-change-job-explained/",
+      "summary": "The Cat in the Hat directors discuss the 2026 animated film’s new backstory, Bill Hader’s performance and the potato-on-a-string scene.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T12:45:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/07/cat-in-the-hat-movie-2026.jpg"
+    },
+    {
+      "title": "English female coach Kaminski reaping rewards in Norway",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
+      "summary": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T12:38:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"
+    },
+    {
+      "title": "How America voted in maps and charts",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T12:32:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "title": "10 Greatest American Classic Books Everyone Has To Read At Least Once",
+      "url": "https://www.cbr.com/best-american-classics-everyone-needs-to-read-list/",
+      "summary": "Many books written by Americans are considered among the best in the world, but these ten are absolute classics that everyone should read.",
+      "publisher": "Comic Book Resources",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T12:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/01/leonardo-dicaprio-the-great-gatsby.jpg"
+    },
+    {
+      "title": "Ronaldo retires from Portugal duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "publisher": "BBC World News",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T12:28:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
+    },
+    {
+      "title": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
+      "summary": "Intel has promised to do it itself, but Linux devs are an impatient bunch.",
+      "publisher": "PC Gamer",
+      "category": "Technology",
+      "publishedAt": "2026-11-05T12:26:37.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xqNYPKPfuhqvZCqbXacdTR-1920-80.jpg"
+    },
+    {
+      "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
+      "summary": "Channel 4 will reinvest the show's budget in \"distinctive new programming\" and said sorry again to the women involved.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T12:26:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1c79/live/85630fb0-7602-11f1-b976-0b9c15b0ccfc.png"
+    },
     {
       "title": "How to follow the Premier League on the BBC this weekend",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
@@ -20,11 +83,20 @@
       "image": "https://cdn.mos.cms.futurecdn.net/cGvg75BzHjKXRa6iF2zieP-1920-80.jpg"
     },
     {
+      "title": "Stone to be laid for Mobo founder Kanya King",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4yvv33wqgo?at_medium=RSS&at_campaign=rss",
+      "summary": "King tirelessly championed music of black origin, and funded the first awards out of her own pocket.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T12:09:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6be9/live/a4202b90-d90d-11f1-94c6-3f8050561bf5.jpg"
+    },
+    {
       "title": "10 Greatest Action Movies of All Time, According to Letterboxd",
       "url": "https://www.cbr.com/best-action-movies-of-all-time-letterboxd-list/",
       "summary": "There are countless incredible action movies, but, according to Letterboxd, these 10 masterpieces stand at the top of the genre.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T12:00:12.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/arnold-schwarzenegger-on-a-motorcycle-in-terminator-2_-judgment-day.jpg"
     },
@@ -36,15 +108,6 @@
       "category": "Anime & Comics",
       "publishedAt": "2026-11-05T12:00:12.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/10-funniest-far-side-comics-featuring-rhinos-ranked.jpg"
-    },
-    {
-      "title": "Ronaldo retires from Portugal duty",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-05T11:56:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
     },
     {
       "title": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
@@ -123,7 +186,7 @@
       "url": "https://www.cbr.com/cbs-burying-kayce-dutton-yellowstone-formula/",
       "summary": "CBS continues to ignore one of Kayce Dutton's best qualities, and it may be crucial to Marshal's continued success in Season 2.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T11:00:13.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/luke-grimes-wears-a-cowboy-hat-as-kayce-dutton-in-season-1-of-marshals.jpg"
     },
@@ -132,7 +195,7 @@
       "url": "https://www.cbr.com/open-range-kevin-costner-best-quote-western-movie-history/",
       "summary": "Kevin Costner’s best-known Western may be Dances with Wolves, but his work in a 2003 underseen classic gave the genre its greatest quote.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T11:00:13.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/06/kevin-costner-in-open-range.jpg"
     },
@@ -153,15 +216,6 @@
       "category": "World News",
       "publishedAt": "2026-11-05T10:33:21.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
-      "summary": "Channel 4 will reinvest the show's budget in \"distinctive new programming\" and said sorry again to the women involved.",
-      "publisher": "BBC Entertainment & Arts",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-05T10:30:03.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1c79/live/85630fb0-7602-11f1-b976-0b9c15b0ccfc.png"
     },
     {
       "title": "France gears up for strikes and protests as unions promise national mobilisation",
@@ -213,7 +267,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
       "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
       "publisher": "BBC World News",
-      "category": "World News",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T09:04:42.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/434b/live/650744e0-d8ed-11f1-a701-fddedf244c16.jpg"
     },
@@ -303,7 +357,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c3vgxzpw9y74o?at_medium=RSS&at_campaign=rss",
       "summary": "The \"Batpod\" features in a chase scene with Christian Bale's Batman and Heath Ledger's Joker.",
       "publisher": "BBC Entertainment & Arts",
-      "category": "Entertainment",
+      "category": "Anime & Comics",
       "publishedAt": "2026-11-05T06:15:25.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9b53/live/27de8fa0-d6c3-11f1-ac20-7783925c811f.jpg"
     },
@@ -321,7 +375,7 @@
       "url": "https://www.cbr.com/cat-in-the-hat-ryan-gaffney-pig-in-a-wig-voice-cast/",
       "summary": "Ryan Gaffney voices Pig in a Wig in The Cat in the Hat. The filmmakers discuss casting and Matt Berry's performance as Waffles.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T06:08:40.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/07/new-cat-in-the-hat-movie.jpg"
     },
@@ -348,7 +402,7 @@
       "url": "https://www.cbr.com/cat-in-the-hat-review/",
       "summary": "Warner Bros.’ 2026 animated movie pairs Xochitl Gomez and Matt Berry with a playful story about creativity and family.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T05:55:54.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/two-kids-and-the-cat-sitting-on-a-red-couch-with-mechanical-legs-and-levers-from-the-cat-in-the-hat-movie-2026.jpg"
     },
@@ -384,7 +438,7 @@
       "url": "https://www.cbr.com/netflix-the-eternaut-dystopian-sci-fi-event/",
       "summary": "Netflix's hit sci-fi adaptation, The Eternaut, returns for a second season in 2027, promising a bigger budget and an expanded storyline.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T04:30:12.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/ricardo-darin-in-outdoor-protective-gear-from-the-eternaut.jpg"
     },
@@ -393,7 +447,7 @@
       "url": "https://www.cbr.com/charles-schulz-peanuts-world-domination/",
       "summary": "Discover how Charles Schulz's Peanuts evolved over the years, turning the likes of Snoopy and Charlie Brown into pop culture icons.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "World News",
       "publishedAt": "2026-11-05T04:30:12.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/07/how-charles-schultz-s-peanuts-took-the-world-by-storm.jpg"
     },
@@ -411,7 +465,7 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-wandance-film-trailer-previews-theme-song-dance-scenes/.243536",
       "summary": "Film opens in Japan on November 27",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T04:21:18.000Z",
       "image": null
     },
@@ -420,7 +474,7 @@
       "url": "https://www.cbr.com/hunt-for-gollum-sam-heughan-casting-rumor-lotr-formula/",
       "summary": "A fantasy television star is rumored to appear in The Hunt for Gollum, revealing a major change to The Lord of the Rings' casting trends.",
       "publisher": "Comic Book Resources",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T04:15:12.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/gandalf-looking-at-aragorn.jpg"
     },
@@ -483,7 +537,7 @@
       "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
       "summary": "Shattered Legends is a six-episode miniseries that will debut later this month.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T01:52:06.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/rPWcLihwLSBCYkDefAYJ7R-1920-80.jpg"
     },
@@ -492,7 +546,7 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503",
       "summary": "Film opened in Japan in June 2024",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T01:30:45.000Z",
       "image": null
     },
@@ -501,7 +555,7 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535",
       "summary": "Film sold 590,000 tickets for 910 million yen on Tuesday opening",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-05T01:28:12.000Z",
       "image": null
     },
@@ -555,7 +609,7 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-mashle-magic-and-muscles-film-reveals-cast-director/.243531",
       "summary": "Mackenyu Maeda stars as Mash Burnedead with Gintama's Yūichi Fukuda directing",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-04T23:26:04.000Z",
       "image": null
     },
@@ -699,7 +753,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
       "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
       "publisher": "BBC Technology",
-      "category": "Technology",
+      "category": "World News",
       "publishedAt": "2026-11-04T21:41:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg"
     },
@@ -717,7 +771,7 @@
       "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
       "summary": "Voters across the country opted for nearly every local ballot measure that would curb the rate of data center expansion.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "World News",
       "publishedAt": "2026-11-04T21:10:10.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/kt57iQemDCCMVmXLVecZXf-1920-80.jpg"
     },
@@ -735,7 +789,7 @@
       "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
       "summary": "The STJV union says Microsoft imposed hiring freezes at Arkane that resulted in delays and additional expenses, which it then cited as reasons for shutting it down.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-04T20:51:28.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/9T4FzWUTqHonQG2a65VZak-1920-80.jpg"
     },
@@ -753,7 +807,7 @@
       "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
       "summary": "Susie Lee has clearly been waiting for this moment.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "World News",
       "publishedAt": "2026-11-04T19:21:48.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/rbvNJm56oM36V2FFnnUWfC-1920-80.jpg"
     },
@@ -834,7 +888,7 @@
       "url": "https://www.pcgamer.com/games/nexus-mods-takes-the-valve-approach-to-ai-generated-content-no-outright-bans-but-mandatory-disclosures/",
       "summary": "And it says it already knows not everyone will play nice.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-04T17:12:53.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/pnReekZs3N2K9g2kZmMYt7-1920-80.jpg"
     },
@@ -843,7 +897,7 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/reincarnated-as-a-sword-season-2-anime-reveals-trailer-visual-cast-for-seedrun-arc/.243523",
       "summary": "Satsuki Kokubu, Yurie Kozakai, Hazuki Ogino, Sayumi Suzushiro, Katsuyuki Konishi join cast",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-04T17:00:45.000Z",
       "image": null
     },
@@ -852,7 +906,7 @@
       "url": "https://www.animenewsnetwork.com/review/game/nintendo-switch-playstation-5-microsoft-windows-xbox-series-x-and-series-s/castlevania/belmont-curse/.243431",
       "summary": "Konami, Evil Empire, and Motion Twin seemed to hit it off on the first date, and decided to give it another shot with a far more ambitious project.",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Gaming",
       "publishedAt": "2026-11-04T17:00:00.000Z",
       "image": null
     },
@@ -861,7 +915,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
       "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
       "publisher": "BBC World News",
-      "category": "World News",
+      "category": "Sports",
       "publishedAt": "2026-11-04T16:40:38.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
     },
@@ -870,7 +924,7 @@
       "url": "https://www.pcgamer.com/hardware/memory/how-can-prices-fall-when-theres-nothing-left-teamgroup-ceo-reckons-supply-demand-memory-equilibrium-may-not-happen-until-late-2028-at-the-earliest/",
       "summary": "\"Right now you can still buy goods, they're just expensive. In a little while, you may not be able to buy goods at all.\"",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-04T16:39:11.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/uBfmjnPA5yrszBDS5EtWKZ-1920-80.jpg"
     },
@@ -942,7 +996,7 @@
       "url": "https://www.pcgamer.com/hardware/pc-cases/formula-v-line-air-power-g10-review/",
       "summary": "A sleek case with some less-than-sleek issues.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-04T15:53:08.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/rgoWGqK6XJeZxTXJYK8bfQ-1920-80.jpg"
     },
@@ -960,7 +1014,7 @@
       "url": "https://www.animenewsnetwork.com/review/overgeared/episode-6/.243516",
       "summary": "If the show is determined to on the unenviable task of crafting Grid into a more likeable person, it sure has a lot it needs to prove.",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-04T14:30:00.000Z",
       "image": null
     },
@@ -996,7 +1050,7 @@
       "url": "https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-5/.243501",
       "summary": "From my early childhood sequestering via exceptionalism to world-framing college experiences, Nia Liston depicts some of the most formative moments of my life.",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-04T13:30:00.000Z",
       "image": null
     },
@@ -1005,7 +1059,7 @@
       "url": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
       "summary": "Intel's expecting to hit $15 - $16 billion for Q4 2026, while AMD is looking at an impressive $17 billion.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-04T12:40:51.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/V9LdBo4DrpBFbnbAfjfyWA-1920-80.jpg"
     },
@@ -1014,7 +1068,7 @@
       "url": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-5/.243499",
       "summary": "Fans of hot springs antics will be pleased, especially with all the details afforded to OceanVeil subscribers. However, uncensored bathing is not all this episode offers.",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Entertainment",
       "publishedAt": "2026-11-04T12:30:00.000Z",
       "image": null
     },
@@ -1050,7 +1104,7 @@
       "url": "https://www.pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions/",
       "summary": "I'm feeling fresh appreciation for my company's mandatory cybersecurity awareness course.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-04T11:12:58.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/eDGcGRApH6Ut5G9XMKVRHB-1920-80.jpg"
     },
@@ -1098,15 +1152,6 @@
       "category": "Sports",
       "publishedAt": "2026-11-04T09:55:26.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/11e5/live/84926a10-d82a-11f1-be97-417dbcdedd32.jpg"
-    },
-    {
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-04T09:53:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
     },
     {
       "title": "Why is it going so wrong for Le Bris at Sunderland?",
@@ -1176,7 +1221,7 @@
       "url": "https://www.animenewsnetwork.com/interest/2026-11-03/travel-back-in-time-with-zelda-easter-egg-on-google/.243471",
       "summary": "Will you take on the mantle of \"Hero of Time?\"",
       "publisher": "Anime News Network",
-      "category": "Anime & Comics",
+      "category": "Gaming",
       "publishedAt": "2026-11-04T01:00:00.000Z",
       "image": null
     },
@@ -1284,7 +1329,7 @@
       "url": "https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
       "summary": "Mamdani and others have called out Google's decision to disable search functionality for schools who opt out of its AI tools.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-03T22:58:03.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/yy7kuH4T4FoMBC4UJHgSdj-1920-80.jpg"
     },
@@ -1347,7 +1392,7 @@
       "url": "https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/",
       "summary": "Itch.io has also expanded its AI filters, enabling users to exclude games made with different types of generative AI.",
       "publisher": "PC Gamer",
-      "category": "Gaming",
+      "category": "Technology",
       "publishedAt": "2026-11-03T17:57:30.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/MzEmQe5m4W2B8ccsdcNUCU-1920-80.jpg"
     },
@@ -1464,7 +1509,7 @@
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "publisher": "BBC World News",
-      "category": "World News",
+      "category": "Entertainment",
       "publishedAt": "2026-11-03T00:09:13.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg"
     },
@@ -1509,7 +1554,7 @@
       "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
       "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
       "publisher": "BBC World News",
-      "category": "World News",
+      "category": "Technology",
       "publishedAt": "2026-11-02T17:34:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7ffe/live/f76751a0-d6ee-11f1-93e1-3b657b665bcf.png"
     },
@@ -1518,7 +1563,7 @@
       "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
       "publisher": "BBC World News",
-      "category": "World News",
+      "category": "Technology",
       "publishedAt": "2026-11-02T14:24:25.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg"
     },
@@ -1608,7 +1653,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
       "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
       "publisher": "BBC Entertainment & Arts",
-      "category": "Entertainment",
+      "category": "Gaming",
       "publishedAt": "2026-10-30T07:45:00.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg"
     },
