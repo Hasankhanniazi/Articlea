@@ -1,5 +1,5 @@
 name: Test candidate publisher feeds
-# Temporary feed diagnostics; remove after this one-off run.
+# Temporary feed diagnostics; parser compatibility retest.
 on:
   push:
     paths:
