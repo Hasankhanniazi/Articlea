@@ -125,6 +125,34 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
  console.log("Collected",s.name);
  }catch(e){console.warn("Skipped",s.name,e.message)}}
 
+// Anime News Network's RSS feed omits per-article thumbnails. Recover the
+// publisher's Open Graph image from each article page when the feed has none.
+function metaContent(html,property){
+ const tags=html.match(/<meta\\b[^>]*>/gi)||[];
+ for(const tag of tags){
+  const prop=tag.match(/(?:property|name)=[\\"']([^\\"']+)[\\"']/i)?.[1];
+  if(prop!==property)continue;
+  return tag.match(/content=[\\"']([^\\"']+)[\\"']/i)?.[1]||"";
+ }
+ return "";
+}
+async function recoverAnnImages(){
+ const missing=[...map.values()].filter(a=>a.publisher==="Anime News Network"&&!a.image&&a.url);
+ for(let i=0;i<missing.length;i+=5){
+  await Promise.all(missing.slice(i,i+5).map(async article=>{
+   try{
+    const response=await fetch(article.url,{headers:{"user-agent":"Mozilla/5.0 (compatible; Articlea RSS reader)","accept":"text/html"},signal:AbortSignal.timeout(10000)});
+    if(!response.ok)return;
+    const html=await response.text();
+    const image=metaContent(html,"og:image")||metaContent(html,"twitter:image");
+    if(image)map.set(article.url,{...article,image:imageUrl(image)});
+   }catch(e){console.warn("Image lookup skipped",article.url,e.message)}
+  }));
+ }
+ console.log("Recovered ANN thumbnails",missing.filter(a=>map.get(a.url)?.image).length,"of",missing.length);
+}
+await recoverAnnImages();
+
 // Reclassify the complete retained archive as well as newly collected stories.
 const articles=[...map.values()].map(a=>{const category=classifyCategory(a,a.category);return {...a,category,subcategory:classifySubcategory(a,category)}})
  .sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0)).slice(0,500);
