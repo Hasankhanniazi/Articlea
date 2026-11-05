@@ -27,10 +27,10 @@ jobs:
       - run: npm run collect
       - name: Commit refreshed data
         run: |
-          if [[ -n "$(git status --porcelain data/articles.json)" ]]; then
+          if [[ -n "$(git status --porcelain data/)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+users.noreply.github.com"
-            git add data/articles.json
+            git add data/
             git commit -m "Refresh collected articles"
             git push
           else
