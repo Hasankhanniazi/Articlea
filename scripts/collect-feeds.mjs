@@ -185,5 +185,14 @@ for(const a of map.values()){
  else if(!prev.image&&item.image)byStory.set(key,{...prev,image:item.image});
 }
 const articles=[...byStory.values()].sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0)).slice(0,5000);
-await fs.writeFile(path,JSON.stringify({updatedAt:new Date().toISOString(),articles},null,2)+"\n");
+const updatedAt=new Date().toISOString();
+await fs.writeFile(path,JSON.stringify({updatedAt,articles},null,2)+"\\n");
+const pageSize=30,feedDir="data/feed";
+await fs.mkdir(feedDir,{recursive:true});
+const pages=Math.ceil(articles.length/pageSize);
+for(let i=0;i<pages;i++){
+ const payload={updatedAt,page:i+1,pages,total:articles.length,articles:articles.slice(i*pageSize,(i+1)*pageSize)};
+ await fs.writeFile(`${feedDir}/page-${i+1}.json`,JSON.stringify(payload)+"\\n");
+}
+for(let i=pages+1;i<=Math.ceil(5000/pageSize);i++)await fs.rm(`${feedDir}/page-${i}.json`,{force:true});
 console.log("Saved",articles.length,"unique articles with automatic categories.");
