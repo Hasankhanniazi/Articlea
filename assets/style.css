@@ -320,3 +320,20 @@ header{justify-content:space-between;gap:12px}
 .publisher-read-links{display:flex;flex-wrap:wrap;gap:9px}
 .publisher-read-links .detail-readmore{align-items:center;justify-content:center;text-align:center}
 @media(max-width:560px){.publisher-read-links{flex-direction:column}.publisher-read-links .detail-readmore{width:100%;box-sizing:border-box}}
+
+
+/* Article feed skeleton placeholders and progressive loading */
+.skeleton-card{overflow:hidden;pointer-events:none}
+.skeleton-thumb,.skeleton-line{background:linear-gradient(90deg,#edf0f3 25%,#f7f8fa 38%,#edf0f3 62%);background-size:400% 100%;animation:articlea-shimmer 1.35s ease infinite}
+.skeleton-thumb{width:104px;height:100px;min-width:104px;flex:0 0 104px}
+.skeleton-body{padding:12px;display:flex;flex:1;min-width:0;flex-direction:column;gap:10px}
+.skeleton-line{display:block;height:9px;border-radius:8px;width:100%}
+.skeleton-line.short{width:32%;height:7px}
+.skeleton-line.medium{width:76%}
+.skeleton-line.tiny{width:48%;height:7px;margin-top:auto}
+@keyframes articlea-shimmer{0%{background-position:100% 0}100%{background-position:0 0}}
+.load-more{display:flex;justify-content:center;padding:22px 0}
+.load-more button{border:1px solid #dce5d4;background:#fff;color:#4e7337;border-radius:9px;padding:12px 20px;font-size:12px;font-weight:800;cursor:pointer}
+.load-more button:hover{background:#eff8e5}
+.end-feed{text-align:center;color:var(--muted);font-size:11px;padding:20px 0 30px}
+@media(prefers-reduced-motion:reduce){.skeleton-thumb,.skeleton-line{animation:none}}
