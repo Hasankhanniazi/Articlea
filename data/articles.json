@@ -1,4 +1,1220 @@
 {
-  "updatedAt": null,
-  "articles": []
+  "updatedAt": "2026-11-05T08:21:07.130Z",
+  "articles": [
+    {
+      "title": "England captain Kane signs new Bayern deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T08:12:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+    },
+    {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T08:07:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Italian chef fired after refusing to put pineapple on pizza",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+      "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T07:56:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a2/live/7cd3f370-d8ed-11f1-b7ca-cbaa67b24b8c.jpg"
+    },
+    {
+      "title": "World record 53 red cards shown in Brazilian youth game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+      "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T07:23:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
+    },
+    {
+      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T07:17:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T06:30:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "title": "Meet the people set for key role in deciding Man City fate",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T06:26:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Roger's colleagues step up after injury ends BBC presenter's running challenge",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0jy0jx7ro?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC North West Tonight's Roger Johnson says the response is \"what Children in Need is all about\".",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T06:25:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fe/live/e12a7fa0-d853-11f1-94f3-cf7d1e52bb8c.jpg"
+    },
+    {
+      "title": "Bike from Batman film could sell for £900,000",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxzpw9y74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"Batpod\" features in a chase scene with Christian Bale's Batman and Heath Ledger's Joker.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T06:15:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b53/live/27de8fa0-d6c3-11f1-ac20-7783925c811f.jpg"
+    },
+    {
+      "title": "Paul Chuckle prepares for stage debut at National Theatre",
+      "url": "https://www.bbc.co.uk/news/articles/cr89zjy9lvjko?at_medium=RSS&at_campaign=rss",
+      "summary": "Paul Elliott, 79, says stage acting is \"completely different\" to the comedy of the Chuckle Brothers.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T06:09:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6b/live/54470d30-4ed1-11f1-91ee-f79d495dca9f.jpg"
+    },
+    {
+      "title": "The Cat in the Hat Filmmaker Reveals His Secret Role in the Movie",
+      "url": "https://www.cbr.com/cat-in-the-hat-ryan-gaffney-pig-in-a-wig-voice-cast/",
+      "summary": "Ryan Gaffney voices Pig in a Wig in The Cat in the Hat. The filmmakers discuss casting and Matt Berry's performance as Waffles.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T06:08:40.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/07/new-cat-in-the-hat-movie.jpg"
+    },
+    {
+      "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
+      "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T06:07:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2b4/live/cc13e260-d8ed-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Black Doves cast: 'Being on Traitors would drive us insane'",
+      "url": "https://www.bbc.co.uk/news/videos/c3qjnk4g5e42o?at_medium=RSS&at_campaign=rss",
+      "summary": "Black Doves cast: 'Being on Traitors would drive us insane'",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T06:06:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f99/live/7d3f8c20-d861-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "The Cat In The Hat Review: Bill Hader Leads a Charming Dr. Seuss Adventure",
+      "url": "https://www.cbr.com/cat-in-the-hat-review/",
+      "summary": "Warner Bros.’ 2026 animated movie pairs Xochitl Gomez and Matt Berry with a playful story about creativity and family.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T05:55:54.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/two-kids-and-the-cat-sitting-on-a-red-couch-with-mechanical-legs-and-levers-from-the-cat-in-the-hat-movie-2026.jpg"
+    },
+    {
+      "title": "10 Best Arcade Games Never Ported to Consoles",
+      "url": "https://www.cbr.com/best-arcade-games-no-console-port/",
+      "summary": "These arcade games should have been ported but never got the chance to live a new life on a difficult platform.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:45:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/1991-arcade-game-wwf-wrestlefest.jpg"
+    },
+    {
+      "title": "Spider-Man: Brand New Day Overtaken on Streaming by 94-Minute Horror Reboot",
+      "url": "https://www.cbr.com/resident-evil-spider-man-brand-new-day-apple-tv-success-november-2026/",
+      "summary": "This 2026 video game adaptation has dethroned Spider-Man: Brand New Day.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:35:09.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/spider-man-brand-new-day-tom-holland-struggling-with-new-powers.jpg"
+    },
+    {
+      "title": "Netflix's 96% RT Dystopian Thriller Is the Sci-Fi TV Event of the Decade",
+      "url": "https://www.cbr.com/netflix-the-eternaut-dystopian-sci-fi-event/",
+      "summary": "Netflix's hit sci-fi adaptation, The Eternaut, returns for a second season in 2027, promising a bigger budget and an expanded storyline.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/ricardo-darin-in-outdoor-protective-gear-from-the-eternaut.jpg"
+    },
+    {
+      "title": "How Charles Schulz's Peanuts Took the World by Storm",
+      "url": "https://www.cbr.com/charles-schulz-peanuts-world-domination/",
+      "summary": "Discover how Charles Schulz's Peanuts evolved over the years, turning the likes of Snoopy and Charlie Brown into pop culture icons.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/07/how-charles-schultz-s-peanuts-took-the-world-by-storm.jpg"
+    },
+    {
+      "title": "The Seven Knights of the Marronnier Kingdom Anime Casts Ryōta Takeuchi",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/the-seven-knights-of-the-marronnier-kingdom-anime-casts-ryota-takeuchi/.243538",
+      "summary": "Takeuchi plays character Saturno in episode 6 on Saturday",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:25:45.000Z",
+      "image": null
+    },
+    {
+      "title": "Live-Action Wandance Film's Trailer Previews Theme Song, Dance Scenes",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-wandance-film-trailer-previews-theme-song-dance-scenes/.243536",
+      "summary": "Film opens in Japan on November 27",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:21:18.000Z",
+      "image": null
+    },
+    {
+      "title": "The Hunt for Gollum's Latest Casting Rumor Signals a LOTR Shakeup",
+      "url": "https://www.cbr.com/hunt-for-gollum-sam-heughan-casting-rumor-lotr-formula/",
+      "summary": "A fantasy television star is rumored to appear in The Hunt for Gollum, revealing a major change to The Lord of the Rings' casting trends.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:15:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/gandalf-looking-at-aragorn.jpg"
+    },
+    {
+      "title": "7 Classic SNES Games That Aged Like Fine Wine",
+      "url": "https://www.cbr.com/masterpiece-snes-games-aged-well-list/",
+      "summary": "SNES games like Chrono Trigger and Super Mario World have aged flawlessly and are still must-play games today.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:15:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/12/snes-with-games-1.jpg"
+    },
+    {
+      "title": "Transformers Officially Gives Arcee a Major New G1 Upgrade",
+      "url": "https://www.cbr.com/transformers-missing-link-arcee-action-figure-release/",
+      "summary": "Transformers fans can finally own a G1 cartoon-accurate rendition of Arcee's final appearance through the latest Missing Link action figure.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T04:10:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/01/screenshot-2074.png"
+    },
+    {
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T03:47:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "5 Best Dark Fantasy Anime Movies of All Time, Ranked",
+      "url": "https://www.cbr.com/best-dark-fantasy-anime-movies-all-time-ranked/",
+      "summary": "The best dark fantasy anime movies are the ones with grim worlds, bleak events and heartbreaking storylines.",
+      "publisher": "Comic Book Resources",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T03:45:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/03/denji-cheers-in-front-of-a-cinema-in-chainsaw-man-the-movie_-reze-arc.jpg"
+    },
+    {
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T02:09:23.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063d/live/7f72f330-d8eb-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Yakuza Game Series Like A Dragon Infiltrates Roblox",
+      "url": "https://www.animenewsnetwork.com/interest/2026-11-04/yakuza-game-series-like-a-dragon-infiltrates-roblox/.243470",
+      "summary": "Everyone's favorite Yakuza game is making it to the blocky game platform",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T02:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Look Back Anime Film Wins Kineko Int'l Film Fest's Teens Feature Award",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503",
+      "summary": "Film opened in Japan in June 2024",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T01:30:45.000Z",
+      "image": null
+    },
+    {
+      "title": "Godzilla Minus Zero Earns Highest-Ever Opening Day for Live-Action Film in Japan",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535",
+      "summary": "Film sold 590,000 tickets for 910 million yen on Tuesday opening",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T01:28:12.000Z",
+      "image": null
+    },
+    {
+      "title": "Seven Seas Licenses Led by Stars Manga, Melting Point Manhwa, 3 Audiobooks",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/seven-seas-licenses-led-by-stars-manga-melting-point-manhwa-3-audiobooks/.243530",
+      "summary": "Beacon of Light in the Dark Sea , Dangers in My Heart , 7th Time Loop audiobooks",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-05T00:26:43.000Z",
+      "image": null
+    },
+    {
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T23:50:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/6fd142d0-d8a3-11f1-b29d-fbcd9d61c58e.jpg"
+    },
+    {
+      "title": "Live-Action Mashle: Magic and Muscles Film Reveals Cast, Director",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-mashle-magic-and-muscles-film-reveals-cast-director/.243531",
+      "summary": "Mackenyu Maeda stars as Mash Burnedead with Gintama's Yūichi Fukuda directing",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T23:26:04.000Z",
+      "image": null
+    },
+    {
+      "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T23:18:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T23:12:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg"
+    },
+    {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T22:48:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "title": "Como score nine to make Champions League history",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:45:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:38:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+    },
+    {
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T22:34:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e6/live/144f7f70-d89f-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Dortmund take narrow win over Real Betis",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:31:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Emphatic Porto thrash Napoli in second-half romp",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
+      "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:17:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Haaland scores winner as Man City beat Leipzig",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:15:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Arsenal survive late Slavia scare for hard-fought win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:10:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Liverpool crumble at Kuyt's Fenerbahce",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:04:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/f62b49e0-d888-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Bellingham backheel and Valverde rocket earn Real late win at AEK",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Real Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third loss in a row.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:04:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d7/live/94a0f1c0-d88d-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Manchester United beat Roma in epic second-half comeback",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester United drag themselves up off the canvas to come from two goals down to record a sensational Champions League victory against Roma at Old Trafford.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:04:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f345/live/60f9ebf0-d7da-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Raphinha scores twice as Barcelona beat Aston Villa",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona end Aston Villa's perfect Champions League start with an enthralling win at the Spotify Nou Camp.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:04:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Bayern continue unbeaten CL start with win at Atletico",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&at_campaign=rss",
+      "summary": "Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:03:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b194/live/26e1d1b0-d7d7-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Spence stars as Inter Milan cruise to win at Feyenoord",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:03:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:41:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg"
+    },
+    {
+      "title": "Emery in line for new Villa deal - Thursday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T21:41:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"
+    },
+    {
+      "title": "Make the Exorcist Fall in Love Manga Starts Final Arc",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/make-the-exorcist-fall-in-love-manga-starts-final-arc/.243514",
+      "summary": "Final arc starts in manga's 16th volume released on Wednesday",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T21:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Martial Arts Manhwa Artist Seung-nam Ha Dies at 68",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/martial-arts-manhwa-artist-seung-nam-ha-dies-at-68/.243512",
+      "summary": "Ha became 1st Korean comic artist to join Japan Cartoonists Association as full member in 2007",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T20:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "An island in mourning: Tenerife processes death of De Miguel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
+      "summary": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T18:51:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6896/live/80cda3d0-d880-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Sheryl Crow reveals 'incredible' Welsh heritage",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1701nl2lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The nine-time Grammy winner recalled visiting Wales for the first time in about 1990 with her parents.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-04T18:03:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d1/live/9a2d3090-d842-11f1-9a87-07a62b4549a2.jpg"
+    },
+    {
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T18:01:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg"
+    },
+    {
+      "title": "How landmark Everton compensation prevented Burnley record loss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T17:48:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
+    },
+    {
+      "title": "Pokémon Pokopia Game Adds Expansion Pass DLC Part 2 'Dazzling Decorations' on December 9",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-11-04/pokemon-pokopia-game-adds-expansion-pass-dlc-part-2-dazzling-decorations-on-december-9/.243522",
+      "summary": "The official X/Twitter account for the Pokémon franchise announced on Wednesday that the second part of the paid Expansion Pass DLC for Pok&eacute;mon...",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T17:30:11.000Z",
+      "image": null
+    },
+    {
+      "title": "Tributes paid to drummer with dozens of number ones",
+      "url": "https://www.bbc.co.uk/news/articles/c317kjwj18wzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amarillo singer Tony Christie says Clem Cattini was a \"world class\" musician and gentleman.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-04T17:23:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f086/live/2a22f6e0-d86f-11f1-85ab-b3cc3b5498c6.jpg"
+    },
+    {
+      "title": "Reincarnated as a Sword Season 2 Anime Reveals Trailer, Visual, Cast for Seedrun Arc",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/reincarnated-as-a-sword-season-2-anime-reveals-trailer-visual-cast-for-seedrun-arc/.243523",
+      "summary": "Satsuki Kokubu, Yurie Kozakai, Hazuki Ogino, Sayumi Suzushiro, Katsuyuki Konishi join cast",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T17:00:45.000Z",
+      "image": null
+    },
+    {
+      "title": "Castlevania: Belmont's Curse Game Review",
+      "url": "https://www.animenewsnetwork.com/review/game/nintendo-switch-playstation-5-microsoft-windows-xbox-series-x-and-series-s/castlevania/belmont-curse/.243431",
+      "summary": "Konami, Evil Empire, and Motion Twin seemed to hit it off on the first date, and decided to give it another shot with a far more ambitious project.",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T17:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T16:40:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
+    },
+    {
+      "title": "The young politicians with African roots making history in the US midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+      "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T16:34:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0fe/live/3a869c80-d85b-11f1-94f3-cf7d1e52bb8c.jpg"
+    },
+    {
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T16:26:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"
+    },
+    {
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T16:18:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+      "summary": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T16:12:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Yayū Murata Launches Kickstarter for Across the Strange Edge Manga's 2nd Volume, Deluxe Hardcover Omnibus",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/yayu-murata-launches-kickstarter-for-across-the-strange-edge-manga-2nd-volume-deluxe-hardcover-/.243521",
+      "summary": "Campaign to raise €7,000 launches on November 19",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Sugar Apple Fairy Tale's Miri Mikawa, Brave10's Kairi Shimotsuki Launch New Manga on November 24",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/sugar-apple-fairy-tale-miri-mikawa-brave10-kairi-shimotsuki-launch-new-manga-on-november-24/.243510",
+      "summary": "Mikawa writes, Shimotsuki draws Ryū no Kuni Gensō fantasy manga",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T15:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Overgeared ‒ Episode 6",
+      "url": "https://www.animenewsnetwork.com/review/overgeared/episode-6/.243516",
+      "summary": "If the show is determined to on the unenviable task of crafting Grid into a more likeable person, it sure has a lot it needs to prove.",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T14:30:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Everything you need to know from the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T14:05:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/883e/live/60c11c10-d8b3-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Interview: All Things Rakugo with Akane-banashi Lead Voice Actor Anna Nagase",
+      "url": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-all-things-rakugo-with-akane-banashi-lead-voice-actor-anna-nagase/.239696",
+      "summary": "Rising star Anna Nagase has rapidly established herself as one of modern anime's most compelling voice talents",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T14:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Sakamoto Holidays Manga Heads Towards Climax",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/sakamoto-holidays-manga-heads-towards-climax/.243496",
+      "summary": "Sakamoto Days spinoff series debuted in July 2024",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T13:46:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Nia Liston: The Merciless Maiden ‒ Episode 5",
+      "url": "https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-5/.243501",
+      "summary": "From my early childhood sequestering via exceptionalism to world-framing college experiences, Nia Liston depicts some of the most formative moments of my life.",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T13:30:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Even the Student Council Has Its Holes! ‒ Episode 5",
+      "url": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-5/.243499",
+      "summary": "Fans of hot springs antics will be pleased, especially with all the details afforded to OceanVeil subscribers. However, uncensored bathing is not all this episode offers.",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T12:30:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Real Madrid reach verbal agreement to sign Gabriel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+      "summary": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T11:49:23.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
+    },
+    {
+      "title": "Comedian Karen Dunbar cancels tour dates claiming promoter has not paid her",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn338mlyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dunbar claimed she had only been paid for five of her previous 39 tour dates, a claim disputed by promoter Breakneck Comedy.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-04T11:05:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4446/live/87211eb0-d83f-11f1-9a87-07a62b4549a2.jpg"
+    },
+    {
+      "title": "Celebrity hairstylist John Frieda dies aged 75",
+      "url": "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-04T10:52:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3c/live/4c8a3020-d83f-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Fleabag star offers rent-free flat to new writers",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1qmej086o?at_medium=RSS&at_campaign=rss",
+      "summary": "Phoebe Waller-Bridge is donating the accommodation to playwrights from underprivileged backgrounds.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-04T10:48:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd9/live/11a83860-d84b-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Reincarnation in the Game World Dan-Katsu Anime's Teaser Reveals More Cast, Theme Songs",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/reincarnation-in-the-game-world-dan-katsu-anime-teaser-reveals-more-cast-theme-songs/.243515",
+      "summary": "Ayaka Nanase, Kotone Izumi, Hikaru Iida, Chihaya Asakura join cast of January anime",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T09:59:56.000Z",
+      "image": null
+    },
+    {
+      "title": "How Carpenter has become Chelsea's surprise star",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T09:55:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e5/live/84926a10-d82a-11f1-be97-417dbcdedd32.jpg"
+    },
+    {
+      "title": "How America voted in maps and charts",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T09:53:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "title": "Why is it going so wrong for Le Bris at Sunderland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T08:27:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/cf211500-d6c1-11f1-ac20-7783925c811f.png"
+    },
+    {
+      "title": "Tears, celebrations and selfies: US midterms in pictures",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T08:05:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542e/live/f2cd3c50-d83c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T06:53:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4923/live/c29a9fb0-d82c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Butt Detective TV Anime Gets New Episodes Starting Next April",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/butt-detective-tv-anime-gets-new-episodes-starting-next-april/.243508",
+      "summary": "Previous batch of new episodes debuted on October 3",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T03:57:16.000Z",
+      "image": null
+    },
+    {
+      "title": "Promise Me the Spotlight Anime Unveils Teaser, Main Cast, Staff",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/promise-me-the-spotlight-anime-unveils-teaser-main-cast-staff/.243469",
+      "summary": "Haruna Mikawa, Taihi Kimura, Mai Kanno, Yukari Anzai star in studio TEAM TillDawn's anime",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T03:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Pero Pero★Sparkles Anime Reveals Cast, Staff, January Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506",
+      "summary": "Yuki Sakakihara, Mai Kanno, Ai Fairouz, Yōhei Azakami star",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T02:54:42.000Z",
+      "image": null
+    },
+    {
+      "title": "Kemono Jihen Manga's Climax Is 'Imminent'",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/kemono-jihen-manga-climax-is-imminent/.243495",
+      "summary": "Series to end in 26th volume",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T02:42:35.000Z",
+      "image": null
+    },
+    {
+      "title": "Travel Back in Time with Zelda Easter Egg on Google",
+      "url": "https://www.animenewsnetwork.com/interest/2026-11-03/travel-back-in-time-with-zelda-easter-egg-on-google/.243471",
+      "summary": "Will you take on the mantle of \"Hero of Time?\"",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Witch on the Holy Night Film Gets Manga Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/witch-on-the-holy-night-film-gets-manga-adaptation/.243494",
+      "summary": "Shikimori's Not Just a Cutie's Keigo Maki debuts manga on November 11",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T00:56:45.000Z",
+      "image": null
+    },
+    {
+      "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss",
+      "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-04T00:52:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8325/live/8fce9a20-d785-11f1-9440-953b82c8f55a.jpg"
+    },
+    {
+      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
+      "summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T00:27:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T00:04:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/9fa4f600-d844-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Kaeruno Erefante Launches Manga Diary of a Male Porn Star Sequel",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/kaeruno-erefante-launches-manga-diary-of-a-male-porn-star-sequel/.243477",
+      "summary": "AV Danyū Hajimemashita Reiwa-hen sequel manga launched on October 30",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-03T23:58:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Otaku Vampire's Love Bite Manga Gets TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/otaku-vampire-love-bite-manga-gets-tv-anime/.243498",
+      "summary": "\"Bloody romantic comedy\" from Kamisama Kiss creator Julietta Suzuki",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-03T23:41:39.000Z",
+      "image": null
+    },
+    {
+      "title": "Mashle: Magic and Muscles Manga Gets Live-Action Film on March 19",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/mashle-magic-and-muscles-manga-gets-live-action-film-on-march-19/.243497",
+      "summary": "Warner Brothers, Fuji TV, Credeus, Toho collaborate on project",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-03T23:20:53.000Z",
+      "image": null
+    },
+    {
+      "title": "Watari Sakou's Honey Trap Method Manga Ends on December 1",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-03/watari-sakou-honey-trap-method-manga-ends-on-december-1/.243466",
+      "summary": "Spy romance manga launched in March earlier this year",
+      "publisher": "Anime News Network",
+      "category": "Comics & Anime",
+      "publishedAt": "2026-11-03T23:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T20:30:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg"
+    },
+    {
+      "title": "How 'mogging' went from toxic term to mainstream",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-03T17:41:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d9/live/0bb69cf0-d826-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+      "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-03T16:34:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg"
+    },
+    {
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T16:19:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg"
+    },
+    {
+      "title": "Jury in Russell Brand rape trial begins considering verdicts",
+      "url": "https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&at_campaign=rss",
+      "summary": "The media personality has been on trial for three weeks, after pleading not guilty to all charges.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-03T14:50:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/f1e01d40-d778-11f1-9539-05485195b558.jpg"
+    },
+    {
+      "title": "The Crown star Josh O'Connor reacts to Bond rumours",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn7p1qpqno?at_medium=RSS&at_campaign=rss",
+      "summary": "BAFTA nominated actor Josh O'Connor says he is \"honoured\" by the speculation he could be next Bond.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-03T14:25:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6870/live/02f05e20-d787-11f1-9440-953b82c8f55a.jpg"
+    },
+    {
+      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T13:07:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg"
+    },
+    {
+      "title": "'I never enjoyed exercise at school as I was bullied' says DJ, ahead of 400-mile bike feat",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrm92jdpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Radio host Owain Wyn Evans hopes Children in Need bike challenge will inspire others to 'make a change'.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-03T11:33:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f8/live/6bb6ff60-d6d1-11f1-ac20-7783925c811f.jpg"
+    },
+    {
+      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T11:10:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f701/live/34eec070-d79f-11f1-84dd-e55f4bec0ecd.jpg"
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-03T08:33:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"
+    },
+    {
+      "title": "James Blunt on Traitors: I tried - and failed - to get banished",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg7l8p0ezgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The pop star on new music, The Traitors, and what really went down at James Acaster's banishment.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-03T06:33:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f08f/live/883c6e10-d760-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "David Bowie's Scottish links celebrated in new exhibition",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7ljr5grpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of items from Bowie's personal archive are set to go on display at the V&A in Dundee.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-03T06:08:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa71/live/9495ca20-d70c-11f1-9281-f371e4ecbbd5.jpg"
+    },
+    {
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-03T00:09:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg"
+    },
+    {
+      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-02T23:01:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f84/live/1a2cfac0-d710-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-02T22:54:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efed/live/79f70870-d70f-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Everton hold off Newcastle to move into seventh",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-02T22:44:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff55/live/2bdf6810-d76b-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-02T18:25:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg"
+    },
+    {
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-02T17:34:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffe/live/f76751a0-d6ee-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-02T14:24:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Martha Stewart says she 'really screwed up' with homeless Halloween costume",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The veteran lifestyle guru has deleted a photo of herself wearing torn clothes and dirt on her face.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-02T09:36:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7cc/live/d88a2d50-d6cd-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-02T07:42:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-01T08:09:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946c/live/79b0d500-d5cd-11f1-82ae-81055b9ae1cd.jpg"
+    },
+    {
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-01T01:37:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-10-31T16:49:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7499/live/ba968590-d4b2-11f1-88a4-835788f4f80e.jpg"
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-31T02:12:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Sir Patrick Stewart remembered as 'Mirfield's finest'",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qk2e9deqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tributes have been paid to the legendary Star Trek actor Sir Patrick Stewart, who was born in Mirfield.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-10-30T20:59:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f948/live/75d0a300-d46c-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T20:34:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg"
+    },
+    {
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T12:04:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "How video game remakes tap the power of nostalgia",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-10-30T07:45:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+      "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+      "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-10-30T03:57:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adb5/live/d10f2630-d44c-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Sir Patrick Stewart: A life in pictures",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-10-30T03:54:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85f7/live/793dcad0-d3ff-11f1-b497-e5f21e10c3e0.jpg"
+    },
+    {
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-27T20:30:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjwm9g.jpg"
+    },
+    {
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-20T19:45:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0phptg2.jpg"
+    },
+    {
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+      "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T19:45:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgj1dl.jpg"
+    },
+    {
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfw9y5.jpg"
+    },
+    {
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-10-03T01:00:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg"
+    },
+    {
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-09-26T01:00:13.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"
+    },
+    {
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+      "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg"
+    }
+  ]
 }
