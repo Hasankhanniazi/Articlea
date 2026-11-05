@@ -9,6 +9,7 @@ const arr=v=>v==null?[]:Array.isArray(v)?v:[v];
 const str=v=>typeof v==="string"?v:v&&typeof v==="object"?String(v["#text"]||""):"";
 const clean=v=>str(v).replace(/<[^>]*>/g," ").replace(/&amp;/g,"&").replace(/&nbsp;/g," ").replace(/\s+/g," ").trim();
 const url=v=>{try{let u=new URL(str(v));if(!["http:","https:"].includes(u.protocol))return "";u.hash="";return u.href}catch{return ""}};
+const imageUrl=v=>{let u=url(v);if(!u)return null;try{const p=new URL(u);if(p.hostname==="ichef.bbci.co.uk"){p.pathname=p.pathname.replace(/\/ace\/([^/]+)\/(?:240|320|480|640)\//,"/ace/$1/1024/");p.pathname=p.pathname.replace(/\/images\/ic\/(?:240x135|320x180|480x270)\//,"/images/ic/1024x576/");}return p.href}catch{return u}};
 for(const s of cfg.sources.filter(x=>x.enabled)){try{
  const res=await fetch(s.feed,{headers:{"user-agent":"Articlea RSS reader"},signal:AbortSignal.timeout(20000)});
  if(!res.ok)throw Error("HTTP "+res.status);
@@ -20,7 +21,7 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
   const desc=clean(it.description||it.summary||it["content:encoded"]||"").slice(0,360);
   let image=it.enclosure?.["@_url"]||it["media:thumbnail"]?.["@_url"]||it["media:content"]?.["@_url"]||"";
   if(!image)image=desc.match(/https?:\/\/[^\s"'<>]+\.(?:jpg|jpeg|png|webp)/i)?.[0]||"";
-  map.set(link,{title,url:link,summary:desc,publisher:s.name,category:s.category,publishedAt:dt,image:url(image)||null});
+  map.set(link,{title,url:link,summary:desc,publisher:s.name,category:s.category,publishedAt:dt,image:imageUrl(image)});
  }
  console.log("Collected",s.name);
  }catch(e){console.warn("Skipped",s.name,e.message)}}
