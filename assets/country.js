@@ -1,6 +1,6 @@
 (() => {
   const supportedCountries = new Set(["PK", "US"]);
-  const storageKey = "articlea_country";
+  const storageKey = "articlea_manual_country";
   const toggle = document.getElementById("country-toggle");
   const codeLabel = document.getElementById("country-code");
   const menu = document.getElementById("country-menu");
