@@ -16,6 +16,7 @@
 <section id="recommendations" class="recommendations" hidden aria-label="You may also like"></section>
 </main>
 <footer><a class="logo" href="./"><b>A</b> articlea</a><span>Discover more. Read original.</span><span>© <span id="year"></span> Articlea</span></footer>
+<script src="assets/menu.js" defer></script>
 <script>
 const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function date(s){const d=new Date(s);return isNaN(d)?"":d.toLocaleDateString(undefined,{month:"long",day:"numeric",year:"numeric"});}
