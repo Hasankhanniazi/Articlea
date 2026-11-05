@@ -6,6 +6,9 @@ on:
   push:
     paths:
       - ".github/workflows/refresh-feeds.yml"
+      - "scripts/collect-feeds.mjs"
+      - "sources.json"
+      - "package.json"
 permissions:
   contents: write
 concurrency:
