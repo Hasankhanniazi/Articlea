@@ -189,3 +189,25 @@ header{position:sticky;top:0;z-index:100;background:#fff}
 .site-footer .footer-description{max-width:560px;margin:0;color:#778397;font-size:12px;line-height:1.7}
 .site-footer .footer-copyright{margin:0;color:#8a95a5;font-size:11px}
 @media(max-width:560px){.site-footer{gap:14px;padding:28px 18px 24px}.site-footer .footer-nav{gap:12px 17px;font-size:11px}.site-footer .footer-description{font-size:11px}}
+
+/* Main category dropdown navigation and subcategory browsing */
+.menu-panel{width:292px;max-height:min(76vh,650px);overflow-y:auto}
+.menu-category{border-radius:9px}
+.menu-category-head{display:flex;align-items:center;gap:6px;padding:2px 5px 2px 11px;border-radius:8px}
+.menu-category-head>a{flex:1;padding:9px 2px;font-size:13px;font-weight:750;color:#465267}
+.menu-category-head>a:hover{color:#355326}
+.menu-category-head details{position:relative}
+.menu-category-head summary{list-style:none;cursor:pointer;width:32px;height:32px;display:grid;place-items:center;border-radius:7px}
+.menu-category-head summary::-webkit-details-marker{display:none}
+.menu-category-head summary:hover,.menu-category-head details[open] summary{background:#eff8e5}
+.menu-category-head summary span{width:8px;height:8px;border-right:1.8px solid #71805f;border-bottom:1.8px solid #71805f;transform:rotate(45deg) translateY(-2px);transition:transform .18s}
+.menu-category-head details[open] summary span{transform:rotate(225deg) translate(-2px,-1px)}
+.menu-subcategories{padding:2px 0 7px 12px;display:grid;grid-template-columns:1fr 1fr;gap:2px}
+.menu-panel .menu-subcategories a{font-size:11px;font-weight:600;padding:8px 9px;background:#f7f9f5}
+.menu-panel .menu-subcategories a:hover{background:#eaf5df}
+.menu-category-head:has(details[open]){background:#f8faf6}
+.subcategory-nav{display:flex;flex-wrap:wrap;gap:8px;margin:-12px 0 30px}
+.subcategory-chip{display:inline-flex;align-items:center;padding:8px 13px;border:1px solid #e1e7dc;border-radius:22px;background:#fff;color:#56634e;font-size:11px;font-weight:750}
+.subcategory-chip:hover,.subcategory-chip.active{background:#eaf5df;border-color:#cce2b9;color:#355326}
+.sub-pill{display:inline-block;margin-right:7px;padding:4px 8px;border-radius:20px;background:#f0f2f5;color:#667185;font-size:10px;font-weight:750}
+@media(max-width:560px){.menu-panel{width:min(292px,calc(100vw - 32px));max-height:75vh}.subcategory-nav{gap:6px}.subcategory-chip{padding:7px 10px;font-size:10px}}
