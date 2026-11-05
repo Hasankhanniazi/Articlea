@@ -1,5 +1,5 @@
 name: Test candidate publisher feeds
-# Temporary feed diagnostics; parser compatibility retest.
+# Temporary feed diagnostics; Retest with DTD entity processing disabled.
 on:
   push:
     paths:
