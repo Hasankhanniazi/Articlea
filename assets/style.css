@@ -211,3 +211,28 @@ header{position:sticky;top:0;z-index:100;background:#fff}
 .subcategory-chip:hover,.subcategory-chip.active{background:#eaf5df;border-color:#cce2b9;color:#355326}
 .sub-pill{display:inline-block;margin-right:7px;padding:4px 8px;border-radius:20px;background:#f0f2f5;color:#667185;font-size:10px;font-weight:750}
 @media(max-width:560px){.menu-panel{width:min(292px,calc(100vw - 32px));max-height:75vh}.subcategory-nav{gap:6px}.subcategory-chip{padding:7px 10px;font-size:10px}}
+
+
+/* Keep dropdown subcategories stacked like the main menu items */
+.menu-subcategories{
+  display:flex;
+  flex-direction:column;
+  grid-template-columns:1fr;
+  gap:2px;
+  padding:3px 0 8px 18px;
+}
+.menu-panel .menu-subcategories a{
+  display:block;
+  width:100%;
+  box-sizing:border-box;
+  padding:9px 12px;
+  border-radius:8px;
+  background:#f7f9f5;
+  font-size:12px;
+  line-height:1.35;
+  font-weight:650;
+}
+.menu-panel .menu-subcategories a:hover,
+.menu-panel .menu-subcategories a:focus{
+  background:#eaf5df;
+}
