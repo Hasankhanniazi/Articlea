@@ -5,11 +5,12 @@ const parser=new XMLParser({ignoreAttributes:false,attributeNamePrefix:"@_",text
 const cfg=JSON.parse(await fs.readFile("sources.json","utf8"));
 const path="data/articles.json";
 const old=JSON.parse(await fs.readFile(path,"utf8").catch(()=>'{"articles":[]}'));
-const map=new Map((old.articles||[]).map(a=>[a.url,a]));
+const map=new Map();\nfor(const a of (old.articles||[])){const canonical=url(a.url);if(!canonical)continue;const key=canonical+"|"+(a.publisher||"");const prev=map.get(key);if(!prev||Date.parse(a.publishedAt)>Date.parse(prev.publishedAt))map.set(key,{...a,url:canonical});}
 const arr=v=>v==null?[]:Array.isArray(v)?v:[v];
 const str=v=>typeof v==="string"?v:v&&typeof v==="object"?String(v["#text"]||""):"";
 const clean=v=>str(v).replace(/<[^>]*>/g," ").replace(/&amp;/g,"&").replace(/&nbsp;/g," ").replace(/&quot;/g,'"').replace(/&apos;|&#39;/g,"\'").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/\s+/g," ").trim();
-const url=v=>{try{let u=new URL(str(v));if(!["http:","https:"].includes(u.protocol))return "";u.hash="";return u.href}catch{return ""}};
+const url=v=>{try{let raw=str(v).replace(/&amp;amp;/g,"&").replace(/&amp;/g,"&").replace(/&#38;|&#x26;/gi,"&").trim();let u=new URL(raw);if(!["http:","https:"].includes(u.protocol))return "";u.hash="";for(const key of [...u.searchParams.keys()])if(/^(at_medium|at_campaign|utm_.+|fbclid|gclid|ref|source)$/i.test(key))u.searchParams.delete(key);return u.href}catch{return ""}};
+const titleKey=v=>clean(v).toLowerCase().normalize("NFKC").replace(/[^\\p{L}\\p{N}]+/gu," ").trim();
 const imageUrl=v=>{let u=url(v);if(!u)return null;try{const p=new URL(u);if(p.hostname==="ichef.bbci.co.uk"){p.pathname=p.pathname.replace(/\/ace\/([^/]+)\/(?:240|320|480|640)\//,"/ace/$1/1024/");p.pathname=p.pathname.replace(/\/images\/ic\/(?:240x135|320x180|480x270)\//,"/images/ic/1024x576/");}return p.href}catch{return u}};
 
 // Classify each story from its own headline, summary and URL, not just its publisher.
@@ -134,7 +135,7 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
   const desc=clean(it.description||it.summary||it["content:encoded"]||"").slice(0,360);
   let image=it.enclosure?.["@_url"]||it["media:thumbnail"]?.["@_url"]||it["media:content"]?.["@_url"]||"";
   if(!image)image=desc.match(/https?:\/\/[^\s"'<>]+\.(?:jpg|jpeg|png|webp)/i)?.[0]||"";
-  map.set(link,{title,url:link,summary:desc,publisher:s.name,category:s.category,publishedAt:dt,image:imageUrl(image),regions:classifyRegions({title,summary:desc,url:link},s)});
+  const canonical=url(link);if(!canonical)continue;const key=canonical+"|"+s.name;const existing=map.get(key);const item={title,url:canonical,summary:desc,publisher:s.name,category:s.category,publishedAt:dt,image:imageUrl(image),regions:classifyRegions({title,summary:desc,url:canonical},s)};if(!existing||Date.parse(dt)>Date.parse(existing.publishedAt)||(!existing.image&&item.image))map.set(key,{...existing,...item,image:item.image||existing?.image});
  }
  console.log("Collected",s.name);
  }catch(e){console.warn("Skipped",s.name,e.message)}}
