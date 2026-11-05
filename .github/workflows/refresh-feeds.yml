@@ -1,0 +1,32 @@
+name: Refresh Articlea feeds
+on:
+  schedule:
+    - cron: "0,30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: articlea-feed-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: npm run collect
+      - name: Commit refreshed data
+        run: |
+          if [[ -n "$(git status --porcelain data/articles.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+users.noreply.github.com"
+            git add data/articles.json
+            git commit -m "Refresh collected articles"
+            git push
+          else
+            echo "No changes."
+          fi
