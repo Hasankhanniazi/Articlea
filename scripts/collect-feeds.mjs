@@ -127,7 +127,7 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
  const res=await fetch(s.feed,{headers:{"user-agent":"Articlea RSS reader"},signal:AbortSignal.timeout(20000)});
  if(!res.ok)throw Error("HTTP "+res.status);
  const xml=parser.parse(await res.text()),feed=xml.rss?.channel||xml.feed||xml["rdf:RDF"]||{};
- for(const it of arr(feed.item||feed.entry||xml["rdf:RDF"]?.item).slice(0,30)){
+ for(const it of arr(feed.item||feed.entry||xml["rdf:RDF"]?.item).slice(0,50)){
   const link=url(it.link?.["@_href"]||it.link||it.id||it.guid),title=clean(it.title);
   if(!link||!title)continue;
   const raw=it.pubDate||it.published||it.updated||null,dt=raw&&Date.parse(str(raw))?new Date(str(raw)).toISOString():null;
