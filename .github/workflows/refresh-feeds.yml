@@ -1,7 +1,7 @@
 name: Refresh Articlea feeds
 on:
   schedule:
-    - cron: "0,30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
   push:
     paths:
