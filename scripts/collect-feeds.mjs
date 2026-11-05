@@ -1,14 +1,14 @@
 import fs from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
 
-const parser=new XMLParser({ignoreAttributes:false,attributeNamePrefix:"@_",textNodeName:"#text"});
+const parser=new XMLParser({ignoreAttributes:false,attributeNamePrefix:"@_",textNodeName:"#text",processEntities:false});
 const cfg=JSON.parse(await fs.readFile("sources.json","utf8"));
 const path="data/articles.json";
 const old=JSON.parse(await fs.readFile(path,"utf8").catch(()=>'{"articles":[]}'));
 const map=new Map((old.articles||[]).map(a=>[a.url,a]));
 const arr=v=>v==null?[]:Array.isArray(v)?v:[v];
 const str=v=>typeof v==="string"?v:v&&typeof v==="object"?String(v["#text"]||""):"";
-const clean=v=>str(v).replace(/<[^>]*>/g," ").replace(/&amp;/g,"&").replace(/&nbsp;/g," ").replace(/\s+/g," ").trim();
+const clean=v=>str(v).replace(/<[^>]*>/g," ").replace(/&amp;/g,"&").replace(/&nbsp;/g," ").replace(/&quot;/g,'"').replace(/&apos;|&#39;/g,"\'").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/\s+/g," ").trim();
 const url=v=>{try{let u=new URL(str(v));if(!["http:","https:"].includes(u.protocol))return "";u.hash="";return u.href}catch{return ""}};
 const imageUrl=v=>{let u=url(v);if(!u)return null;try{const p=new URL(u);if(p.hostname==="ichef.bbci.co.uk"){p.pathname=p.pathname.replace(/\/ace\/([^/]+)\/(?:240|320|480|640)\//,"/ace/$1/1024/");p.pathname=p.pathname.replace(/\/images\/ic\/(?:240x135|320x180|480x270)\//,"/images/ic/1024x576/");}return p.href}catch{return u}};
 
@@ -100,6 +100,20 @@ function classifyCategory(article,fallback="Entertainment"){
  }
  return best.category;
 }
+const PAKISTAN_MENTION=/\\bpakistan(?:i)?\\b|\\bislamabad\\b|\\bkarachi\\b|\\blahore\\b|\\brawalpindi\\b|\\bpeshawar\\b|\\bquetta\\b|\\bmultan\\b|\\bfaisalabad\\b|\\bsialkot\\b|\\bgujranwala\\b|\\bhyderabad\\b|\\bsukkur\\b|\\bpunjab\\b|\\bsindh\\b|\\bbalochistan\\b|\\bkhyber pakhtunkhwa\\b|\\bkp province\\b|\\bgilgit(?:-baltistan)?\\b|\\bmuzaffarabad\\b|\\brahim yar khan\\b|\\bry khan\\b/i;
+const INTERNATIONAL_MENTION=/\\binternational\\b|\\bworldwide\\b|\\bglobal\\b|\\bforeign\\b|\\boverseas\\b|\\bdiplomac(?:y|ies)\\b|\\bdiplomatic\\b|\\bUnited Nations\\b|\\bUN Security Council\\b|\\bNATO\\b|\\bEuropean Union\\b|\\bG7\\b|\\bG20\\b|\\bUnited States\\b|\\bAmerican\\b|\\bUK\\b|\\bBritain\\b|\\bBritish\\b|\\bChina\\b|\\bChinese\\b|\\bIndia\\b|\\bIndian\\b|\\bRussia\\b|\\bRussian\\b|\\bUkraine\\b|\\bIran\\b|\\bIsrael\\b|\\bPalestine\\b|\\bGaza\\b|\\bTurkey\\b|\\bTurkish\\b|\\bSaudi Arabia\\b|\\bUnited Arab Emirates\\b|\\bUAE\\b|\\bFrance\\b|\\bFrench\\b|\\bGermany\\b|\\bGerman\\b|\\bJapan\\b|\\bJapanese\\b|\\bSouth Korea\\b|\\bNorth Korea\\b|\\bAustralia\\b|\\bCanada\\b|\\bAfrica\\b|\\bEurope\\b|\\bMiddle East\\b|\\bLatin America\\b/i;
+function classifyRegions(article,source={}){
+ const text=[article.title,article.summary,article.url].filter(Boolean).join(" ");
+ const pakistan=PAKISTAN_MENTION.test(text);
+ const international=INTERNATIONAL_MENTION.test(text);
+ const base=source.region||"GLOBAL";
+ if(base==="PK"){
+  if(pakistan)return international?["PK","GLOBAL"]:["PK"];
+  return international?["GLOBAL"]:["PK"];
+ }
+ if(base==="GLOBAL"&&pakistan)return ["GLOBAL","PK"];
+ return [base];
+}
 function classifySubcategory(article,category){
  const rules=SUBCATEGORY_RULES[category];if(!rules)return null;
  const text=[article.title,article.summary,article.url].filter(Boolean).join(" ").toLowerCase();
@@ -120,7 +134,7 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
   const desc=clean(it.description||it.summary||it["content:encoded"]||"").slice(0,360);
   let image=it.enclosure?.["@_url"]||it["media:thumbnail"]?.["@_url"]||it["media:content"]?.["@_url"]||"";
   if(!image)image=desc.match(/https?:\/\/[^\s"'<>]+\.(?:jpg|jpeg|png|webp)/i)?.[0]||"";
-  map.set(link,{title,url:link,summary:desc,publisher:s.name,category:s.category,publishedAt:dt,image:imageUrl(image)});
+  map.set(link,{title,url:link,summary:desc,publisher:s.name,category:s.category,publishedAt:dt,image:imageUrl(image),regions:classifyRegions({title,summary:desc,url:link},s)});
  }
  console.log("Collected",s.name);
  }catch(e){console.warn("Skipped",s.name,e.message)}}
@@ -136,25 +150,28 @@ function metaContent(html,property){
  }
  return "";
 }
-async function recoverAnnImages(){
- const missing=[...map.values()].filter(a=>a.publisher==="Anime News Network"&&!a.image&&a.url);
- for(let i=0;i<missing.length;i+=5){
-  await Promise.all(missing.slice(i,i+5).map(async article=>{
-   try{
-    const response=await fetch(article.url,{headers:{"user-agent":"Mozilla/5.0 (compatible; Articlea RSS reader)","accept":"text/html"},signal:AbortSignal.timeout(10000)});
-    if(!response.ok)return;
-    const html=await response.text();
-    const image=metaContent(html,"og:image")||metaContent(html,"twitter:image");
-    if(image)map.set(article.url,{...article,image:imageUrl(image)});
-   }catch(e){console.warn("Image lookup skipped",article.url,e.message)}
-  }));
+async function recoverMissingImages(){
+ const publishers=["Anime News Network","The Guardian"];
+ for(const publisher of publishers){
+  const missing=[...map.values()].filter(a=>a.publisher===publisher&&!a.image&&a.url).slice(0,60);
+  for(let i=0;i<missing.length;i+=5){
+   await Promise.all(missing.slice(i,i+5).map(async article=>{
+    try{
+     const response=await fetch(article.url,{headers:{"user-agent":"Mozilla/5.0 (compatible; Articlea RSS reader)","accept":"text/html"},signal:AbortSignal.timeout(10000)});
+     if(!response.ok)return;
+     const html=await response.text();
+     const image=metaContent(html,"og:image")||metaContent(html,"twitter:image");
+     if(image)map.set(article.url,{...article,image:imageUrl(image)});
+    }catch(e){console.warn("Image lookup skipped",article.url,e.message)}
+   }));
+  }
+  console.log("Recovered",publisher,"thumbnails",missing.filter(a=>map.get(a.url)?.image).length,"of",missing.length);
  }
- console.log("Recovered ANN thumbnails",missing.filter(a=>map.get(a.url)?.image).length,"of",missing.length);
 }
-await recoverAnnImages();
+await recoverMissingImages();
 
 // Reclassify the complete retained archive as well as newly collected stories.
-const articles=[...map.values()].map(a=>{const category=classifyCategory(a,a.category);return {...a,category,subcategory:classifySubcategory(a,category)}})
+const sourceByName=new Map(cfg.sources.map(source=>[source.name,source]));\nconst articles=[...map.values()].map(a=>{const category=classifyCategory(a,a.category);return {...a,category,subcategory:classifySubcategory(a,category),regions:classifyRegions(a,sourceByName.get(a.publisher)||{region:"GLOBAL"})}})
  .sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0)).slice(0,5000);
 await fs.writeFile(path,JSON.stringify({updatedAt:new Date().toISOString(),articles},null,2)+"\n");
 console.log("Saved",articles.length,"unique articles with automatic categories.");
