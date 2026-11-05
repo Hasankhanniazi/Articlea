@@ -27,6 +27,8 @@
 const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function date(s){const d=new Date(s);return isNaN(d)?"":d.toLocaleDateString(undefined,{month:"long",day:"numeric",year:"numeric"});}
 document.getElementById("year").textContent=new Date().getFullYear();
+let activeCountry=window.articleaCountry||"GLOBAL";
+document.addEventListener("articlea:countrychange",event=>{activeCountry=event.detail?.country||"GLOBAL"});
 (async()=>{
  const root=document.getElementById("article-content");
  try{
@@ -41,7 +43,7 @@ document.getElementById("year").textContent=new Date().getFullYear();
   const stop=new Set(["about","after","again","also","among","been","being","could","from","have","into","just","more","most","over","said","than","that","their","them","then","there","these","they","this","those","through","under","very","was","were","what","when","where","which","while","with","would","your","will","have","has","the","and","for","but","not","you","are","its","his","her","she","him","who","how","why","all","one","new","says","say","can","may","now","out","two","get","got","our","per","via","bbc","news"]);
   const words=value=>(String(value||"").toLowerCase().match(/[a-z0-9]{3,}/g)||[]).filter(word=>!stop.has(word));
   const sourceWords=new Set(words(article.title+" "+article.summary));
-  let currentCountry=window.articleaCountry||"GLOBAL";
+  let currentCountry=activeCountry;
   const recommendations=document.getElementById("recommendations");
   const renderRecommendations=()=>{
    const related=(data.articles||[]).filter(item=>item.url!==article.url&&(!Array.isArray(item.regions)||item.regions.includes("GLOBAL")||item.regions.includes(currentCountry))).map(item=>{
