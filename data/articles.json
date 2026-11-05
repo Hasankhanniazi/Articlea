@@ -1,14 +1,239 @@
 {
-  "updatedAt": "2026-11-05T08:21:07.130Z",
+  "updatedAt": "2026-11-05T12:22:13.057Z",
   "articles": [
     {
-      "title": "England captain Kane signs new Bayern deal",
+      "title": "How to follow the Premier League on the BBC this weekend",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T12:14:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+      "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
+      "summary": "Help me upscalers, you're my only hope.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T12:12:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cGvg75BzHjKXRa6iF2zieP-1920-80.jpg"
+    },
+    {
+      "title": "10 Greatest Action Movies of All Time, According to Letterboxd",
+      "url": "https://www.cbr.com/best-action-movies-of-all-time-letterboxd-list/",
+      "summary": "There are countless incredible action movies, but, according to Letterboxd, these 10 masterpieces stand at the top of the genre.",
+      "publisher": "Comic Book Resources",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T12:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/arnold-schwarzenegger-on-a-motorcycle-in-terminator-2_-judgment-day.jpg"
+    },
+    {
+      "title": "10 Funniest Far Side Comics Featuring Rhinos, Ranked",
+      "url": "https://www.cbr.com/funniest-far-side-comics-featuring-rhinos-ranked/",
+      "summary": "Animals are a staple of Gary Larson's The Far Side comic strip, but ones featuring rhinos have been some of his best.",
+      "publisher": "Comic Book Resources",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T12:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/10-funniest-far-side-comics-featuring-rhinos-ranked.jpg"
+    },
+    {
+      "title": "Ronaldo retires from Portugal duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T11:56:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
+    },
+    {
+      "title": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
+      "summary": "The Switch 2 is still comfortably ahead of the Switch in its first year, but it might not be ahead by its second.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T11:53:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FaDrpfsLEeJM5HDQzSuqLG-1920-80.jpg"
+    },
+    {
+      "title": "How to complete The Great Outdoors in WoW: Forever",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/forever-the-great-outdoors-sit-campfire/",
+      "summary": "Plus a possible bug fix if you're stuck.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T11:40:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zVo4EzXrvTnLDtWV3T2RzB-1920-80.jpg"
+    },
+    {
+      "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
+      "summary": "League One's bottom side Bromley name former MK Dons and Oxford United boss Karl Robinson as their new manager.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T11:38:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/14a4/live/1c9560f0-d90d-11f1-94c6-3f8050561bf5.jpg"
+    },
+    {
+      "title": "Oh hell yes: Pillars of Eternity 1 and 2 are getting full-fat gamepad support and you can try it right now",
+      "url": "https://www.pcgamer.com/games/rpg/oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat-gamepad-support-and-you-can-try-it-right-now/",
+      "summary": "This is an absolutely massive day for PC Gamer writers called Joshua Wolens.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T11:37:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jPJM6uVdrZYLPXgnGtgQph-1920-80.jpg"
+    },
+    {
+      "title": "Ronaldo's most iconic moments as he retires from international football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T11:22:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
+    },
+    {
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T11:21:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9a84/live/13273f90-d901-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Owono left out of Eq Guinea squad after death of De Miguel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T11:18:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a6e9/live/aa4ff000-d907-11f1-b72c-d16cdc75f35f.jpg"
+    },
+    {
+      "title": "Absolute Lex Luthor's Plan Officially Revealed in Milestone Superman Issue",
+      "url": "https://www.cbr.com/absolute-superman-25-lex-luthor-plan/",
+      "summary": "Superman's archnemesis fulfills his destiny in the Absolute Universe.",
+      "publisher": "Comic Book Resources",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T11:00:13.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/mcdsupe_wb033.jpg"
+    },
+    {
+      "title": "CBS Is Quietly Burying a Key Piece of Yellowstone's Original Kayce Dutton Formula",
+      "url": "https://www.cbr.com/cbs-burying-kayce-dutton-yellowstone-formula/",
+      "summary": "CBS continues to ignore one of Kayce Dutton's best qualities, and it may be crucial to Marshal's continued success in Season 2.",
+      "publisher": "Comic Book Resources",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T11:00:13.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/luke-grimes-wears-a-cowboy-hat-as-kayce-dutton-in-season-1-of-marshals.jpg"
+    },
+    {
+      "title": "Open Range Has Kevin Costner's Best Western Quote",
+      "url": "https://www.cbr.com/open-range-kevin-costner-best-quote-western-movie-history/",
+      "summary": "Kevin Costner’s best-known Western may be Dances with Wolves, but his work in a 2003 underseen classic gave the genre its greatest quote.",
+      "publisher": "Comic Book Resources",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T11:00:13.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/06/kevin-costner-in-open-range.jpg"
+    },
+    {
+      "title": "Fool Night Anime's Trailer Reveals Theme Songs, Additional Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-05/fool-night-anime-trailer-reveals-theme-songs-additional-cast/.243524",
+      "summary": "Tempalay, Nowlu perform theme songs for November 26 anime",
+      "publisher": "Anime News Network",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T10:33:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
+      "summary": "Channel 4 will reinvest the show's budget in \"distinctive new programming\" and said sorry again to the women involved.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-05T10:30:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1c79/live/85630fb0-7602-11f1-b976-0b9c15b0ccfc.png"
+    },
+    {
+      "title": "France gears up for strikes and protests as unions promise national mobilisation",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T10:26:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "FA and WSL launch major study into ACL injuries in women's football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T10:24:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/44c9/live/16f59790-d8ff-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "title": "Senren * Banka Anime Reveals TV Format",
+      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-11-05/senren-banka-anime-reveals-tv-format/.243554",
+      "summary": "The official X (formerly Twitter) account for the anime adaptation of Yuzu Soft's Senren * Banka visual novel opened on Thursday and revealed...",
+      "publisher": "Anime News Network",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T10:10:31.000Z",
+      "image": null
+    },
+    {
+      "title": "Satoshi Mizukami's Spirit Circle Manga Gets TV Anime in December",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-05/satoshi-mizukami-spirit-circle-manga-gets-tv-anime-in-december/.243555",
+      "summary": "Late director Tatsuo Satō helmed his final work at studios NAGOMI x EOTA",
+      "publisher": "Anime News Network",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T09:31:49.000Z",
+      "image": null
+    },
+    {
+      "title": "New Code Geass Star Chaser Aspal Anime Unveils Cast, More Staff",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-05/new-code-geass-star-chaser-aspal-anime-unveils-cast-more-staff/.243547",
+      "summary": "Ivan Shibata, Hibiku Yamamura star in Sunrise anime",
+      "publisher": "Anime News Network",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T09:05:00.000Z",
+      "image": null
+    },
+    {
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T09:04:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/434b/live/650744e0-d8ed-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Kane signs new Bayern contract",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
       "summary": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029.",
       "publisher": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-11-05T08:12:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+      "publishedAt": "2026-11-05T08:39:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ca43/live/85f91730-d8f4-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-05T08:24:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
     },
     {
       "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
@@ -107,7 +332,7 @@
       "publisher": "BBC Entertainment & Arts",
       "category": "Entertainment",
       "publishedAt": "2026-11-05T06:07:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e2b4/live/cc13e260-d8ed-11f1-93e1-3b657b665bcf.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8890/live/9649af60-d8f3-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Black Doves cast: 'Being on Traitors would drive us insane'",
@@ -126,6 +351,15 @@
       "category": "Anime & Comics",
       "publishedAt": "2026-11-05T05:55:54.000Z",
       "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/two-kids-and-the-cat-sitting-on-a-red-couch-with-mechanical-legs-and-levers-from-the-cat-in-the-hat-movie-2026.jpg"
+    },
+    {
+      "title": "Top Comic Book Writers #50-46",
+      "url": "https://www.cbr.com/top-comic-book-writers-50-46-2026/",
+      "summary": "The countdown begins of YOUR picks for the greatest comic book writers of all-time!",
+      "publisher": "Comic Book Resources",
+      "category": "Anime & Comics",
+      "publishedAt": "2026-11-05T04:54:05.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/01/50-fantastic-four.jpg"
     },
     {
       "title": "10 Best Arcade Games Never Ported to Consoles",
@@ -245,6 +479,15 @@
       "image": null
     },
     {
+      "title": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
+      "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
+      "summary": "Shattered Legends is a six-episode miniseries that will debut later this month.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T01:52:06.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rPWcLihwLSBCYkDefAYJ7R-1920-80.jpg"
+    },
+    {
       "title": "Look Back Anime Film Wins Kineko Int'l Film Fest's Teens Feature Award",
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503",
       "summary": "Film opened in Japan in June 2024",
@@ -263,6 +506,15 @@
       "image": null
     },
     {
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "summary": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-05T00:30:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c4bf/live/d304fb40-d848-11f1-b870-55415e6a9944.jpg"
+    },
+    {
       "title": "Seven Seas Licenses Led by Stars Manga, Melting Point Manhwa, 3 Audiobooks",
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/seven-seas-licenses-led-by-stars-manga-melting-point-manhwa-3-audiobooks/.243530",
       "summary": "Beacon of Light in the Dark Sea , Dangers in My Heart , 7th Time Loop audiobooks",
@@ -272,6 +524,15 @@
       "image": null
     },
     {
+      "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+      "summary": "Theories that Bethesda is hinting at an earlier launch are already surfacing, and a few of them are pretty good.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-05T00:18:02.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2tZ8acjKKVc9o26nuhBAEi-1920-80.jpg"
+    },
+    {
       "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
       "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
@@ -279,6 +540,15 @@
       "category": "World News",
       "publishedAt": "2026-11-04T23:50:40.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9e75/live/6fd142d0-d8a3-11f1-b29d-fbcd9d61c58e.jpg"
+    },
+    {
+      "title": "No GTA 6 November: Here's what you can play on PC instead",
+      "url": "https://www.pcgamer.com/games/november-games-2026/",
+      "summary": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T23:37:01.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uEeQBN2oCc55CcCkNVRYiQ-1920-80.jpg"
     },
     {
       "title": "Live-Action Mashle: Magic and Muscles Film Reveals Cast, Director",
@@ -324,15 +594,6 @@
       "category": "Sports",
       "publishedAt": "2026-11-04T22:45:45.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T22:38:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
     },
     {
       "title": "'Hopefully things get done': Americans react to historic political shift",
@@ -452,6 +713,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"
     },
     {
+      "title": "Data centers were some of the biggest losers in last night's US midterm elections",
+      "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
+      "summary": "Voters across the country opted for nearly every local ballot measure that would curb the rate of data center expansion.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T21:10:10.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kt57iQemDCCMVmXLVecZXf-1920-80.jpg"
+    },
+    {
       "title": "Make the Exorcist Fall in Love Manga Starts Final Arc",
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/make-the-exorcist-fall-in-love-manga-starts-final-arc/.243514",
       "summary": "Final arc starts in manga's 16th volume released on Wednesday",
@@ -461,6 +731,15 @@
       "image": null
     },
     {
+      "title": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
+      "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+      "summary": "The STJV union says Microsoft imposed hiring freezes at Arkane that resulted in delays and additional expenses, which it then cited as reasons for shutting it down.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T20:51:28.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9T4FzWUTqHonQG2a65VZak-1920-80.jpg"
+    },
+    {
       "title": "Martial Arts Manhwa Artist Seung-nam Ha Dies at 68",
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/martial-arts-manhwa-artist-seung-nam-ha-dies-at-68/.243512",
       "summary": "Ha became 1st Korean comic artist to join Japan Cartoonists Association as full member in 2007",
@@ -468,6 +747,15 @@
       "category": "Anime & Comics",
       "publishedAt": "2026-11-04T20:00:00.000Z",
       "image": null
+    },
+    {
+      "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
+      "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
+      "summary": "Susie Lee has clearly been waiting for this moment.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T19:21:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rbvNJm56oM36V2FFnnUWfC-1920-80.jpg"
     },
     {
       "title": "An island in mourning: Tenerife processes death of De Miguel",
@@ -497,6 +785,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg"
     },
     {
+      "title": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
+      "summary": "I missed this.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T18:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zbjF32yTd7MrmU9rh8qEza-1920-80.jpg"
+    },
+    {
       "title": "How landmark Everton compensation prevented Burnley record loss",
       "url": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
       "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
@@ -515,6 +812,15 @@
       "image": null
     },
     {
+      "title": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'",
+      "url": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/",
+      "summary": "\"I want us to have a happy ending. I want us to go out on our terms.\"",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T17:28:16.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/LWJqcFFvfrZySZj5CgRwGL-1920-80.jpg"
+    },
+    {
       "title": "Tributes paid to drummer with dozens of number ones",
       "url": "https://www.bbc.co.uk/news/articles/c317kjwj18wzo?at_medium=RSS&at_campaign=rss",
       "summary": "Amarillo singer Tony Christie says Clem Cattini was a \"world class\" musician and gentleman.",
@@ -522,6 +828,15 @@
       "category": "Entertainment",
       "publishedAt": "2026-11-04T17:23:26.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f086/live/2a22f6e0-d86f-11f1-85ab-b3cc3b5498c6.jpg"
+    },
+    {
+      "title": "Nexus Mods takes the Valve approach to AI-generated content: No outright bans but mandatory disclosures",
+      "url": "https://www.pcgamer.com/games/nexus-mods-takes-the-valve-approach-to-ai-generated-content-no-outright-bans-but-mandatory-disclosures/",
+      "summary": "And it says it already knows not everyone will play nice.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T17:12:53.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pnReekZs3N2K9g2kZmMYt7-1920-80.jpg"
     },
     {
       "title": "Reincarnated as a Sword Season 2 Anime Reveals Trailer, Visual, Cast for Seedrun Arc",
@@ -551,6 +866,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
     },
     {
+      "title": "'How can prices fall when there's nothing left?' TeamGroup CEO reckons supply-demand memory equilibrium may not happen until late 2028 at the earliest",
+      "url": "https://www.pcgamer.com/hardware/memory/how-can-prices-fall-when-theres-nothing-left-teamgroup-ceo-reckons-supply-demand-memory-equilibrium-may-not-happen-until-late-2028-at-the-earliest/",
+      "summary": "\"Right now you can still buy goods, they're just expensive. In a little while, you may not be able to buy goods at all.\"",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T16:39:11.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uBfmjnPA5yrszBDS5EtWKZ-1920-80.jpg"
+    },
+    {
       "title": "The young politicians with African roots making history in the US midterms",
       "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
       "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
@@ -560,11 +884,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e0fe/live/3a869c80-d85b-11f1-94f3-cf7d1e52bb8c.jpg"
     },
     {
+      "title": "I'm watching YouTube videos in glorious stereoscopic 3D on my Steam Frame with just a free plugin and a long-forgotten dream of a new Nintendo 3DS",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/im-watching-youtube-videos-in-glorious-stereoscopic-3d-on-my-steam-frame-with-just-a-free-plugin-and-a-long-forgotten-dream-of-a-new-nintendo-3ds/",
+      "summary": "It sorta looks like it's in three dimensions!",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T16:29:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/za7GxwHvERxgWXvW7nrgk-1920-80.jpg"
+    },
+    {
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "publisher": "BBC World News",
-      "category": "World News",
+      "publisher": "BBC Technology",
+      "category": "Technology",
       "publishedAt": "2026-11-04T16:26:15.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"
     },
@@ -576,6 +909,15 @@
       "category": "World News",
       "publishedAt": "2026-11-04T16:18:21.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Dead by Daylight apologises to fans after gifting DLC to TheBurntPeanut and has since 'removed the content that was granted'",
+      "url": "https://www.pcgamer.com/games/horror/dead-by-daylight-apologises-to-fans-after-gifting-dlc-to-theburntpeanut-and-has-since-removed-the-content-that-was-granted/",
+      "summary": "\"We can take the heat!\" Are you sure about that?",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T16:14:53.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kNM2iegdEHaewyPYxVqMLY-1920-80.jpg"
     },
     {
       "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
@@ -594,6 +936,15 @@
       "category": "Anime & Comics",
       "publishedAt": "2026-11-04T16:00:00.000Z",
       "image": null
+    },
+    {
+      "title": "Formula V Line Air Power G10 review",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/formula-v-line-air-power-g10-review/",
+      "summary": "A sleek case with some less-than-sleek issues.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T15:53:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rgoWGqK6XJeZxTXJYK8bfQ-1920-80.jpg"
     },
     {
       "title": "Sugar Apple Fairy Tale's Miri Mikawa, Brave10's Kairi Shimotsuki Launch New Manga on November 24",
@@ -650,6 +1001,15 @@
       "image": null
     },
     {
+      "title": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026",
+      "url": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
+      "summary": "Intel's expecting to hit $15 - $16 billion for Q4 2026, while AMD is looking at an impressive $17 billion.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T12:40:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/V9LdBo4DrpBFbnbAfjfyWA-1920-80.jpg"
+    },
+    {
       "title": "Even the Student Council Has Its Holes! ‒ Episode 5",
       "url": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-5/.243499",
       "summary": "Fans of hot springs antics will be pleased, especially with all the details afforded to OceanVeil subscribers. However, uncensored bathing is not all this episode offers.",
@@ -666,6 +1026,33 @@
       "category": "Sports",
       "publishedAt": "2026-11-04T11:49:23.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
+    },
+    {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-04T11:47:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "WoW: Forever's massive pre-launch balance patch breaks from the chains Classic power, increasing 'the health of higher level creatures to compensate'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-massive-pre-launch-balance-patch-breaks-from-the-chains-classic-power-increasing-the-health-of-higher-level-creatures-to-compensate/",
+      "summary": "\"Those reductions left some iconic abilities feeling lackluster, and closed the door to other potentially exciting design options.\"",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T11:45:45.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/prYmvnyWqdJvpLnkbECqs3-1920-80.png"
+    },
+    {
+      "title": "Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions",
+      "url": "https://www.pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions/",
+      "summary": "I'm feeling fresh appreciation for my company's mandatory cybersecurity awareness course.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T11:12:58.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/eDGcGRApH6Ut5G9XMKVRHB-1920-80.jpg"
     },
     {
       "title": "Comedian Karen Dunbar cancels tour dates claiming promoter has not paid her",
@@ -821,6 +1208,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
     },
     {
+      "title": "Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/",
+      "summary": "\"See that mountain? You can overanalyze it.\"",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-04T00:18:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6k5soLLcSCXEb4UzdjjTu3-1920-80.jpg"
+    },
+    {
       "title": "Graduates are managing AI - but are they learning much else?",
       "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
@@ -846,6 +1242,15 @@
       "category": "World News",
       "publishedAt": "2026-11-03T23:58:36.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+      "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+      "summary": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T23:51:13.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UoEzWoavREo9zwpFLKCqC-1920-80.jpg"
     },
     {
       "title": "Otaku Vampire's Love Bite Manga Gets TV Anime",
@@ -875,6 +1280,33 @@
       "image": null
     },
     {
+      "title": "Google criticized by NYC mayor Zohran Mamdani following AI policy change: 'Google is trying to use its monopoly power to force AI into our public schools'",
+      "url": "https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
+      "summary": "Mamdani and others have called out Google's decision to disable search functionality for schools who opt out of its AI tools.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T22:58:03.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/yy7kuH4T4FoMBC4UJHgSdj-1920-80.jpg"
+    },
+    {
+      "title": "Ubisoft reportedly wants to buy Arkane from Xbox",
+      "url": "https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
+      "summary": "There might be hope for Arkane after all: A new report says multiple companies have made offers for it.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T22:12:35.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/omjsXVE2okQWrjxMV2AeBi-1920-80.jpg"
+    },
+    {
+      "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
+      "url": "https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
+      "summary": "Countless sickos of a certain vintage just breathed sighs of relief.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T21:54:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xb2cQYdhNf5wD8AmMALY4G-1920-80.webp"
+    },
+    {
       "title": "Tech Life",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
       "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
@@ -882,6 +1314,51 @@
       "category": "Technology",
       "publishedAt": "2026-11-03T20:30:00.000Z",
       "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pl43cw.jpg"
+    },
+    {
+      "title": "Crowning the greatest FPS mode of all time through 1v1 combat—SEMIFINALS!",
+      "url": "https://www.pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals/",
+      "summary": "Battle royale is dead. Bomb be gone. It only gets harder from here...",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T19:41:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YaMpuvXrbCsUQ5NSwnxLG4-1920-80.jpg"
+    },
+    {
+      "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/",
+      "summary": "The waiting ain't over yet.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T19:27:07.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ga5SmnSkfRrmx9ChoFQAxg-1920-80.jpg"
+    },
+    {
+      "title": "Bethesda's first full-time QA tester got the job by being an extremely chill hang",
+      "url": "https://www.pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang/",
+      "summary": "It was a simpler time.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T18:49:23.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ogPk9x6Zvmdyf38Wf5vt9C-1920-80.jpg"
+    },
+    {
+      "title": "'Just deleted a couple terabytes of AI slop': Itch.io pushes back against the flood of AI on its storefront",
+      "url": "https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/",
+      "summary": "Itch.io has also expanded its AI filters, enabling users to exclude games made with different types of generative AI.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T17:57:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MzEmQe5m4W2B8ccsdcNUCU-1920-80.jpg"
+    },
+    {
+      "title": "The latest version of Metal Gear's must-have visual mod slices load times, adds raw mouse input, and restores Mel Gibson",
+      "url": "https://www.pcgamer.com/games/action/the-latest-version-of-metal-gears-must-have-visual-mod-slices-load-times-adds-raw-mouse-input-and-restores-mel-gibson/",
+      "summary": "Naturally.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-03T17:50:31.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cZhgbmCkM4EDB7xnfrzNQN-1920-80.jpg"
     },
     {
       "title": "How 'mogging' went from toxic term to mainstream",
@@ -1215,6 +1692,15 @@
       "category": "Technology",
       "publishedAt": "2026-09-19T01:00:00.000Z",
       "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pbb5l2.jpg"
+    },
+    {
+      "title": "A rivalry that changed football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+      "summary": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-05T05:28:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bea4/live/df3f4350-569f-11f1-82a8-f7509e7dd289.jpg"
     }
   ]
 }
