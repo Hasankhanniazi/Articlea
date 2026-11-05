@@ -1,6 +1,6 @@
 import { XMLParser } from "fast-xml-parser";
 
-const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", textNodeName: "#text", maxEntityCount: 10000 });
+const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", textNodeName: "#text", processEntities: false });
 const candidates = [
   ["ARY News", "https://arynews.tv/feed"],
   ["The Guardian", "https://www.theguardian.com/world/rss"],
