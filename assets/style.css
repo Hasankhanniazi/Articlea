@@ -124,3 +124,29 @@ header{position:relative;z-index:20}
  .topic-main{padding:18px 15px 45px}
  .topic-intro{padding:25px 21px;margin:10px 0 28px;border-radius:15px}
 }
+
+
+/* Smooth slide-and-fade animation for the topic menu */
+.menu-panel{
+  display:flex;
+  opacity:0;
+  visibility:hidden;
+  pointer-events:none;
+  transform:translateY(-9px) scale(.98);
+  transform-origin:top left;
+  transition:opacity .2s ease,transform .22s cubic-bezier(.2,.8,.2,1),visibility .22s;
+}
+.menu-panel[hidden]{display:flex}
+.menu-panel.is-open{
+  opacity:1;
+  visibility:visible;
+  pointer-events:auto;
+  transform:translateY(0) scale(1);
+}
+.menu-toggle span{transition:transform .2s ease,opacity .16s ease}
+.menu-toggle.is-open span:first-child{transform:translateY(7px) rotate(45deg)}
+.menu-toggle.is-open span:nth-child(2){opacity:0}
+.menu-toggle.is-open span:last-child{transform:translateY(-7px) rotate(-45deg)}
+@media(prefers-reduced-motion:reduce){
+  .menu-panel,.menu-toggle span{transition:none}
+}
