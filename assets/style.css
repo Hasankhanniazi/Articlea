@@ -282,3 +282,29 @@ header{position:sticky;top:0;z-index:100;background:#fff}
 .menu-category-head .menu-subcategories a:focus{
   background:#eaf5df;
 }
+
+
+/* Compact country selector beside the hamburger menu */
+header{justify-content:space-between;gap:12px}
+.header-actions{display:flex;align-items:center;gap:9px;margin-left:auto}
+.menu-wrap{margin-left:0}
+.country-wrap{position:relative}
+.country-toggle{height:42px;min-width:58px;padding:0 11px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);display:flex;align-items:center;justify-content:center;gap:9px;font-size:12px;font-weight:850;letter-spacing:.4px;cursor:pointer}
+.country-toggle:hover,.country-toggle[aria-expanded="true"]{border-color:#c9e5a8;background:#fbfef7}
+.country-chevron{width:7px;height:7px;border-right:1.6px solid #71805f;border-bottom:1.6px solid #71805f;transform:rotate(45deg) translateY(-2px)}
+.country-menu{position:absolute;right:0;top:50px;width:205px;padding:9px;background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:0 16px 40px #17203320;z-index:120}
+.country-menu[hidden],.country-dialog[hidden]{display:none}
+.country-menu-label{padding:7px 9px 8px;font-size:9px;letter-spacing:1.4px;font-weight:850;color:#8996a8}
+.country-option{width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:11px 10px;border:0;border-radius:8px;background:#fff;color:#465267;text-align:left;font:inherit;font-size:12px;font-weight:700;cursor:pointer}
+.country-option strong{color:#4e7337;font-size:11px;letter-spacing:.5px}
+.country-option:hover,.country-option:focus{background:#eff8e5;color:#355326;outline:none}
+.country-dialog{position:fixed;inset:0;z-index:300;display:grid;place-items:center;padding:20px}
+.country-dialog-backdrop{position:absolute;inset:0;background:#101827a8;backdrop-filter:blur(3px)}
+.country-dialog-card{position:relative;width:min(100%,390px);padding:28px;background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 70px #0003}
+.country-dialog-kicker{font-size:9px;letter-spacing:1.6px;font-weight:850;color:#628b3f}
+.country-dialog-card h2{margin:10px 0 8px;font-size:25px;letter-spacing:-.7px;color:var(--ink)}
+.country-dialog-card p{margin:0 0 20px;color:#6d7889;font-size:13px;line-height:1.65}
+.country-dialog-options{display:flex;flex-direction:column;gap:7px}
+.country-dialog-options .country-option{padding:14px 12px;border:1px solid var(--line);border-radius:9px;font-size:13px}
+.country-dialog-options .country-option:hover{border-color:#c9e5a8}
+@media(max-width:560px){header{gap:8px}.header-actions{gap:7px}.country-toggle{height:38px;min-width:53px;padding:0 9px}.menu-toggle{width:38px;height:38px}.menu-wrap{margin-left:0}.country-menu{top:46px}.country-dialog-card{padding:24px 20px}}
