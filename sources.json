@@ -1,10 +1,40 @@
 {
   "sources": [
-    {"name":"Comic Book Resources","feed":"https://www.cbr.com/feed/","category":"Comics & Anime","enabled":true},
-    {"name":"Anime News Network","feed":"https://www.animenewsnetwork.com/all/rss.xml","category":"Comics & Anime","enabled":true},
-    {"name":"BBC Sport","feed":"https://feeds.bbci.co.uk/sport/football/rss.xml","category":"Sports","enabled":true},
-    {"name":"BBC Technology","feed":"https://feeds.bbci.co.uk/news/technology/rss.xml","category":"Technology","enabled":true},
-    {"name":"BBC Entertainment & Arts","feed":"https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml","category":"Entertainment","enabled":true},
-    {"name":"BBC World News","feed":"https://feeds.bbci.co.uk/news/world/rss.xml","category":"World News","enabled":true}
+    {
+      "name": "Comic Book Resources",
+      "feed": "https://www.cbr.com/feed/",
+      "category": "Anime & Comics",
+      "enabled": true
+    },
+    {
+      "name": "Anime News Network",
+      "feed": "https://www.animenewsnetwork.com/all/rss.xml",
+      "category": "Anime & Comics",
+      "enabled": true
+    },
+    {
+      "name": "BBC Sport",
+      "feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "category": "Sports",
+      "enabled": true
+    },
+    {
+      "name": "BBC Technology",
+      "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "category": "Technology",
+      "enabled": true
+    },
+    {
+      "name": "BBC Entertainment & Arts",
+      "feed": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "category": "Entertainment",
+      "enabled": true
+    },
+    {
+      "name": "BBC World News",
+      "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "World News",
+      "enabled": true
+    }
   ]
 }
