@@ -14,54 +14,99 @@ const imageUrl=v=>{let u=url(v);if(!u)return null;try{const p=new URL(u);if(p.ho
 
 // Classify each story from its own headline, summary and URL, not just its publisher.
 const CATEGORY_RULES={
- "Anime & Comics":[
-  [/\banime\b|\bmanga\b|\bmanhwa\b|\bwebtoon\b|\bshonen\b|\bshojo\b|\bseinen\b|\bisekai\b/gi,5],
-  [/\bcomic(?:s| book| strip)?\b|\bgraphic novel\b|\bcartoonist\b|\bcomic strip\b/gi,5],
-  [/\bsuperhero(?:es)?\b|\bmarvel comics\b|\bdc comics\b|\bspider-man\b|\bbatman\b|\bsuperman\b|\bx-men\b|\bavengers\b/gi,3],
-  [/\bone piece\b|\bnaruto\b|\bdragon ball\b|\bjujutsu kaisen\b|\bdemon slayer\b|\bmy hero academia\b|\bpokemon\b|\bPokémon\b|\bgundam\b|\bcode geass\b/gi,4]
- ],
- "Gaming":[
-  [/\bvideo game(?:s)?\b|\bgameplay\b|\bgaming\b|\bgamer(?:s)?\b|\bgamepad\b|\bgame studio\b|\bgame developer\b/gi,5],
-  [/\bxbox\b|\bplaystation\b|\bnintendo\b|\bsteam\b|\bpc gamer\b|\bepic games\b|\bgrand theft auto\b|\bgta\s?\d\b|\bworld of warcraft\b|\bwarcraft\b|\bbethesda\b|\bskyrim\b|\bminecraft\b|\bfortnite\b|\bzelda\b|\bcall of duty\b/gi,4],
-  [/\bdlc\b|\bmod(?:s|ding)?\b|\bconsole\b|\bquest walkthrough\b|\bpatch notes\b|\bvideo game adaptation\b/gi,2]
+ "World News":[
+  [/\bpolitic(?:s|al)\b|\belection(?:s)?\b|\bgovernment\b|\bparliament\b|\bpresident\b|\bprime minister\b|\bcongress\b|\bsenate\b|\bminister\b|\bprotest(?:s|ers)?\b/gi,4],
+  [/\bbusiness\b|\beconom(?:y|ic|ics)\b|\bcompany\b|\bcompanies\b|\bmarket(?:s)?\b|\bstock(?:s)?\b|\btrade\b|\binflation\b|\bjobs\b|\binterest rates?\b/gi,4],
+  [/\binternational\b|\bworld affairs\b|\bdiplomat(?:ic|s)?\b|\bforeign policy\b|\bglobal\b|\bcountry\b|\bcountries\b|\bworld\b/gi,2],
+  [/\benvironment\b|\bclimate\b|\bglobal warming\b|\bpollution\b|\bwildlife\b|\bconservation\b|\bearthquake\b|\bstorm\b|\bflood(?:s|ing)?\b|\bwildfire\b/gi,4],
+  [/\bconflict\b|\bconflicts\b|\bwar\b|\bmilitary\b|\bairstrike\b|\bmissile\b|\barmed forces\b|\bceasefire\b|\binvasion\b|\brefugee(?:s)?\b/gi,4],
+  [/\bcourt\b|\bjudge\b|\blawsuit\b|\bpolice\b|\bcrime\b|\bimmigration\b|\bstrike(?:s)?\b/gi,1]
  ],
  "Sports":[
-  [/\bfootball\b|\bsoccer\b|\bpremier league\b|\bchampions league\b|\bworld cup\b|\buefa\b|\bfifa\b|\bnfl\b|\bnba\b|\bcricket\b|\brugby\b|\btennis\b|\bgolf\b|\bformula one\b|\bformula 1\b|\bf1\b|\bboxing\b|\bufc\b/gi,5],
+  [/\bfootball\b|\bsoccer\b|\bpremier league\b|\bchampions league\b|\bworld cup\b|\buefa\b|\bfifa\b|\bnfl\b|\bcricket\b|\brugby\b|\btennis\b|\bgolf\b|\bformula one\b|\bformula 1\b|\bf1\b|\bboxing\b|\bufc\b|\bnba\b|\bbasketball\b/gi,5],
   [/\bmatch(?:es)?\b|\bgoal(?:s)?\b|\bscor(?:e|es|ed|ing)\b|\bteam(?:s)?\b|\bclub\b|\bmanager\b|\bcoach\b|\btransfer\b|\bstriker\b|\bgoalkeeper\b|\bpenalty\b|\bfixture\b|\btournament\b|\bchampionship\b/gi,2],
   [/\bcristiano ronaldo\b|\blionel messi\b|\bharry kane\b|\berling haaland\b|\bmanchester united\b|\bliverpool\b|\barsenal\b|\bchelsea\b|\breal madrid\b|\bbarcelona\b/gi,3]
  ],
  "Technology":[
-  [/\btechnology\b|\btech\b|\bartificial intelligence\b|\b\bAI\b\b|\bmachine learning\b|\bdata cent(?:er|re)s?\b|\bcybersecurity\b|\bcyber-attack\b|\bhack(?:er|ers|ed|ing)?\b|\bsoftware\b|\bhardware\b/gi,4],
+  [/\btechnology\b|\btech\b|\bartificial intelligence\b|\bmachine learning\b|\bAI\b|\bdata cent(?:er|re)s?\b|\bcybersecurity\b|\bcyber-attack\b|\bhack(?:er|ers|ed|ing)?\b|\bsoftware\b|\bhardware\b/gi,4],
   [/\biphone\b|\bandroid\b|\bsmartphone\b|\bcomputer\b|\blaptop\b|\bchip(?:s)?\b|\bprocessor\b|\bsemiconductor\b|\bgoogle\b|\bapple\b|\bmicrosoft\b|\bintel\b|\bamd\b|\bbinance\b|\bcrypto(?:currency)?\b/gi,2],
   [/\bapp\b|\bapps\b|\bplatform\b|\bsearch engine\b|\bcloud computing\b|\bserver\b|\bsmart device\b|\bcyber\b/gi,1]
  ],
- "Entertainment":[
-  [/\bmovie(?:s)?\b|\bfilm(?:s)?\b|\bcinema\b|\bhollywood\b|\bbox office\b|\btelevision\b|\btv series\b|\bnetflix\b|\bstreaming\b|\bdocumentary\b/gi,4],
-  [/\bactor(?:s)?\b|\bactress(?:es)?\b|\bcast\b|\bdirector\b|\bfilmmaker\b|\bscreenwriter\b|\btrailer\b|\bseason\s?\d\b|\bepisode\b|\breality show\b|\bsoap opera\b/gi,3],
-  [/\bcelebrity\b|\bsinger\b|\bmusician\b|\balbum\b|\bsong\b|\bmusic\b|\bconcert\b|\bcomedian\b|\bcomedy\b|\btheatre\b|\btheater\b|\baward(?:s)?\b|\bgrammy\b|\bbafta\b/gi,3],
-  [/\bstar trek\b|\bstar wars\b|\byellowstone\b|\bthe pitt\b|\bthe crown\b|\btraitors\b|\bdoctor who\b|\bgame of thrones\b|\blord of the rings\b/gi,3]
+ "Gaming":[
+  [/\bvideo game(?:s)?\b|\bgameplay\b|\bgaming\b|\bgamer(?:s)?\b|\bgamepad\b|\bgame studio\b|\bgame developer\b|\bgame release\b/gi,5],
+  [/\bxbox\b|\bplaystation\b|\bnintendo\b|\bsteam\b|\bpc gamer\b|\bepic games\b|\bgrand theft auto\b|\bgta\s?\d\b|\bworld of warcraft\b|\bwarcraft\b|\bbethesda\b|\bskyrim\b|\bminecraft\b|\bfortnite\b|\bzelda\b|\bcall of duty\b/gi,4],
+  [/\bdlc\b|\bmod(?:s|ding)?\b|\bconsole\b|\bquest walkthrough\b|\bpatch notes\b|\bvideo game adaptation\b/gi,2]
  ],
- "World News":[
-  [/\belection(?:s)?\b|\bgovernment\b|\bparliament\b|\bpresident\b|\bprime minister\b|\bpolitic(?:s|al)\b|\bcongress\b|\bsenate\b|\bminister\b|\bprotest(?:s|ers)?\b|\bstrike(?:s)?\b|\bwar\b|\bmilitary\b|\bairstrike\b|\brefugee(?:s)?\b|\bdiplomat(?:ic|s)?\b/gi,4],
-  [/\bcountry\b|\bcountries\b|\binternational\b|\bworld\b|\bimmigration\b|\bcourt\b|\bjudge\b|\blawsuit\b|\bclimate\b|\bearthquake\b|\bstorm\b|\bflood(?:s|ing)?\b|\bfire(?:s)?\b|\bpolice\b|\bcrime\b/gi,1]
+ "Entertainment":[
+  [/\banime\b|\bmanga\b|\bmanhwa\b|\bwebtoon\b|\bshonen\b|\bshojo\b|\bseinen\b|\bisekai\b|\bcomic(?:s| book| strip)?\b|\bgraphic novel\b|\bcartoonist\b|\bsuperhero(?:es)?\b|\bmarvel comics\b|\bdc comics\b|\bspider-man\b|\bbatman\b|\bsuperman\b|\bx-men\b|\bavengers\b/gi,5],
+  [/\bone piece\b|\bnaruto\b|\bdragon ball\b|\bjujutsu kaisen\b|\bdemon slayer\b|\bmy hero academia\b|\bpokemon\b|\bgundam\b|\bcode geass\b/gi,4],
+  [/\bmovie(?:s)?\b|\bfilm(?:s)?\b|\bcinema\b|\bhollywood\b|\bbox office\b|\btelevision\b|\btv series\b|\bnetflix\b|\bstreaming\b|\bdocumentary\b|\bactor(?:s)?\b|\bactress(?:es)?\b|\bcast\b|\bdirector\b|\bfilmmaker\b|\bscreenwriter\b|\btrailer\b|\bseason\s?\d\b|\bepisode\b|\breality show\b/gi,4],
+  [/\bcelebrity\b|\bsinger\b|\bmusician\b|\balbum\b|\bsong\b|\bmusic\b|\bconcert\b|\bcomedian\b|\bcomedy\b|\btheatre\b|\btheater\b|\baward(?:s)?\b|\bgrammy\b|\bbafta\b/gi,3]
  ]
 };
-const CATEGORIES=Object.keys(CATEGORY_RULES);
-function classifyCategory(article,fallback="World News"){
- const text=[article.title,article.summary,article.url].filter(Boolean).join(" ").toLowerCase();
- const scores=Object.fromEntries(CATEGORIES.map(c=>[c,0]));
- for(const [category,rules] of Object.entries(CATEGORY_RULES)){
-  for(const [pattern,weight] of rules){
-   pattern.lastIndex=0;
-   const matches=text.match(pattern);
-   if(matches)scores[category]+=matches.length*weight;
-  }
+const SUBCATEGORY_RULES={
+ "World News":{
+  "Politics":[[/\bpolitic(?:s|al)\b|\belection(?:s)?\b|\bgovernment\b|\bparliament\b|\bpresident\b|\bprime minister\b|\bcongress\b|\bsenate\b|\bminister\b|\bvote(?:r|rs|s|d)?\b|\bcampaign\b/gi,4]],
+  "Business":[[/\bbusiness\b|\beconom(?:y|ic|ics)\b|\bcompany\b|\bcompanies\b|\bmarket(?:s)?\b|\bstock(?:s)?\b|\btrade\b|\binflation\b|\bjobs\b|\binterest rates?\b|\bprofit(?:s)?\b|\bceo\b/gi,4]],
+  "World Affairs":[[/\binternational\b|\bworld affairs\b|\bdiplomat(?:ic|s)?\b|\bforeign policy\b|\bglobal\b|\bcountry\b|\bcountries\b|\bworld\b|\bUnited Nations\b|\bUN\b/gi,3]],
+  "Environment":[[/\benvironment\b|\bclimate\b|\bglobal warming\b|\bpollution\b|\bwildlife\b|\bconservation\b|\bearthquake\b|\bstorm\b|\bflood(?:s|ing)?\b|\bwildfire\b|\bdrought\b/gi,4]],
+  "Conflicts":[[/\bconflict\b|\bconflicts\b|\bwar\b|\bmilitary\b|\bairstrike\b|\bmissile\b|\barmed forces\b|\bceasefire\b|\binvasion\b|\brefugee(?:s)?\b|\bbattle\b/gi,4]]
+ },
+ "Sports":{
+  "Football":[[/\bfootball\b|\bsoccer\b|\bpremier league\b|\bchampions league\b|\buefa\b|\bfifa\b|\bgoalkeeper\b|\bstriker\b|\bgoal(?:s)?\b|\btransfer\b/gi,4]],
+  "Cricket":[[/\bcricket\b|\btest match\b|\bone-day international\b|\bodi\b|\bt20\b|\bwicket\b|\bbowler\b|\bbatsman\b|\binnings\b/gi,5]],
+  "Basketball":[[/\bbasketball\b|\bnba\b|\bwnba\b|\bncaa basketball\b|\bslam dunk\b|\bthree-pointer\b/gi,5]],
+  "Tennis":[[/\btennis\b|\bgrand slam\b|\bwimbledon\b|\bus open\b|\bfrench open\b|\baustralian open\b|\batp\b|\bwta\b/gi,5]],
+  "Formula 1":[[/\bformula one\b|\bformula 1\b|\bf1\b|\bgrand prix\b|\bfia\b|\bferrari\b|\bmercedes f1\b|\bred bull racing\b/gi,5]],
+  "Boxing & MMA":[[/\bboxing\b|\bufc\b|\bmma\b|\bknockout\b|\btitle fight\b|\bheavyweight\b|\bwelterweight\b|\bchampionship bout\b/gi,5]]
+ },
+ "Entertainment":{
+  "TV Shows":[[/\btv\b|\btelevision\b|\bseries\b|\bseason\b|\bepisode\b|\bshow\b|\bstreaming\b|\bnetflix\b|\bdisney\+\b|\bhbo\b|\bprime video\b|\bfinale\b|\brenewed\b|\bcancelled\b/gi,3]],
+  "Movies":[[/\bmovie(?:s)?\b|\bfilm(?:s)?\b|\bcinema\b|\bbox office\b|\bmovie trailer\b|\bfilm trailer\b|\bfeature film\b|\bfilmmaker\b|\bfilm director\b/gi,4]],
+  "Anime":[[/\banime\b|\bone piece\b|\bnaruto\b|\bdragon ball\b|\bjujutsu kaisen\b|\bdemon slayer\b|\bmy hero academia\b|\bpokemon\b|\bgundam\b|\bcode geass\b|\bshonen\b|\bshojo\b|\bseinen\b|\bisekai\b/gi,5]],
+  "Comics":[[/\bcomic(?:s| book| strip)?\b|\bgraphic novel\b|\bcartoonist\b|\bsuperhero(?:es)?\b|\bmarvel comics\b|\bdc comics\b|\bspider-man\b|\bbatman\b|\bsuperman\b|\bx-men\b|\bavengers\b/gi,5]],
+  "Manga":[[/\bmanga\b|\bmanhwa\b|\bwebtoon\b|\bmanga chapter\b|\bchapter\s?\d+\b|\bvolume\s?\d+\b/gi,5]]
+ },
+ "Technology":{
+  "Artificial Intelligence":[[/\bartificial intelligence\b|\bAI\b|\bmachine learning\b|\bchatgpt\b|\bopenai\b|\bchatbot\b|\bgenerative AI\b|\bllm(?:s)?\b|\bneural network\b/gi,5]],
+  "Smartphones":[[/\bsmartphone\b|\biphone\b|\bandroid phone\b|\bmobile phone\b|\bgalaxy phone\b|\bpixel phone\b|\bfoldable phone\b|\bhandset\b/gi,5]],
+  "Computers":[[/\bcomputer\b|\blaptop\b|\bdesktop pc\b|\bprocessor\b|\bcpu\b|\bgpu\b|\bchip(?:s)?\b|\bsemiconductor\b|\bmacbook\b|\bwindows pc\b/gi,4]],
+  "Apps & Software":[[/\bapp\b|\bapps\b|\bapplication\b|\bsoftware\b|\boperating system\b|\bplatform\b|\bgoogle search\b|\bcloud computing\b|\bweb browser\b/gi,4]],
+  "Cybersecurity":[[/\bcybersecurity\b|\bcyber-attack\b|\bcyber attack\b|\bhack(?:er|ers|ed|ing)?\b|\bdata breach\b|\bmalware\b|\bransomware\b|\bphishing\b|\bsecurity flaw\b/gi,5]]
+ },
+ "Gaming":{
+  "PlayStation":[[/\bplaystation\b|\bps[345]\b|\bps5\b|\bsony console\b/gi,5]],
+  "Xbox":[[/\bxbox\b|\bxbox series\b|\bmicrosoft console\b/gi,5]],
+  "Nintendo":[[/\bnintendo\b|\bswitch\b|\bzelda\b|\bmario\b|\bpokemon\b/gi,4]],
+  "PC Gaming":[[/\bpc gaming\b|\bpc gamer\b|\bsteam\b|\bepic games store\b|\bpc game\b|\bgraphics card\b|\bsteam deck\b/gi,4]],
+  "Mobile Gaming":[[/\bmobile game\b|\bmobile gaming\b|\bandroid game\b|\bios game\b|\bapp store game\b|\bgoogle play game\b/gi,5]],
+  "Game Releases":[[/\bgame release\b|\blaunch(?:es|ed)?\b|\brelease date\b|\bcoming to\b|\blaunch date\b|\bnew game\b|\bgame announced\b|\blaunches today\b/gi,3]]
  }
+};
+const CATEGORIES=Object.keys(CATEGORY_RULES);
+function scoreRules(text,rules){
+ let score=0;
+ for(const [pattern,weight] of rules){pattern.lastIndex=0;const matches=text.match(pattern);if(matches)score+=matches.length*weight;}
+ return score;
+}
+function classifyCategory(article,fallback="Entertainment"){
+ const text=[article.title,article.summary,article.url].filter(Boolean).join(" ").toLowerCase();
+ const scores=Object.fromEntries(CATEGORIES.map(c=>[c,scoreRules(text,CATEGORY_RULES[c])]));
  const ranked=CATEGORIES.map(category=>({category,score:scores[category]})).sort((a,b)=>b.score-a.score);
  const best=ranked[0],second=ranked[1];
- // Avoid arbitrary guesses when a headline has too little subject information.
- if(best.score<3||(best.score-second.score<2&&best.score<6))return CATEGORIES.includes(fallback)?fallback:"World News";
+ if(best.score<3||(best.score-second.score<2&&best.score<6)){
+  if(fallback==="Anime & Comics")return "Entertainment";
+  return CATEGORIES.includes(fallback)?fallback:"Entertainment";
+ }
  return best.category;
+}
+function classifySubcategory(article,category){
+ const rules=SUBCATEGORY_RULES[category];if(!rules)return null;
+ const text=[article.title,article.summary,article.url].filter(Boolean).join(" ").toLowerCase();
+ const ranked=Object.entries(rules).map(([subcategory,patterns])=>({subcategory,score:scoreRules(text,patterns)})).sort((a,b)=>b.score-a.score);
+ const best=ranked[0],second=ranked[1];
+ if(!best||best.score<3||(second&&best.score-second.score<2))return null;
+ return best.subcategory;
 }
 
 for(const s of cfg.sources.filter(x=>x.enabled)){try{
@@ -81,7 +126,7 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
  }catch(e){console.warn("Skipped",s.name,e.message)}}
 
 // Reclassify the complete retained archive as well as newly collected stories.
-const articles=[...map.values()].map(a=>({...a,category:classifyCategory(a,a.category)}))
+const articles=[...map.values()].map(a=>{const category=classifyCategory(a,a.category);return {...a,category,subcategory:classifySubcategory(a,category)}})
  .sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0)).slice(0,500);
 await fs.writeFile(path,JSON.stringify({updatedAt:new Date().toISOString(),articles},null,2)+"\n");
 console.log("Saved",articles.length,"unique articles with automatic categories.");
