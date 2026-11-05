@@ -171,7 +171,8 @@ async function recoverMissingImages(){
 await recoverMissingImages();
 
 // Reclassify the complete retained archive as well as newly collected stories.
-const sourceByName=new Map(cfg.sources.map(source=>[source.name,source]));\nconst articles=[...map.values()].map(a=>{const category=classifyCategory(a,a.category);return {...a,category,subcategory:classifySubcategory(a,category),regions:classifyRegions(a,sourceByName.get(a.publisher)||{region:"GLOBAL"})}})
+const sourceByName=new Map(cfg.sources.map(source=>[source.name,source]));
+const articles=[...map.values()].map(a=>{const category=classifyCategory(a,a.category);return {...a,category,subcategory:classifySubcategory(a,category),regions:classifyRegions(a,sourceByName.get(a.publisher)||{region:"GLOBAL"})}})
  .sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0)).slice(0,5000);
 await fs.writeFile(path,JSON.stringify({updatedAt:new Date().toISOString(),articles},null,2)+"\n");
 console.log("Saved",articles.length,"unique articles with automatic categories.");
