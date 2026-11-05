@@ -3,7 +3,7 @@ const subcategories={"World News":["Politics","Business","World Affairs","Enviro
 const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const date=s=>{const d=new Date(s);return isNaN(d)?"Recently":d.toLocaleDateString(undefined,{month:"short",day:"numeric",year:"numeric"})};
 const params=new URLSearchParams(location.search),requested=params.get("category"),requestedSub=params.get("subcategory"),trend=params.get("trend");
-const category=categories.includes(requested)?requested:null,subcategory=category&&subcategories[category].includes(requestedSub)?requestedSub:null;
+const category=categories.includes(requested)?requested:"World News",subcategory=category&&subcategories[category].includes(requestedSub)?requestedSub:null;
 const title=trend||subcategory||category||"World News";document.title=title+" — Articlea";
 document.getElementById("topic-title").textContent=title;
 document.getElementById("topic-description").textContent=trend?"Recent stories mentioning "+trend+". This topic is detected automatically from Articlea’s collected headlines.":subcategory?"The latest "+subcategory+" stories in "+category+".":"The latest headlines and short previews in "+(category||"World News")+".";
