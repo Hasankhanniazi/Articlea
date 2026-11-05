@@ -41,16 +41,20 @@ document.getElementById("year").textContent=new Date().getFullYear();
   const stop=new Set(["about","after","again","also","among","been","being","could","from","have","into","just","more","most","over","said","than","that","their","them","then","there","these","they","this","those","through","under","very","was","were","what","when","where","which","while","with","would","your","will","have","has","the","and","for","but","not","you","are","its","his","her","she","him","who","how","why","all","one","new","says","say","can","may","now","out","two","get","got","our","per","via","bbc","news"]);
   const words=value=>(String(value||"").toLowerCase().match(/[a-z0-9]{3,}/g)||[]).filter(word=>!stop.has(word));
   const sourceWords=new Set(words(article.title+" "+article.summary));
-  const related=(data.articles||[]).filter(item=>item.url!==article.url).map(item=>{
-   const shared=words(item.title+" "+item.summary).filter(word=>sourceWords.has(word)).length;
-   const sameCategory=item.category===article.category?4:0;
-   return {item,score:sameCategory+shared};
-  }).filter(result=>result.score>0).sort((a,b)=>b.score-a.score||(Date.parse(b.item.publishedAt)||0)-(Date.parse(a.item.publishedAt)||0)).slice(0,4);
+  let currentCountry=window.articleaCountry||"GLOBAL";
   const recommendations=document.getElementById("recommendations");
-  if(related.length){
+  const renderRecommendations=()=>{
+   const related=(data.articles||[]).filter(item=>item.url!==article.url&&(!Array.isArray(item.regions)||item.regions.includes("GLOBAL")||item.regions.includes(currentCountry))).map(item=>{
+    const shared=words(item.title+" "+item.summary).filter(word=>sourceWords.has(word)).length;
+    const sameCategory=item.category===article.category?4:0;
+    return {item,score:sameCategory+shared};
+   }).filter(result=>result.score>0).sort((a,b)=>b.score-a.score||(Date.parse(b.item.publishedAt)||0)-(Date.parse(a.item.publishedAt)||0)).slice(0,4);
+   if(!related.length){recommendations.hidden=true;recommendations.innerHTML="";return}
    recommendations.hidden=false;
-   recommendations.innerHTML=`<div class="recommendation-heading"><div><small>KEEP EXPLORING</small><h2>You may also like</h2></div><span>More stories picked for you</span></div><div class="recommendation-list">${related.map(({item},index)=>`<article class="recommendation-card"><a class="recommendation-image" href="article.html?url=${encodeURIComponent(item.url)}" aria-label="Open ${esc(item.title)} preview">${item.image?`<img src="${esc(item.image)}" alt="" loading="lazy" decoding="async">`:"A"}</a><div class="recommendation-copy"><div class="recommendation-meta">${esc(item.category)}${item.subcategory?" · "+esc(item.subcategory):""} · ${esc(item.publisher||"Publisher")}</div><h3><a href="article.html?url=${encodeURIComponent(item.url)}">${esc(item.title)}</a></h3><p>${esc(item.summary||"Open this story preview to learn more.")}</p><a class="recommendation-open" href="article.html?url=${encodeURIComponent(item.url)}">Read preview →</a></div></article>`).join("")}</div>`;
-  }
+   recommendations.innerHTML=`<div class="recommendation-heading"><div><small>KEEP EXPLORING</small><h2>You may also like</h2></div><span>More stories picked for you</span></div><div class="recommendation-list">${related.map(({item})=>`<article class="recommendation-card"><a class="recommendation-image" href="article.html?url=${encodeURIComponent(item.url)}" aria-label="Open ${esc(item.title)} preview">${item.image?`<img src="${esc(item.image)}" alt="" loading="lazy" decoding="async">`:"A"}</a><div class="recommendation-copy"><div class="recommendation-meta">${esc(item.category)}${item.subcategory?" · "+esc(item.subcategory):""} · ${esc(item.publisher||"Publisher")}</div><h3><a href="article.html?url=${encodeURIComponent(item.url)}">${esc(item.title)}</a></h3><p>${esc(item.summary||"Open this story preview to learn more.")}</p><a class="recommendation-open" href="article.html?url=${encodeURIComponent(item.url)}">Read preview →</a></div></article>`).join("")}</div>`;
+  };
+  renderRecommendations();
+  document.addEventListener("articlea:countrychange",event=>{currentCountry=event.detail?.country||"GLOBAL";renderRecommendations()});
   root.innerHTML=`
    ${article.image?`<img class="detail-image" src="${esc(article.image)}" alt="">`:""}
    <div class="detail-body">
