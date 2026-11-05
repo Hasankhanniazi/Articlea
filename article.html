@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#111b2b">
+<meta name="description" content="Read article previews on Articlea and continue to the original publisher.">
+<title>Article preview — Articlea</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="detail-page">
+<header><a class="logo" href="./"><b>A</b> articlea</a><nav><a href="./#latest">Latest</a><a href="./#topics">Topics</a><a href="./#about">About</a></nav><span class="edition">YOUR DAILY DISCOVERY</span></header>
+<main class="detail-main">
+<a class="back-link" href="./">← Back to Articlea</a>
+<div id="article-content" class="detail-card"><p class="detail-status">Loading article preview…</p></div>
+</main>
+<footer><a class="logo" href="./"><b>A</b> articlea</a><span>Discover more. Read original.</span><span>© <span id="year"></span> Articlea</span></footer>
+<script>
+const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function date(s){const d=new Date(s);return isNaN(d)?"":d.toLocaleDateString(undefined,{month:"long",day:"numeric",year:"numeric"});}
+document.getElementById("year").textContent=new Date().getFullYear();
+(async()=>{
+ const root=document.getElementById("article-content");
+ try{
+  const target=new URLSearchParams(location.search).get("url");
+  if(!target)throw Error("No article was selected.");
+  const response=await fetch("data/articles.json",{cache:"no-store"});
+  if(!response.ok)throw Error("Article data is temporarily unavailable.");
+  const data=await response.json();
+  const article=(data.articles||[]).find(item=>item.url===target);
+  if(!article)throw Error("This article preview is no longer available. It may have expired from the latest feed.");
+  document.title=article.title+" — Articlea";
+  root.innerHTML=`
+   ${article.image?`<img class="detail-image" src="${esc(article.image)}" alt="">`:""}
+   <div class="detail-body">
+    <div class="detail-meta"><span class="pill">${esc(article.category)}</span><span>${esc(article.publisher||"Publisher")}</span>${date(article.publishedAt)?`<span>· ${date(article.publishedAt)}</span>`:""}</div>
+    <h1 class="detail-title">${esc(article.title)}</h1>
+    <p class="detail-excerpt">${esc(article.summary||"A short preview is not available for this story. Visit the publisher to read the full article.")}</p>
+    <div class="preview-note">You're reading an Articlea preview. The full story belongs to its original publisher.</div>
+    <a class="detail-readmore" href="${esc(article.url)}" target="_blank" rel="noopener noreferrer">Read more at ${esc(article.publisher||"the original publisher")} ↗</a>
+   </div>`;
+ }catch(error){
+  root.innerHTML=`<div class="detail-body"><h1 class="detail-title">Preview unavailable</h1><p class="detail-excerpt">${esc(error.message)}</p><a class="detail-readmore" href="./">Return to Articlea</a></div>`;
+ }
+})();
+</script>
+</body>
+</html>
