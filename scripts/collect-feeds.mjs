@@ -12,7 +12,7 @@ const clean=v=>{let value=str(v);const decode=s=>s.replace(/&(#x[0-9a-f]+|#\d+|a
 const url=v=>{try{let raw=str(v).replace(/&amp;amp;/g,"&").replace(/&amp;/g,"&").replace(/&#38;|&#x26;/gi,"&").trim();let u=new URL(raw);if(!["http:","https:"].includes(u.protocol))return "";u.hash="";for(const key of [...u.searchParams.keys()])if(/^(at_medium|at_campaign|utm_.+|fbclid|gclid|ref|source)$/i.test(key))u.searchParams.delete(key);return u.href}catch{return ""}};
 const titleKey=v=>clean(v).toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
 const map=new Map();
-for(const a of (old.articles||[])){const canonical=url(a.url);if(!canonical)continue;const key=canonical;const prev=map.get(key);if(!prev||Date.parse(a.publishedAt)>Date.parse(prev.publishedAt))map.set(key,{...a,url:canonical,image:/no-image|placeholder/i.test(a.image||"")?null:a.image});}
+for(const a of (old.articles||[])){const canonical=url(a.url);if(!canonical)continue;const key=canonical;const prev=map.get(key);if(!prev||Date.parse(a.publishedAt)>Date.parse(prev.publishedAt))map.set(key,{...a,url:canonical,image:/no-image|placeholder|badge|google-play|app-store|play-store|logo|favicon|sprite|avatar|banner/i.test(a.image||"")?null:a.image});}
 const imageUrl=v=>{let u=url(v);if(!u||/no-image|placeholder/i.test(u))return null;try{const p=new URL(u);if(p.hostname==="ichef.bbci.co.uk"){p.pathname=p.pathname.replace(/\/ace\/([^/]+)\/(?:240|320|480|640)\//,"/ace/$1/1024/");p.pathname=p.pathname.replace(/\/images\/ic\/(?:240x135|320x180|480x270)\//,"/images/ic/1024x576/");}return p.href}catch{return u}};
 
 // Classify each story from its own headline, summary and URL, not just its publisher.
