@@ -171,7 +171,7 @@ function pageImage(html,base){
  return null;
 }
 async function recoverMissingImages(){
- const publishers=["Anime News Network","The Guardian","The Nation"];
+ const publishers=["Anime News Network","The Guardian","The Nation","Dawn"];
  for(const publisher of publishers){
   const missing=[...map.values()].filter(a=>a.publisher===publisher&&!a.image&&a.url).slice(0,60);
   for(let i=0;i<missing.length;i+=5){
