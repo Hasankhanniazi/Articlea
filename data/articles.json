@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-06T04:52:58.930Z",
+  "updatedAt": "2026-11-06T05:03:51.681Z",
   "articles": [
+    {
+      "title": "Four children injured as school van overturns in Karachi",
+      "url": "https://arynews.tv/school-van-overturns-in-karachi-four-children-injured",
+      "summary": "Four children injured as school van overturns in Karachi",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-06T04:57:39.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/School-van-Karachi-accident.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
     {
       "title": "David Lynch-Produced Movie Replaces Both Lead Stars Ahead of 2027 Production Start",
       "url": "https://www.cbr.com/david-lynch-hyena-cast-kiernan-shipka-dpharaoh-woon-a-tai/",
@@ -15,6 +28,19 @@
       "subcategory": "Movies"
     },
     {
+      "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested ra",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-06T04:48:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
       "title": "Eight killed, 30 injured in bus-truck collision on Hazara Motorway",
       "url": "https://www.dawn.com/news/2042563/eight-killed-30-injured-in-bus-truck-collision-on-hazara-motorway",
       "summary": "ABBOTABAD: At least eight people were killed and 30 others injured when a passenger bus collided with a dumper truck near the Havelian Interchange on the Hazara Motorway early Friday morning, rescue officials said. The bus was travelling from Gilgit to Rawalpindi when the accident occurred. Initial reports suggested that a tyre burst caused the driver to los",
@@ -26,6 +52,19 @@
         "PK"
       ],
       "subcategory": null
+    },
+    {
+      "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+      "summary": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder Get our daily political email , free app or daily news podcast The Democrats’ stunning midterm victory should broaden Australia’s alliance with the US, observers say, even as a new power base emerges in Washington, affecting A",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-06T04:45:24.000Z",
+      "image": "https://i.guim.co.uk/img/media/434b676957bcf76df3c92156dfeab6b9a4205f75/228_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=2321eaa579480cc31296c332af04b824",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
     },
     {
       "title": "10 Greatest Anime Rivalries of All Time, Ranked",
@@ -52,19 +91,6 @@
         "GLOBAL"
       ],
       "subcategory": "Movies"
-    },
-    {
-      "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested ra",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-06T04:35:07.000Z",
-      "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
     },
     {
       "title": "The 2-Part Fantasy Series That Wasted 2 Smallville Stars Is Still 1 of TV's Biggest Fumbles",
@@ -363,7 +389,8 @@
       "regions": [
         "GLOBAL"
       ],
-      "subcategory": "Politics"
+      "subcategory": "Politics",
+      "image": "https://i.dawn.com/medium/2026/11/041611546520a8a.webp"
     },
     {
       "title": "Talks with govt on petroleum levy in final stages: Jamaat-i-Islami",
@@ -3919,7 +3946,8 @@
       "regions": [
         "PK"
       ],
-      "subcategory": "World Affairs"
+      "subcategory": "World Affairs",
+      "image": "https://i.dawn.com/medium/2026/11/0609572099fa4dd.webp"
     },
     {
       "title": "New wave of bomb threats hits passenger flights across Europe",
