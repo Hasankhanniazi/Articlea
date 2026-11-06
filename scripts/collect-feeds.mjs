@@ -162,7 +162,7 @@ function pageImage(html,base){
   if(!candidate)continue;
   try{
    const absolute=new URL(candidate,base).href;
-   if(/no-image|placeholder|logo|favicon|sprite|avatar|banner|advert|doubleclick/i.test(absolute))continue;
+   if(/no-image|placeholder|logo|favicon|sprite|avatar|banner|badge|google-play|app-store|play-store|social|icon|advert|doubleclick/i.test(absolute))continue;
    if(!/\.(?:jpe?g|png|webp)(?:[?#]|$)/i.test(absolute))continue;
    const normalized=imageUrl(absolute);
    if(normalized)return normalized;
