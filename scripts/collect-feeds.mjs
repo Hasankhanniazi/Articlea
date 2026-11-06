@@ -8,7 +8,7 @@ const old=JSON.parse(await fs.readFile(path,"utf8").catch(()=>'{"articles":[]}')
 
 const arr=v=>v==null?[]:Array.isArray(v)?v:[v];
 const str=v=>typeof v==="string"?v:v&&typeof v==="object"?String(v["#text"]||""):"";
-const clean=v=>{let value=str(v);const decode=s=>s.replace(/&(#x[0-9a-f]+|#\d+|amp|lt|gt|quot|apos|nbsp);/gi,(match,entity)=>{const key=entity.toLowerCase();if(key==="amp")return "&";if(key==="lt")return "<";if(key==="gt")return ">";if(key==="quot")return '"';if(key==="apos")return "'";if(key==="nbsp")return " ";try{return key.startsWith("#x")?String.fromCodePoint(parseInt(key.slice(2),16)):key.startsWith("#")?String.fromCodePoint(parseInt(key.slice(1),10)):match}catch{return " "}});for(let i=0;i<2;i++)value=decode(value);value=value.replace(/<!--[\s\S]*?-->/g," ").replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi," ").replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi," ").replace(/<[^>]*>/g," ");value=decode(value);return value.replace(/<[^>]*>/g," ").replace(/https?:\/\/[^\s]+/gi," ").replace(/\s+/g," ").trim()};
+const clean=v=>{let value=str(v);const decode=s=>s.replace(/&(#x[0-9a-f]+|#\d+|amp|lt|gt|quot|apos|nbsp);/gi,(match,entity)=>{const key=entity.toLowerCase();if(key==="amp")return "&";if(key==="lt")return "<";if(key==="gt")return ">";if(key==="quot")return '"';if(key==="apos")return "'";if(key==="rsquo")return "’";if(key==="lsquo")return "‘";if(key==="ldquo")return "“";if(key==="rdquo")return "”";if(key==="ndash")return "–";if(key==="mdash")return "—";if(key==="hellip")return "…";if(key==="nbsp")return " ";try{return key.startsWith("#x")?String.fromCodePoint(parseInt(key.slice(2),16)):key.startsWith("#")?String.fromCodePoint(parseInt(key.slice(1),10)):match}catch{return " "}});for(let i=0;i<2;i++)value=decode(value);value=value.replace(/<!--[\s\S]*?-->/g," ").replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi," ").replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi," ").replace(/<[^>]*>/g," ");value=decode(value);return value.replace(/<[^>]*>/g," ").replace(/https?:\/\/[^\s]+/gi," ").replace(/\s+/g," ").trim()};
 const url=v=>{try{let raw=str(v).replace(/&amp;amp;/g,"&").replace(/&amp;/g,"&").replace(/&#38;|&#x26;/gi,"&").trim();let u=new URL(raw);if(!["http:","https:"].includes(u.protocol))return "";u.hash="";for(const key of [...u.searchParams.keys()])if(/^(at_medium|at_campaign|utm_.+|fbclid|gclid|ref|source)$/i.test(key))u.searchParams.delete(key);return u.href}catch{return ""}};
 const titleKey=v=>clean(v).toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
 const map=new Map();
@@ -135,8 +135,9 @@ for(const s of cfg.sources.filter(x=>x.enabled)){try{
   if(!link||!title)continue;
   const raw=it.pubDate||it.published||it.updated||null,dt=raw&&Date.parse(str(raw))?new Date(str(raw)).toISOString():null;
   const desc=clean(it.description||it.summary||it["content:encoded"]||"").slice(0,360);
-  let image=it.enclosure?.["@_url"]||it["media:thumbnail"]?.["@_url"]||it["media:content"]?.["@_url"]||"";
-  if(!image)image=desc.match(/https?:\/\/[^\s"'<>]+\.(?:jpg|jpeg|png|webp)/i)?.[0]||"";
+  const mediaValues=[...arr(it.enclosure),...arr(it["media:thumbnail"]),...arr(it["media:content"])];
+  let image=mediaValues.map(value=>value?.["@_url"]||value?.url||"").find(Boolean)||"";
+  if(!image){const rawMedia=[it["content:encoded"],it.description,it.summary].map(str).join(" ");image=rawMedia.match(/<img\b[^>]*(?:src|data-src|data-original)=["']([^"']+)/i)?.[1]||rawMedia.match(/https?:\/\/[^\s"'<>]+\.(?:jpg|jpeg|png|webp)(?:\?[^\s"'<>]*)?/i)?.[0]||"";}
   const canonical=url(link);if(!canonical)continue;const key=canonical;const existing=map.get(key);const item={title,url:canonical,summary:desc,publisher:s.name,category:s.category,publishedAt:dt,image:imageUrl(image),regions:classifyRegions({title,summary:desc,url:canonical},s)};if(!existing||Date.parse(dt)>Date.parse(existing.publishedAt)||(!existing.image&&item.image))map.set(key,{...existing,...item,image:item.image||existing?.image});
  }
  console.log("Collected",s.name);
@@ -154,7 +155,7 @@ function metaContent(html,property){
  return "";
 }
 async function recoverMissingImages(){
- const publishers=["Anime News Network","The Guardian"];
+ const publishers=["Anime News Network","The Guardian","The Nation"];
  for(const publisher of publishers){
   const missing=[...map.values()].filter(a=>a.publisher===publisher&&!a.image&&a.url).slice(0,60);
   for(let i=0;i<missing.length;i+=5){
