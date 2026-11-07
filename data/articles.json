@@ -1,6 +1,930 @@
 {
-  "updatedAt": "2026-11-07T15:37:23.048Z",
+  "updatedAt": "2026-11-07T20:10:16.630Z",
   "articles": [
+    {
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T20:08:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Anthropic adds invisible watermarks to all Claude AI text to meet EU laws",
+      "url": "https://arynews.tv/anthropic-adds-invisible-watermarks-to-all-claude-ai-text-to-meet-eu-laws",
+      "summary": "Anthropic adds invisible watermarks to all Claude AI text to meet EU laws",
+      "publisher": "ARY News",
+      "category": "Technology",
+      "publishedAt": "2026-11-07T20:07:15.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Claude.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Artificial Intelligence"
+    },
+    {
+      "title": "Delap double inspires Forest to stunning win over Man City",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo",
+      "summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T20:02:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "CBS Is Cutting Mark Harmon's NCIS Comeback Short After Just 10 Episodes",
+      "url": "https://www.cbr.com/ncis-origins-season-3-ending-after-10-episodes/",
+      "summary": "Mark Harmon's NCIS comeback is coming to an end in NCIS: Origins Season 3 after just 10 episodes, as the season approaches its halfway point.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T20:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/mark-harmon-as-leroy-jethro-gibbs-in-ncis-origins-season-3-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Henry Cavill's 97-Minute Action Thriller Flop Refuses to Disappear From Streaming Charts",
+      "url": "https://www.cbr.com/in-the-grey-action-thriller-starz-success-november-2026/",
+      "summary": "Henry Cavill's Guy Ritchie-directed action thriller In the Grey flopped in theaters, but it's still a major streaming success on Starz.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T20:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/06/in-the-grey-henry-cavill.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Patrick Stewart's Final Role Makes Doomsday's X-Men Reunion More Important",
+      "url": "https://www.cbr.com/avengers-doomsday-patrick-stewart-final-role/",
+      "summary": "Avengers: Doomsday will be the final film to feature the late Sir Patrick Stewart, and that renders the X-Men's return even more significant.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T20:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/professor-x-reaching-out.jpeg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Comics"
+    },
+    {
+      "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o",
+      "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:59:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Leeds beat Spurs to end five-game winless run",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o",
+      "summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:59:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Arsenal beat Hull to extend lead at top of the table",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo",
+      "summary": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:59:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Clashes erupt in Paris amid new protests across France",
+      "url": "https://www.dawn.com/news/2042809/clashes-erupt-in-paris-amid-new-protests-across-france",
+      "summary": "Thousands of people protested across France on Saturday in a new show of anger against the government, with clashes erupting between police and some protesters in Paris despite a lower turnout than in previous weeks. The protests marked the fourth consecutive weekend of demonstrations against the rising cost of living, which have erupted as the country heads",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:53:28.000Z",
+      "image": "https://i.dawn.com/large/2026/11/072325092c20e07.webp",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland. America stands with Poland at this dark ho",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:51:23.000Z",
+      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "summary": "Knesset has been deadlocked since election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, Prime Minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, Israeli media has ⁠reported, following a deadlocked election that left neither man ⁠with a clear path to power. Isaac",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:49:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/270_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6659afeee8f4fc9bd6e2837c740eb609",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Newport cup tie halted by alleged homophobic chants",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo",
+      "summary": "Newport manager Hayden Mullins condemns alleged abusive chants during Saturday's FA Cup tie against Walsall.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:47:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/171e/live/563c7180-dadf-11f1-88f9-d3c2139f8619.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "CM Bugti's remarks about FWO's performance taken out of context: Balochistan minister",
+      "url": "https://www.dawn.com/news/2042865/cm-bugtis-remarks-about-fwos-performance-taken-out-of-context-balochistan-minister",
+      "summary": "GWADAR: Balochistan Planning Minister Mir Zahoor Ahmad Buledi has said Chief Minister Sarfraz Bugti’s recent remarks regarding the Frontier Works Organisation (FWO) had been presented out of context. Buledi’s clarification comes over a week after CM Bugti acknowledged shortcomings in FWO’s performance while responding to remarks made by National Party leader",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:44:21.000Z",
+      "image": "https://i.dawn.com/large/2026/11/07235919d465268.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o",
+      "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:34:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/57c7/live/371e4cc0-dae3-11f1-b441-2b33b063138f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "27 bottled water brands declared unsafe for consumption in Pakistan",
+      "url": "https://arynews.tv/27-bottled-water-brands-declared-unsafe-for-consumption-in-pakistan",
+      "summary": "27 bottled water brands declared unsafe for consumption in Pakistan",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:29:53.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Bottle.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo",
+      "summary": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:26:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/84ec/live/ac5b64c0-dae6-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Former winners Wigan progress to second round of FA Cup",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo",
+      "summary": "Wigan live up to their pedigree as FA Cup winners as they sweep aside Boreham Wood with goals from Jon Mellish and Morgan Fox, who strikes twice.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:23:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b1cc/live/0069cdb0-dad1-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Paraguay's former president charged after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:17:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "WNBA reacts to Caitlin Clark’s viral cheeseball challenge",
+      "url": "https://arynews.tv/wnba-reacts-to-caitlin-clarks-viral-cheeseball-challenge",
+      "summary": "WNBA reacts to Caitlin Clark’s viral cheeseball challenge",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:15:24.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-2026-11-08T000955.930.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "7 Biggest Transformers Titans, Ranked by Size",
+      "url": "https://www.cbr.com/biggest-transformers-titans-ranked-by-size/",
+      "summary": "These Transformers Titans make all other robots in disguise look small.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T19:15:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/9876svu7h0zb1-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Altrincham take shock lead against Notts County",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8vgx29yyrw0o",
+      "summary": "Lewis Banks scores from close range to put the National League's Altrincham 2-1 up against League One side Notts County in the first round of the FA Cup.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T19:08:23.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fe96/live/f1922370-dadd-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+      "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels Listen to the podcast: Chris Bowen on how he’ll reach consensus at Cop31 Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Australia has been urged to set aside support f",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:00:20.000Z",
+      "image": "https://i.guim.co.uk/img/media/bb286d73fb7d844e4e9bbf6f098aca4d917fe76f/127_0_5701_4561/master/5701.jpg?width=140&quality=85&auto=format&fit=max&s=742f8319ef65817b462bb6fc943c7e16",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Environment"
+    },
+    {
+      "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
+      "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaign Get our daily political email , free app or daily news podcast The commitment that made Ben Carroll premier may ultimately cost him the election. On Monday morning, right in the middle of a state election campaign, the royal commission into Victoria’",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-07T19:00:19.000Z",
+      "image": "https://i.guim.co.uk/img/media/8c639709fffda9b930d49d011734b4c7cba4ef67/294_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=f4cdd0a0f9c2b488500e29ec890f1dd9",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "November 11 Will Be A Perfect Day For Hobbit Fans",
+      "url": "https://www.cbr.com/the-hobbit-a-graphic-novel-release-date-confirmed/",
+      "summary": "The middle of November will be a momentous occasion for Hobbit fans, with the release of two new stories to behold.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T19:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/06/bilbo-holding-sting-in-the-hobbit.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "11 Years Later, CBS's 7-Season Crime Classic Is Bigger Than Game of Thrones & Breaking Bad",
+      "url": "https://www.cbr.com/the-mentalist-crime-imdb-popularity-november-2026/",
+      "summary": "More than a decade after its finale, The Mentalist is still outranking massive shows like Game of Thrones and Breaking Bad on IMDb.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T19:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/03/the-mentalist-robin-tunney-emily-swallow.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Zoids Brings Back Its Iconic Blade Liger With Major New Battle Upgrade",
+      "url": "https://www.cbr.com/zoidsblade-liger-realize-model-kit-reveal/",
+      "summary": "The REALIZE MODEL kit series finally adds one of the most iconic Zoids mech designs, with a new version of the Blade Liger releasing next year.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T19:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/03/blade-liger.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Poland says 6 killed in shooting in central Krakow",
+      "url": "https://www.dawn.com/news/2042857/poland-says-6-killed-in-shooting-in-central-krakow",
+      "summary": "Poland’s police said on Saturday that six people were killed and around a dozen wounded after a gunman opened fire in the historic centre of its second city, Krakow. A man drove a car onto Krakow’s Main Square and began shooting at random people, said police. Officers shot a suspect who is now in custody, they added. “As a result of the incident, five people",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-07T18:56:56.000Z",
+      "image": "https://i.dawn.com/large/2026/11/07215459ef01b54.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan's men down South Korea to win Asian Team Squash title",
+      "url": "https://www.dawn.com/news/2042864/pakistans-men-down-south-korea-to-win-asian-team-squash-title",
+      "summary": "ISLAMABAD: Pakistan defeated South Korea 2-0 in the men’s final of the 23rd Asian Team Squash Championship at the Mushaf Squash Complex on Saturday. In the men’s final, Pakistan’s Noor Zaman and Asim Khan outclassed their respective opponents. Noor beat Jeongmin Ryu 11-5, 11-7, 13-11 while Asim outplayed Seojin Oh 11-6, 11-5, 11-4 to give Pakistan the title.",
+      "publisher": "Dawn",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:56:37.000Z",
+      "image": "https://i.dawn.com/large/2026/11/072346008f3b679.webp",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Bates double earns Dover upset win over Wealdstone",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo",
+      "summary": "Jack Bates' first-half brace gives National League South side Dover Athletic a 2-0 win over the National League's Wealdstone in the first round of the FA Cup.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:49:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f360/live/c8658c60-dada-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Timothy Olyphant's 8-Part Sci-Fi Horror Reaches Massive Production Milestone",
+      "url": "https://www.cbr.com/timothy-olyphant-alien-earth-season-2-production-wrap/",
+      "summary": "The series is part of a long-running sci-fi franchise.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T18:43:15.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/timothy-olyphant-daisy-and-the-six-premiere.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Sophie Cunningham’s off-court success leaves NBA stars behind",
+      "url": "https://arynews.tv/sophie-cunninghams-off-court-success-leaves-nba-stars-behind",
+      "summary": "Sophie Cunningham’s off-court success leaves NBA stars behind",
+      "publisher": "ARY News",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:40:40.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Sophie-Cunningham-4.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Basketball"
+    },
+    {
+      "title": "Chelsea surrender top spot after home draw with Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmz98dpl3vjgo",
+      "summary": "A Lucy Bronze own goal gives Everton a hard earned 1-1 draw at Stamford Bridge, as Chelsea drop to second in the WSL table.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:35:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/974c/live/c35cbec0-dabf-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o",
+      "summary": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the WSL table.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:35:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/00cb/live/8640e3f0-dac8-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Argentina set to go to Cas after Fifa rejects appeals",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo",
+      "summary": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:33:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo",
+      "summary": "Jordan Thewlis scores a stoppage-time penalty to give seventh-tier Guiseley a dramatic 1-0 win over Sutton United in their FA Cup first round tie at Nethermoor Park.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:32:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7fce/live/948e65e0-dad7-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "NBC Confirms Kevin Atwater's Replacement in Chicago PD Season 14",
+      "url": "https://www.cbr.com/chicago-pd-season-14-penny-kevin-atwater-replacement/",
+      "summary": "NBC has replaced Kevin Atwater in Chicago PD Season 14, as the 21st District Intelligence Unit undergoes major changes and welcomes a new member.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T18:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/kevin-atwater-laroyce-hawkins-looks-back-at-someone-in-chicago-p-d.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "The 10 Greatest Fantasy Books of the Last 25 Years, Ranked",
+      "url": "https://www.cbr.com/greatest-fantasy-books-last-25-years-ranked-list/",
+      "summary": "Fantasy has evolved exponentially in the last 25 years but these fictional masterpieces are already considered modern classics of a beloved genre.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T18:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/mistborn-cropped.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "National League Carlisle upset League Two leaders Salford",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po",
+      "summary": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:29:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/26ab/live/9a9679e0-dad8-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "IESCO notifies power suspension schedule",
+      "url": "https://arynews.tv/iesco-notifies-power-suspension-schedule",
+      "summary": "IESCO notifies power suspension schedule",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T18:28:31.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-2026-11-01T184047.534.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Title race hots up before Chelsea-Man City showdown",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo",
+      "summary": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:27:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Govt announces auto policy with focus on cheaper vehicles, EVs",
+      "url": "https://www.dawn.com/news/2042835/govt-announces-auto-policy-with-focus-on-cheaper-vehicles-evs",
+      "summary": "The federal government on Saturday introduced the new auto policy, with a special focus on cheaper vehicles and electric vehicles (EVs). Information Minister Attaullah Tarar and Adviser to the Prime Minister for Industries and Production Haroon Akhtar Khan announced the policy while addressing a press conference in Islamabad. Akhtar said the process of the c",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-07T18:24:51.000Z",
+      "image": "https://i.dawn.com/large/2026/11/071831415184ba2.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T18:14:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo",
+      "summary": "Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:11:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Cricket"
+    },
+    {
+      "title": "AMD CEO Lisa Su: 'We are a data center-first company'",
+      "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+      "summary": "Congratulations.",
+      "publisher": "PC Gamer",
+      "category": "World News",
+      "publishedAt": "2026-11-07T18:10:16.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qDK99x7KtDSDHFZjKX9dj3-1920-80.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Powell and Phillips star as Bradford put seven past Marine",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o",
+      "summary": "Nick Powell and Adam Phillips both score a brace as Bradford City hammer National League North side Marine 7-0 in the first round of the FA Cup.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T18:02:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9e4f/live/fac89500-dad3-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+      "summary": "I'm kinda just playing chiller PvE, here.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-07T18:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6Ywe8m6nRRzBLZTNpNbAXn-1920-80.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "url": "https://arynews.tv/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts",
+      "summary": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "publisher": "ARY News",
+      "category": "Technology",
+      "publishedAt": "2026-11-07T17:58:48.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Kenyan-researchers-from-a-Save-the-Elephants.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Artificial Intelligence"
+    },
+    {
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
+      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T17:58:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistani startup led by Nust graduate wins award at Silicon Valley summit",
+      "url": "https://www.dawn.com/news/2042860/pakistani-startup-led-by-nust-graduate-wins-award-at-silicon-valley-summit",
+      "summary": "Pakistani startup RLabs has won the best startup award at the Silicon Valley November Summit in California, with the government on Saturday hailing the achievement as showcasing the “growing strength of our startup ecosystem”. RLabs, a Pakistani startup incubated at the National Incubation Centre for Aerospace Technologies (Nicat) and led by Harris Ahmed, wo",
+      "publisher": "Dawn",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T17:47:30.000Z",
+      "image": "https://i.dawn.com/large/2026/11/07222126a7b9706.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Salisbury put six past Sholing to advance to second round",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o",
+      "summary": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T17:39:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
+      "url": "https://arynews.tv/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce",
+      "summary": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T17:26:51.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Taftan-Border.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o",
+      "summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T17:23:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Nepra raises special industrial tariff to Rs25.30 per unit, despite dissent",
+      "url": "https://www.dawn.com/news/2042708/nepra-raises-special-industrial-tariff-to-rs2530-per-unit-despite-dissent",
+      "summary": "• Two members oppose revision, saying actual marginal cost stands at Rs31.83/unit • Power regulator warns of package suspension and legal action over missed deadlines • Consumers to pay an additional Rs2.37/unit in Nov bills to recover Rs25bn under fuel cost adjustment ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) on Friday announced a",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-07T17:17:28.000Z",
+      "image": "https://i.dawn.com/large/2026/07/14075542978dc65.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "summary": "Poland’s interior minister says there were indications the gunman was “fascinated by far-right ideology” Kraków shooting – latest updates Six people have been killed and 16 injured after a shooting in a market square in Kraków, Poland. A man who had driven into the square at about 3pm began “firing at random people from his car”, according to a statement by",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-07T17:17:23.000Z",
+      "image": "https://i.guim.co.uk/img/media/44d89feb8fd3d623f15ee900fa818b7ea8bacb9e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b1112e07502aff450bcdb9a2908dda9",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T17:09:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o",
+      "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T17:00:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+      "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+      "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby’s birth, say campaigners. Twelve birth centres – midwife-led maternity units –",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-07T17:00:16.000Z",
+      "image": "https://i.guim.co.uk/img/media/c3c6b99f0a024d3deb184dea44054eed0944f26e/149_0_4233_3386/master/4233.jpg?width=140&quality=85&auto=format&fit=max&s=26c1dba7e069d172d2bf6f8fc2b4be74",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Memoirs of Amorous Gentlemen Musical Review",
+      "url": "https://www.animenewsnetwork.com/review/memoirs-of-amorous-gentlemen/musical/.243017",
+      "summary": "The first American manga musical and final work of Duncan Sheik is a mixed bag, carried by an amazing lead performance.",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-07T17:00:00.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR0/cms/review.2/243017/screenshot-2026-10-19-at-11.43.05-pm.png.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Manga"
+    },
+    {
+      "title": "What's the toughest choice you've made in an RPG?",
+      "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+      "summary": "Unburden yourself.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-07T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ahPWtukZQkroGgxFKvPUZT-1920-80.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan Railways targets 14 freight trains by January 2027",
+      "url": "https://arynews.tv/pakistan-railways-targets-14-freight-trains-by-january-2027",
+      "summary": "Pakistan Railways targets 14 freight trains by January 2027",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:55:20.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Freight-trains.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:50:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Pakistan unveils ‘New Auto Policy’, targets $6bn in vehicle exports",
+      "url": "https://arynews.tv/pakistan-unveils-new-auto-policy-targets-6bn-in-vehicle-exports",
+      "summary": "Pakistan unveils ‘New Auto Policy’, targets $6bn in vehicle exports",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:48:45.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Auto-policy.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+      "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown Three teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high school, in Tuffley, shortly after 8.50am on Friday. It was reported that two people, one in",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:41:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/0453031071a4359ad9f3f2d5a0161318653a79a5/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4ad44051a3555f0c5e5bd98dc35c5c23",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "US ‘Task Force Iron Gate’ in the works to restrict Iranian land commerce alongside naval blockade",
+      "url": "https://www.dawn.com/news/2042856/us-task-force-iron-gate-in-the-works-to-restrict-iranian-land-commerce-alongside-naval-blockade",
+      "summary": "After a months-long naval blockade on Iran, the US military has announced the establishment of a task force to bolster Washington’s efforts to restrict Tehran’s movement of advanced weapons systems and other sanctioned material across its land borders and the Caspian Sea. The announcement of the task force, designated “Iron Gate”, was made on Saturday in a s",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:39:34.000Z",
+      "image": "https://i.dawn.com/large/2026/06/18222855fbfda9b.webp",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o",
+      "summary": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-07T16:35:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Ueno Bank depositors start getting money back: Paraguay Central Bank official",
+      "url": "https://arynews.tv/ueno-bank-depositors-start-getting-money-back-paraguay-central-bank-official",
+      "summary": "Ueno Bank depositors start getting money back: Paraguay Central Bank official",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:15:33.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Ueno-Bank.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan Information Commission seeks disclosure of travel allowances, perks and expenses of NA committees",
+      "url": "https://www.dawn.com/news/2042852/pakistan-information-commission-seeks-disclosure-of-travel-allowances-perks-and-expenses-of-na-committees",
+      "summary": "ISLAMABAD: The Pakistan Information Commission (PIC) has directed the National Assembly Secretariat to provide detailed information regarding expenditures, travel allowances, perks and privileges of chairpersons and members of parliamentary standing committees and subcommittees. The order, issued by Information Commissioner Ijaz Hassan Awan and Chief Informa",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:14:55.000Z",
+      "image": "https://i.dawn.com/large/2020/06/5ed9c6fbbc4ba.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Punjab introduces fully electric road sweeper truck",
+      "url": "https://arynews.tv/punjab-introduces-fully-electric-road-sweeper-truck",
+      "summary": "Punjab introduces fully electric road sweeper truck",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T16:09:02.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Truck-1.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "How to get CNIC without B-Form or Birth Certificate: NADRA explains",
+      "url": "https://arynews.tv/how-to-get-cnic-without-b-form-or-birth-certificate-nadra-explains",
+      "summary": "How to get CNIC without B-Form or Birth Certificate: NADRA explains",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T15:56:58.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/NADRA.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T15:56:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
     {
       "title": "Pakistan’s first astronaut and his mission: All you need to know",
       "url": "https://arynews.tv/pakistans-first-astronaut-set-to-join-chinese-space-station-mission",
@@ -14,6 +938,19 @@
         "GLOBAL"
       ],
       "subcategory": null
+    },
+    {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-07T15:19:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
     },
     {
       "title": "8 Strongest Non-Canon Dragon Ball Heroes, Ranked",
@@ -198,19 +1135,6 @@
       "subcategory": "Anime"
     },
     {
-      "title": "No clear winner after tight New Zealand general election",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-07T15:00:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
       "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
       "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
       "summary": "I recommend openSUSE Tumbleweed, personally.",
@@ -313,19 +1237,6 @@
         "GLOBAL"
       ],
       "subcategory": "Conflicts"
-    },
-    {
-      "title": "Govt announces auto policy with focus on cheaper vehicles, EVs",
-      "url": "https://www.dawn.com/news/2042835/govt-announces-auto-policy-with-focus-on-cheaper-vehicles-evs",
-      "summary": "The federal government on Saturday introduced the new auto policy, with a special focus on cheaper vehicles and electric vehicles (EVs). Information Minister Attaullah Tarar and Adviser to the Prime Minister for Industries and Production Haroon Akhtar Khan announced the policy while addressing a press conference in Islamabad. Speaking to the media, Akhtar sa",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-07T14:26:30.000Z",
-      "image": "https://i.dawn.com/large/2026/11/071831415184ba2.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
     },
     {
       "title": "WhatsApp tests new privacy feature to hide your phone number behind username",
@@ -609,19 +1520,6 @@
       "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Peshawar-High-Court.jpg",
       "regions": [
         "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Two men arrested after boy injured in Gloucester sword attack",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-      "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday Two teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high school, in Tuffley, shortly after 8.50am on Friday. It was reported that two men –",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-07T12:32:29.000Z",
-      "image": "https://i.guim.co.uk/img/media/0453031071a4359ad9f3f2d5a0161318653a79a5/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4ad44051a3555f0c5e5bd98dc35c5c23",
-      "regions": [
-        "GLOBAL"
       ],
       "subcategory": null
     },
@@ -1212,19 +2110,6 @@
         "GLOBAL"
       ],
       "subcategory": "Football"
-    },
-    {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-07T07:20:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
     },
     {
       "title": "Not playing at Man City 'horrendous' - Trafford",
@@ -13434,6 +14319,19 @@
       ]
     },
     {
+      "title": "'I persuaded my club to give me a job as a content creator'",
+      "url": "https://www.bbc.co.uk/bitesize/articles/zgv7dnb",
+      "summary": "Jacob discusses his route into his job as a content creator for a football club. Find out more about his role, career progression and top tips for getting into a similar role.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T10:15:00.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0pcy7f1.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
       "title": "Ever wondered what it's like to work on Match of the Day?",
       "url": "https://www.bbc.co.uk/bitesize/articles/zk64b7h",
       "summary": "BBC Bitesize Careers finds out about the jobs people do on Match of the Day and how they got their roles",
@@ -13454,6 +14352,19 @@
       "category": "Sports",
       "publishedAt": "2026-09-23T11:17:47.000Z",
       "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0pc16gm.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "How to become a football referee",
+      "url": "https://www.bbc.co.uk/bitesize/articles/z84w9ty",
+      "summary": "Fifa and NIFL Premiership referee, Louise Thompson, explains her career path. Find out more about referees' salary, skills and training.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T10:01:04.000Z",
+      "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0p7bkxk.png",
       "regions": [
         "GLOBAL"
       ],
