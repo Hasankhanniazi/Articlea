@@ -1,6 +1,344 @@
 {
-  "updatedAt": "2026-11-08T22:26:49.362Z",
+  "updatedAt": "2026-11-09T01:55:55.651Z",
   "articles": [
+    {
+      "title": "10 Best Sci-Fi Anime of All Time, According to MyAnimeList",
+      "url": "https://www.cbr.com/best-sci-fi-anime-ever-myanimelist-ranked-list/",
+      "summary": "Some of anime's best and most beloved hits are sci-fi titles, but there are some extra special series that fans have championed as the genre's best.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:45:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/steins-gate-s-okabe-and-kurisu-in-front-of-multiple-screens-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+      "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird nor realise there was a “massive” gunshot wound to the 26-yea",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-09T01:44:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+      "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Get our breaking news email , free app or daily news podcast Family members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime. Emergency",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-09T01:30:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/6cdcfeabc345f0a7e521638862e85ad5c5125b6e/0_174_1516_1212/master/1516.jpg?width=140&quality=85&auto=format&fit=max&s=da413ca53e68c59303cae117c71ea52d",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "10 Greatest Street Fighter Bosses of All Time, Ranked",
+      "url": "https://www.cbr.com/street-fighter-greatest-bosses-of-all-time-ranked/",
+      "summary": "Street Fighter's history of bosses contains some of the hardest challenges in fighting games.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:30:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/street-fighter-ii-m-bison.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "10 Strongest Demon Slayer Characters at the End of the Manga",
+      "url": "https://www.cbr.com/strongest-demon-slayer-characters-end-of-manga-list/",
+      "summary": "Not every Demon Slayer character made it to the end of the manga, but the ones that survived were true powerhouses.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:15:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/muzan-is-wearing-a-suit-and-smiling-softly-while-addressing-the-head-of-the-demon-slayer-corps-in-demon-slayer.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Manga"
+    },
+    {
+      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+      "summary": "President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fighters Donald Trump said on Sunday that he “was only kidding” when he announced a day earlier that he had offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship ( UFC ). Speaking to",
+      "publisher": "The Guardian",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T01:10:55.000Z",
+      "image": "https://i.guim.co.uk/img/media/bd59d8bbfe95eb6a46d7a98c6c485d6c246d296c/1023_574_3265_2613/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=6f79b9b2de71d5627a16c8f3746aa578",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Boxing & MMA"
+    },
+    {
+      "title": "Every Lightsaber Color's Meaning, Explained",
+      "url": "https://www.cbr.com/star-wars-lightsaber-color-meanings-explained/",
+      "summary": "Each fan has their favorite lightsaber color, but each hue has its own meaning in Star Wars continuity that defines its wielder and their philosophy.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:00:13.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/darth-sidious-still.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "One Piece Officially Gives Luffy a New Rubber Duck Transformation",
+      "url": "https://www.cbr.com/one-piece-luffy-rubber-duck-transformation/",
+      "summary": "Every One Piece fan is talking about Luffy's new form in the manga, but it's actually his rubber ducky form that's bound to make the biggest splash.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/d40f2b2a-6163-456b-a34a-2ec4e602c0d0-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "Forget Reacher, Alan Ritchson's R-Rated Revenge Thriller Is a Certified Streaming Smash",
+      "url": "https://www.cbr.com/alan-ritchson-motor-city-streaming-hit-november-2026/",
+      "summary": "Alan Ritchson is quickly becoming one of streaming's biggest stars, with his R-rated revenge thriller shooting up the most-watched chart.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/09/motor-city-alan-ritchson.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "10 Hardest Turn-Based RPGs of the 2000s",
+      "url": "https://www.cbr.com/hardest-turn-based-rpgs-of-the-2000s/",
+      "summary": "These turn-based RPGs from the 2000s not only punished players for mistakes, they crushed gamers' souls with games that felt impossible to beat.",
+      "publisher": "Comic Book Resources",
+      "category": "Gaming",
+      "publishedAt": "2026-11-09T01:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/vagrant-story-artwork.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Say Goodbye To The Punisher As His Replacement Is Officially Announced",
+      "url": "https://www.cbr.com/the-punisher-replacement-officially-announced/",
+      "summary": "Move over Frank Castle, Marvel Comics original vigilante psychopath is officially back.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/the-punisher-one-last-kill-header.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Comics"
+    },
+    {
+      "title": "Lanterns Got One Thing Very Wrong About The Green Lantern Corps",
+      "url": "https://www.cbr.com/lanterns-got-one-thing-very-wrong-about-the-green-lantern-corps/",
+      "summary": "The HBO series divided a lot of opinions, but it's no secret that it got one thing very wrong with the Green Lantern Corps.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T01:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/10/the-green-lanterns-pose-together-with-guy-gardner-kyle-rayner-hal-jordan-john-stewart-and-kilowog.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Jamie Foxx's Halloween Party Ends in Chaos With Stabbing and Arrest",
+      "url": "https://www.cbr.com/jamie-foxx-halloween-party-stabbing/",
+      "summary": "Jamie Foxx's annual Halloween bash took a violent turn on Saturday night.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T00:55:04.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/05/jamie-foxx-in-number-one-on-the-call-sheet.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Warhammer Blood Bowl has been delayed into early 2027",
+      "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
+      "summary": "One more turn.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-09T00:45:39.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/yYFgBZtpHgQ9MwUKngZ8tV-1920-80.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Gen Hoshino Performs Hirayasumi TV Anime's Opening Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-08/gen-hoshino-performs-hirayasumi-tv-anime-opening-song/.243631",
+      "summary": "Series debuts next January",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T00:44:26.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.10/242284/cwop-26817-hirayasumi-japansociety-posters-1-copy.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Maya Jama steps down as Love Island host after nine seasons",
+      "url": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
+      "summary": "‘Time to throw myself into something new,’ 32-year-old presenter announces on social media while hailing her ‘unforgettable time’ on the show Maya Jama has announced she is stepping down as the host of Love Island after three years. The 32-year-old presenter of the reality TV show made the announcement on Instagram. Continue reading...",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-09T00:43:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/066efd5ebd16c1941181a5d4525fb02da2a33a6f/446_0_3804_3044/master/3804.jpg?width=140&quality=85&auto=format&fit=max&s=ea502f242227544cec124dc3deb52191",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Godzilla Minus Zero Earns Record $32 Million in N. American Opening Weekend",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-08/godzilla-minus-zero-earns-record-32-million-in-n-american-opening-weekend/.243628",
+      "summary": "Highest-ever U.S. opening for live-action foreign film adds to global total of US$63 million",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-09T00:41:47.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.9/239467/bafkreieus7mvngxcunaow4evfcbc7skdfjw4wy5w4mmtqdxj6alchyvpie.webp",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+      "summary": "Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night Get our breaking news email , free app or daily news podcast A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city in mourning. On Friday night, HungryPanda delivery rider Feng Jianming, 47, and",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-09T00:38:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/4954ad8d5503c8161345548e255e4fdf2719dd1d/585_40_1083_867/master/1083.jpg?width=140&quality=85&auto=format&fit=max&s=5ec33b002d331556a841dce611707272",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The New York Times reported in ​October that Donald Trump had been b",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-09T00:25:28.000Z",
+      "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=140&quality=85&auto=format&fit=max&s=57b1a4b39c9e4d81da1942f21f2da458",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+      "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is increasing disengagement from education. Lucy Powell wants schools to end the wi",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-09T00:01:05.000Z",
+      "image": "https://i.guim.co.uk/img/media/29cf0e38613d5172328a5e922b8a72c9980a3b77/517_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=6ae6737332d56f99bafc50538b6adb85",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo",
+      "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T23:53:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a524/live/05c078e0-dbcb-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Why defenders hate playing against brilliant Brobbey",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo",
+      "summary": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T23:53:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/467d/live/c9a93670-dbcb-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "'A horrible place to be' - What's gone wrong for Palace?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o",
+      "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T23:53:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ede/live/d9895230-dbcd-11f1-b441-2b33b063138f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o",
+      "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T23:41:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-08T23:34:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+      "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+      "summary": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support from their GP as part of a £40m drive aimed at keeping them out of hospital this winter. As the NHS gears up for the pressures of the coming months, family doctors wi",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-08T22:30:51.000Z",
+      "image": "https://i.guim.co.uk/img/media/cb9d98c7d6af56a8ddc942e7ca0ecbd07ab9f309/1650_0_4722_3780/master/4722.jpg?width=140&quality=85&auto=format&fit=max&s=6d19c6d6f5d41d448b789a52d638d903",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
     {
       "title": "5 Strongest Ninja Villages in Naruto, Ranked",
       "url": "https://www.cbr.com/strongest-ninja-villages-naruto-ranked-list/",
@@ -80,19 +418,6 @@
       "subcategory": "Business"
     },
     {
-      "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-      "summary": "Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night Get our breaking news email , free app or daily news podcast A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city in mourning. On Friday night, HungryPanda delivery rider Feng Jianming, 47, and",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T22:03:59.000Z",
-      "image": "https://i.guim.co.uk/img/media/4954ad8d5503c8161345548e255e4fdf2719dd1d/585_40_1083_867/master/1083.jpg?width=140&quality=85&auto=format&fit=max&s=5ec33b002d331556a841dce611707272",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
       "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
       "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko",
       "summary": "Oldham Athletic stage an FA Cup upset by beating Sheffield Wednesday 2-1 in extra time at Boundary Park, with a 110th-minute winner from Will Sutton securing victory and handing Dave Challinor defeat in his first game in charge for The Owls.",
@@ -143,6 +468,19 @@
         "GLOBAL"
       ],
       "subcategory": "Business"
+    },
+    {
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-08T21:37:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
     },
     {
       "title": "10 Years Later, David Duchovny's Best Detective Role Is Still the Perfect Anti-Mulder",
@@ -221,19 +559,6 @@
         "GLOBAL"
       ],
       "subcategory": "Politics"
-    },
-    {
-      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-      "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The Republican-led foreign affairs and intelligence committees of th",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T21:00:58.000Z",
-      "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/1816_254_6098_4878/master/6098.jpg?width=140&quality=85&auto=format&fit=max&s=90bf64ebcb2ef6e0ae0390bf9e4979cf",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
     },
     {
       "title": "Anya Taylor-Joy's $1 Billion Space Adventure Runs Out of Gas on Streaming",
@@ -327,6 +652,19 @@
       "subcategory": "Football"
     },
     {
+      "title": "CM Maryam removes Jhelum DC over exam postponement ahead of her visit",
+      "url": "https://www.nation.com.pk/09-Nov-2026/cm-maryam-removes-jhelum-dc-exam-postponement-ahead-visit",
+      "summary": "JHELUM/LAHORE - Punjab Chief Minister Maryam Nawaz Sharif on Sunday removed Deputy Commissioner Jhelum Mir Reza Ozgen from his post after the district administration sought postponement of an HSSC examination scheduled for November 10, coinciding with her planned visit to the district.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-08T20:21:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
       "title": "Who has made Troy's Premier League team of the week?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o",
       "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
@@ -340,6 +678,32 @@
       "subcategory": "Football"
     },
     {
+      "title": "Nation observes 149th birth anniversary of Allama Iqbal today",
+      "url": "https://www.nation.com.pk/09-Nov-2026/nation-observes-149th-birth-anniversary-allama-iqbal-today",
+      "summary": "LAHORE - The nation will observe the 149th birth anniversary of national poet and philosopher Dr Allama Muhammad Iqbal on Monday (November 9) with renewed commitment to his vision of an independent Muslim state, self-respect, unity and intellectual awakening.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-08T20:14:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Hamza Shahbaz meets Hindu community delegation, extends Diwali greetings",
+      "url": "https://www.nation.com.pk/09-Nov-2026/hamza-shahbaz-meets-hindu-community-delegation-extends-diwali-greetings",
+      "summary": "ISLAMABAD - Former Punjab chief minister Hamza Shahbaz Sharif on Sunday met a delegation of the Hindu community, led by Member of the National Assembly (MNA) Dr Darshan, at the Prime Minister’s Office here on the occasion of Diwali.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-08T20:14:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
       "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
       "url": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
       "summary": "Man taken to hospital after falling off Royal Caribbean ship in Pacific Ocean, with Coast Guard investigating incident A pianist for a Royal Caribbean cruise ship is expected to survive after two Newport Beach, California , fishermen discovered him treading water in the Pacific Ocean nearly 20 miles (32km) offshore on Friday. The unidentified man was taken t",
@@ -351,6 +715,58 @@
         "GLOBAL"
       ],
       "subcategory": null
+    },
+    {
+      "title": "PM felicitates President Aliyev, Azerbaijan nation on Victory Day",
+      "url": "https://www.nation.com.pk/09-Nov-2026/pm-felicitates-president-aliyev-azerbaijan-nation-victory-day",
+      "summary": "ISLAMABAD - Prime Minister Muhammad Shehbaz Sharif, Sunday, extended his warmest felicitations to President Ilham Aliyev and the brave and brotherly people of Azerbaijan on the sixth anniversary of Victory Day.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-08T20:13:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "NCCIA recovers Rs2.94m for woman defrauded of Rs 9.5m",
+      "url": "https://www.nation.com.pk/09-Nov-2026/nccia-recovers-rs2-94m-woman-defrauded-rs-9-5m",
+      "summary": "ISLAMABAD - The National Cyber Crime Investigation Agency (NCCIA) Islamabad has recovered Rs 2.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-08T20:13:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Trump says he is unlikely to order Iran attack if talks progress",
+      "url": "https://www.nation.com.pk/09-Nov-2026/trump-says-unlikely-order-iran-attack-talks-progress",
+      "summary": "WASHINGTON - US President Donald Trump has said he is highly unlikely to order fresh attacks on Iran as long as talks to end the conflict progress, CNN reported.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-08T20:13:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "NAB seeks NHA procurement record relating to Asad Mehmood’s tenure",
+      "url": "https://www.nation.com.pk/09-Nov-2026/nab-seeks-nha-procurement-record-relating-asad-mehmood-s-tenure",
+      "summary": "ISLAMABAD - The National Accountability Bureau (NAB) has directed the Chairman of the National Highway Authority (NHA) to furnish procurement records relating to the tenure of former federal minister for communications Maulana Asad Mehmood within the next 48 hours, in what appears to be an expansion of the ongoing investigation against the former.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-08T20:11:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
     },
     {
       "title": "$28K To Millions: Sophie Cunningham and WNBA’s big change",
@@ -782,19 +1198,6 @@
       "subcategory": null
     },
     {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:22:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
       "title": "No marital dispute reported between Rabia Ahsan and husband, family tells police",
       "url": "https://arynews.tv/no-marital-dispute-reported-between-rabia-ahsan-and-husband-family-tells-police",
       "summary": "No marital dispute reported between Rabia Ahsan and husband, family tells police",
@@ -845,19 +1248,6 @@
         "GLOBAL"
       ],
       "subcategory": "Nintendo"
-    },
-    {
-      "title": "Teaching GCSEs early risks turning schools into ‘exam factories’, education secretary warns",
-      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-      "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning it is increasing disengagement from education. Lucy Powell wants schools to end the widespr",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:07:54.000Z",
-      "image": "https://i.guim.co.uk/img/media/29cf0e38613d5172328a5e922b8a72c9980a3b77/517_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=6ae6737332d56f99bafc50538b6adb85",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
     },
     {
       "title": "Trump vows comeback as bitter showdown with Congress looms",
