@@ -1,18 +1,1039 @@
 {
-  "updatedAt": "2026-11-13T01:00:50.527Z",
+  "updatedAt": "2026-11-13T07:50:15.289Z",
   "articles": [
     {
-      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Jensen Huang is expected to testify before the US Congress in",
+      "title": "Microsoft says 'not aware of any malicious activity' causing Outlook outage",
+      "url": "https://www.dawn.com/news/2044258/microsoft-says-not-aware-of-any-malicious-activity-causing-outlook-outage",
+      "summary": "Microsoft said that it was not aware of any “malicious activity” behind the hours-long disruption of its Outlook services. “As of now, we are not aware of any malicious activity that is causing this incident. We will continue to treat this incident with urgency and priority until full resolution,” Microsoft said. Microsoft services such as Outlook and Teams",
+      "publisher": "Dawn",
+      "category": "Technology",
+      "publishedAt": "2026-11-13T07:44:43.000Z",
+      "image": "https://i.dawn.com/large/2026/11/13124409bb44140.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "LPG prices surge to Rs530/kg in Karachi",
+      "url": "https://arynews.tv/lpg-prices-surge-to-rs530-kg-in-karachi",
+      "summary": "LPG prices surge to Rs530/kg in Karachi",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:39:37.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/LPG-pricesKarachi.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-13T07:37:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/41f4/live/622835f0-df31-11f1-911b-97a04d97270a.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan’s mineral exploration increasingly focused on strategic resources, minister tells investors",
+      "url": "https://www.dawn.com/news/2044267/pakistans-mineral-exploration-increasingly-focused-on-strategic-resources-minister-tells-investors",
+      "summary": "Petroleum Minister Ali Pervaiz Malik said on Friday that Pakistan’s exploration efforts were increasingly focused on minerals that were of strategic importance to global investors. He was addressing the Pakistan Minerals Investment Forum 2026 (PMIF26) in Islamabad, where delegations, exhibitors and attendees have arrived from across the world to attend the e",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:27:54.000Z",
+      "image": "https://i.dawn.com/large/2026/11/13120227f72bf2e.webp",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Delhi overtakes Lahore as world's most polluted major city as air quality deteriorates",
+      "url": "https://www.dawn.com/news/2044265/delhi-overtakes-lahore-as-worlds-most-polluted-major-city-as-air-quality-deteriorates",
+      "summary": "India’s capital, Delhi, overtook Lahore to become the world’s most polluted city on Friday, with air quality reaching hazardous levels and visibility dropping as smog blanketed the city of 20 million people. Earlier, Delhi’s air quality index (AQI) stood at 334, categorised as “hazardous”, making it the most polluted major city globally, according to Swiss a",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:26:55.000Z",
+      "image": "https://i.dawn.com/large/2026/11/131153219a267b8.webp",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Peshawar police ban private jirgas across city",
+      "url": "https://arynews.tv/peshawar-police-ban-private-jirgas-across-city",
+      "summary": "Peshawar police ban private jirgas across city",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:24:16.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/jirga.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Three killed in firing over children’s dispute in Attock",
+      "url": "https://arynews.tv/three-killed-in-firing-over-childrens-dispute-in-attock",
+      "summary": "Three killed in firing over children’s dispute in Attock",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:21:29.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Attock-firing-children-fight.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "What happened overnight with the Microsoft global outage",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-13T07:18:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Israeli settler representative turned back after arriving in France",
+      "url": "https://arynews.tv/israeli-settler-representative-turned-back-after-arriving-in-france",
+      "summary": "Israeli settler representative turned back after arriving in France",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:11:52.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Yossi-Dagan.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "FBR officers fail competency test, only 29 qualify to independently decide tax cases",
+      "url": "https://arynews.tv/fbr-officers-fail-competency-test-only-29-qualify",
+      "summary": "FBR officers fail competency test, only 29 qualify to independently decide tax cases",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:08:14.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FBR-offices-fail-test.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
+      "summary": "Few solid clues have emerged as to the true nature of Megaspeed, whose former director Alice Huang has been accused of being a Chinese spy Get our breaking news email , free app or daily news podcast From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang A lottery retailer in rural Australia, a dilapidated storefront in Kuala Lum",
       "publisher": "The Guardian",
       "category": "Technology",
-      "publishedAt": "2026-11-13T00:44:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/06d384564fbc81b578cacdc1b55f26b478bccb02/438_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=e3f98cc8492314845668bf7c919131a1",
+      "publishedAt": "2026-11-13T07:07:41.000Z",
+      "image": "https://i.guim.co.uk/img/media/b6d8e7412b6ad0886ec252e47c04e538337b8daf/867_0_4345_3476/master/4345.jpg?width=140&quality=85&auto=format&fit=max&s=0717fbe994fa703664a5d9604f727ac1",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Israel says will ban French hard-left leader Melenchon from entry",
+      "url": "https://arynews.tv/israel-says-will-ban-french-hard-left-leader-melenchon-from-entry",
+      "summary": "Israel says will ban French hard-left leader Melenchon from entry",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:06:43.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Jean-Luc-Melenchon.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Democratic US Senator Chris Van Hollen announces run for US Senate majority leader, challenging Schumer",
+      "url": "https://www.dawn.com/news/2044266/democratic-us-senator-chris-van-hollen-announces-run-for-us-senate-majority-leader-challenging-schumer",
+      "summary": "Democratic US Senator Chris Van Hollen said on Thursday he would run for Senate majority leader, challenging Chuck Schumer, who has led the Democrats in the Senate since 2017, after the Democratic Party won a majority in the chamber in the midterm elections. Schumer, who is expected to retain his party’s leadership in the chamber but previously predicted not",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T07:02:43.000Z",
+      "image": "https://i.dawn.com/large/2026/11/08132846a5eff12.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o",
+      "summary": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-13T06:57:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Student council constitution awaiting Sindh govt approval, KU tells SHC",
+      "url": "https://arynews.tv/student-council-constitution-awaiting-sindh-govt-approval-ku-tells-shc",
+      "summary": "Student council constitution awaiting Sindh govt approval, KU tells SHC",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:56:48.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/KU.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Security forces kill 74 terrorists during IBOs in Khyber Pakhtunkhwa, Balochistan: ISPR",
+      "url": "https://www.dawn.com/news/2044260/security-forces-kill-74-terrorists-during-ibos-in-khyber-pakhtunkhwa-balochistan-ispr",
+      "summary": "Security forces have killed 74 terrorists during intelligence-based operations (IBOs) in Khyber Pakhtunkhwa (KP) and Balochistan, said a statement by the military’s media wing on Friday. In a breakdown of casualties from operations conducted in KP over the past 48 hours, the Inter-Services Public Relations (ISPR) said 35 terrorists were killed in Mir Ali, No",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:51:48.000Z",
+      "image": "https://i.dawn.com/large/2018/02/5a75e8b073d25.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Calls for crackdown on China chip exports – as it happened",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+      "summary": "This live blog is now closed – you can read our latest report here Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips,",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:50:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-13T06:42:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+      "subcategory": "Football",
+      "regions": [
+        "GLOBAL"
+      ]
+    },
+    {
+      "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Nvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testif",
+      "publisher": "The Guardian",
+      "category": "Technology",
+      "publishedAt": "2026-11-13T06:34:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175",
       "regions": [
         "GLOBAL"
       ],
       "subcategory": "Artificial Intelligence"
+    },
+    {
+      "title": "IHC admits appeals against PTI founder, Bushra Bibi’s convictions in £190 mln case",
+      "url": "https://arynews.tv/ihc-admits-appeals-against-pti-founder-bushra-bibis-convictions",
+      "summary": "IHC admits appeals against PTI founder, Bushra Bibi’s convictions in £190 mln case",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:29:28.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Islamabad-High-Court-IHC.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
+      "summary": "Greens say they will not direct preferences to Labor in 15 seats after party’s ‘unforgivable’ decision earlier in week Get our daily political email , free app or daily news podcast The Greens have retaliated against Labor’s decision to run an open ticket in a key inner-city seat by refusing to direct preferences to the party in 15 electorates across the sta",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:16:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/299ca057bd2e7758beac23346a48b6968734c813/460_0_4600_3680/master/4600.jpg?width=140&quality=85&auto=format&fit=max&s=cfaed272d5c5a6e363b556972986b69d",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "74 khwarij killed in security operations in Quetta and KP: ISPR",
+      "url": "https://arynews.tv/74-khwarij-killed-in-security-operations-in-quetta-and-kp-ispr",
+      "summary": "74 khwarij killed in security operations in Quetta and KP: ISPR",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:02:13.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/ispr.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan’s foreign reserves stand $ 26.84 bln",
+      "url": "https://arynews.tv/pakistans-foreign-reserves-stand-26-84-bln",
+      "summary": "Pakistan’s foreign reserves stand $ 26.84 bln",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:00:18.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/SBP-1.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
+      "summary": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating Children’s exposure to home wood-burning could be as significant as exposure to traffic exhaust, suggests new research across six European towns and cities. Scientists measured the air in buildings where children spend much of their time; in schools, sp",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:00:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/19d4ea7474c5c562ef867a64234a9343bedc2da0/190_0_4756_3805/master/4756.jpg?width=140&quality=85&auto=format&fit=max&s=ec21eaaff15085c46f902ff3232f1163",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Environment"
+    },
+    {
+      "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+      "url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+      "summary": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on death row in Iran said he will “never surrender” as he accepted a prestigious human rights prize on behalf of “the generation that is paying the price of freedom with their lives”.",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T06:00:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/ae911a85a5e3f88e9b0812fc2e2ee4780633d4b5/0_1_2320_1856/master/2320.jpg?width=140&quality=85&auto=format&fit=max&s=b3984b367b1faf3a0bae461597f477ad",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "‘Nonsense’: Pat Cummins strongly rejects Usman Khawaja’s ball-tampering allegations",
+      "url": "https://arynews.tv/pat-cummins-rejects-usman-khawajas-ball-tampering-allegations",
+      "summary": "‘Nonsense’: Pat Cummins strongly rejects Usman Khawaja’s ball-tampering allegations",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:54:43.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Pat-Cummins-Usman-Khawaja-allegations.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Karachi police bust Rs3.75 crore robbery, foreign woman’s accountant arrested",
+      "url": "https://arynews.tv/karachi-police-bust-rs3-75-crore-robbery-foreign-womans-accountant-arrested",
+      "summary": "Karachi police bust Rs3.75 crore robbery, foreign woman’s accountant arrested",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:45:01.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/fake-dacoity.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
+      "summary": "Former police officer tells court ‘it was never a plan to murder anybody’ as prosecution repeatedly suggests to him he planned to kill Jesse Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he never planned to murder anybody and if he did, he reiterated he would use stolen vehicles and a gun not l",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:33:48.000Z",
+      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/568_316_2704_2164/master/2704.jpg?width=140&quality=85&auto=format&fit=max&s=dedebc6ad3ee4e3b8a0b19c66271e51f",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "'Draw This, Then Die!' Manga Takes 2-Month Break to Prepare for Final Arc",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-13/draw-this-then-die-manga-takes-2-month-break-to-prepare-for-final-arc/.243776",
+      "summary": "Author also working on manga's upcoming book volume releases",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T05:25:15.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC4/cms/news.10/243776/drawthisthendie-engvol1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Manga"
+    },
+    {
+      "title": "Joint investigation team seizes pistol of Mir Raza’s business partner",
+      "url": "https://www.dawn.com/news/2044147/joint-investigation-team-seizes-pistol-of-mir-razas-business-partner",
+      "summary": "KARACHI: The Joint Investigation Team (JIT), formed by the Sindh government, to probe the mysterious death of a young businessman, Mir Raza Ali, has seized the licensed pistol of his partner. Without naming the partner, West DIG Irfan Baloch, who heads the JIT, said on Thursday that the North Nazimabad branch of Mir Raza’s food chain has also been sealed for",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:23:29.000Z",
+      "image": "https://i.dawn.com/large/2026/08/112221474be66f2.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "MCU Star Calls for James Gunn's Return for Guardians of the Galaxy 4 After DCU Exit",
+      "url": "https://www.cbr.com/chris-pratt-james-gunn-guardians-of-the-galaxy-4/",
+      "summary": "James Gunn could be coming back to the MCU much earlier than anyone expected.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T05:22:31.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/guardians-of-the-galaxy-vol-3.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "ESA’s Euclid telescope maps over 900 million galaxies",
+      "url": "https://www.dawn.com/news/2044208/esas-euclid-telescope-maps-over-900-million-galaxies",
+      "summary": "PARIS: The European Space Agency has released its first big collection of data from the orbiting Euclid telescope’s mission to map the universe’s large-scale structure, including observations of more than 900 million galaxies, as scientists investigate the puzzling cosmic components dark matter and dark energy. The data unveiled on Thursday covered a survey",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:17:14.000Z",
+      "image": "https://i.dawn.com/large/2026/11/130706163c37214.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan strengthens global mining partnerships via high-level engagements at PMIF",
+      "url": "https://arynews.tv/pakistan-strengthens-global-mining-partnerships-at-pmif",
+      "summary": "Pakistan strengthens global mining partnerships via high-level engagements at PMIF",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:15:12.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Pakistan-Ali-Pervaiz-Malik-PMIF.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "OECD report reveals migration to developed countries is dwindling",
+      "url": "https://www.dawn.com/news/2044207/oecd-report-reveals-migration-to-developed-countries-is-dwindling",
+      "summary": "PARIS: Migration to developed countries dwindled for a second year in a row in 2025, down 1.6pc compared to the previous year, according to an OECD report published on Thursday. While still experiencing high numbers, the 38 Organisation for Economic Cooperation and Development (OECD) countries recorded 6.1 million new permanent immigrants in 2025, compared t",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:09:32.000Z",
+      "image": "https://i.dawn.com/large/2026/11/13100725a7cd6f6.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
+      "url": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
+      "summary": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits Germany’s defence minister has promised a “zero tolerance” approach to sexual abuse in the armed forces after a study found soldiers, particularly women, faced extensive harassment within the ranks. The first comprehensive study of i",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T05:00:09.000Z",
+      "image": "https://i.guim.co.uk/img/media/837555255c920a1d24efa566e3b98cd61f760012/664_26_6521_5217/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=1ffbedc2b4c98b8cc15a6af5ce8e6098",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Two arrested after pet lioness kills farmhouse worker in Lahore's Kahna",
+      "url": "https://www.dawn.com/news/2044121/two-arrested-after-pet-lioness-kills-farmhouse-worker-in-lahores-kahna",
+      "summary": "LAHORE: A farmhouse owner and a TikToker were arrested on Thursday after a 19-year-old farmhouse employee was killed by a pet lioness in the farmhouse in the Kahna area on Thursday. A spokesperson for the office of the deputy inspector general (DIG) of police identified the arrested suspects as farmhouse owner Fayyaz and TikToker Nauman. The spokesperson sai",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:59:58.000Z",
+      "image": "https://i.dawn.com/large/2023/03/30112128291465c.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Bandai's Gashapon Capsule Prize Machine Now Transforms Into a Robot",
+      "url": "https://www.animenewsnetwork.com/interest/2026-11-12/bandai-gashapon-capsule-prize-machine-now-transforms-into-a-robot/.243757",
+      "summary": "In celebration of Gashapon's 50th anniversary",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:59:00.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/interest.3/243757/gashapon-robo-2026.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
+      "summary": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of union Get our breaking news email , free app or daily news podcast A major contractor on a troubled Victorian rail project shut down by union officials was warned that the minister’s office felt it would not “have any more work” in the state if it did not resolv",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:51:17.000Z",
+      "image": "https://i.guim.co.uk/img/media/c44ea5bfebb371ea898e153db1ec41d0573374c8/0_0_5673_4541/master/5673.jpg?width=140&quality=85&auto=format&fit=max&s=de76ae79a71100d5b23b1d4fb226cf24",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "4 Weakest SMILE Devil Fruits in One Piece, Ranked",
+      "url": "https://www.cbr.com/one-piece-weakest-smile-devil-fruits/",
+      "summary": "One Piece's SMILE Devil Fruits are generally weaker than natural Zoans, but some are practically useless",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:45:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/05/mixcollage-31-may-2024-09-53-pm-2464.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+      "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’ Microsoft outage – live updates Microsoft struggles to fix huge outage affecting Outlook and Teams Australian schools, courts and government services have been hurled back in time to how business used to be done after a global Microsoft outage cau",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:40:14.000Z",
+      "image": "https://i.guim.co.uk/img/media/f0ae4d035807e736dec6925a910e633298856938/354_12_2900_2321/master/2900.jpg?width=140&quality=85&auto=format&fit=max&s=b58ddccfb92d65c3df2d33ed079fedfa",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Kuwait introduces digital entry, exit alerts via Sahel application",
+      "url": "https://arynews.tv/kuwait-introduces-digital-entry-exit-alerts-via-sahel-application",
+      "summary": "Kuwait introduces digital entry, exit alerts via Sahel application",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:38:29.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Revocation.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Milly Alcock's Supergirl Expected to Be Removed from DCU After James Gunn Exit",
+      "url": "https://www.cbr.com/supergirl-milly-alcock-recast-james-gunn-dc-exit/",
+      "summary": "A new report about the majored DC Studios shakeup coincides with recent rumors about Milly Alcock's Supergirl firing.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:37:36.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/milly-alcock-in-supergirl.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Consumer courts can’t hear insurance policyholder's complaints, LHC holds",
+      "url": "https://www.dawn.com/news/2044152/consumer-courts-cant-hear-insurance-policyholders-complaints-lhc-holds",
+      "summary": "LAHORE: The Lahore High Court has ruled that consumer courts lack jurisdiction to entertain complaints filed by policyholders against insurance companies. Justice Jawad Hassan issued the ruling on a petition filed by the United Insurance Company of Pakistan Limited against an order passed by the District Consumer Court in Bhakkar. The consumer court had over",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:33:48.000Z",
+      "image": "https://i.dawn.com/large/2025/12/07105322df3c134.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "The Banned Star Trek Episode That Remains 1 of TNG's Best, 38 Years Later",
+      "url": "https://www.cbr.com/star-trek-the-next-generation-banned-episode-conspiracy/",
+      "summary": "One of the best episodes of Star Trek: The Next Generation was censored at its release and still stands out for its shocking use of body horror.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/patrick-stewart-as-capt-jean-luc-picard-in-a-red-lit-room-from-season-1-s-conspiracy-episode.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "15 Calvin & Hobbes Comics Perfect For The Holidays",
+      "url": "https://www.cbr.com/calvin-hobbes-comics-perfect-for-the-holidays/",
+      "summary": "Calvin and Hobbes comics present a comical look at the holidays. These strips in particular prove perfect for bringing joy during the season.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:30:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/12/calvin-and-hobbes-sleeping-next-to-a-roaring-fire-and-a-tree-on-christmas.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Comics"
+    },
+    {
+      "title": "Iran’s Guards say they targeted a US early-warning radar in Bahrain",
+      "url": "https://arynews.tv/irans-guards-say-they-targeted-a-us-early-warning-radar-in-bahrain",
+      "summary": "Iran’s Guards say they targeted a US early-warning radar in Bahrain",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:16:29.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Iran-IRGC-Bahrain-US-bases.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Rapid population growth termed ‘national emergency’",
+      "url": "https://www.dawn.com/news/2044151/rapid-population-growth-termed-national-emergency",
+      "summary": "• Ahsan Iqbal seeks linking NFC award to development, sustainability indicators • Scholars highlight role of birth spacing in protecting mother, child’s health ISLAMABAD: The first meeting of the Executive Committee of the National Population Council (NPC) agreed that rapidly growing population was a national emergency requiring urgent and coordinated action",
+      "publisher": "Dawn",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:15:14.000Z",
+      "image": "https://i.dawn.com/large/2026/11/1309130594ed38b.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "10 Most Anticipated RPGs of 2027, Ranked",
+      "url": "https://www.cbr.com/most-anticipated-rpgs-of-2027-ranked/",
+      "summary": "With new Kingdom Hearts, Final Fantasy, and Pokémon games on the way, RPG fans have a lot of games to look forward to in 2027.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:15:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/hpu2y8wbeaas1l7.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan calls for ‘immediate’ end to Houthi attacks on Saudi Arabia as UNSC renews Yemen sanctions",
+      "url": "https://www.dawn.com/news/2044254/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-as-unsc-renews-yemen-sanctions",
+      "summary": "WASHINGTON: Pakistan called for the “immediate and unconditional” cessation of Houthi attacks on Saudi Arabia on Thursday, as the United Nations Security Council adopted a resolution renewing sanctions against individuals and entities threatening peace and stability in Yemen. The resolution also sought to restrict the Houthis’ access to components and chemic",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:12:33.000Z",
+      "image": "https://i.dawn.com/large/2026/11/13090303017bf9a.webp",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Comic Market: Ticketpay Service Restricts Access for International Users",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/comic-market-ticketpay-service-restricts-access-for-international-users/.243774",
+      "summary": "Staff is now investigating alternate ways for overseas ticket buyers",
+      "publisher": "Anime News Network",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:11:44.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCK/herald/203010/comiket3.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Transformers Brings Back 12 Classic G1-Era Designs in Massive New Release",
+      "url": "https://www.cbr.com/transformers-blokees-wheels-spark-of-legacy-wave-5-reveal/",
+      "summary": "A new Blokees Wheels wave reveals classic Generation 1 Transformers, including recognizable Autobots and some of the most obscure Decepticons ever.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:10:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/g1-optimus-prime.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Tracker Adds an Anti-Colter Shaw to Justin Hartley's Show in Season 4",
+      "url": "https://www.cbr.com/tracker-season-4-josh-holloway/",
+      "summary": "Tracker is officially getting its very own anti-Colter Shaw in Season 4, and viewers have less than two weeks left to wait for their debut.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:08:24.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/03/tracker-image-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Johnny Depp's New Dark Fantasy Film Is Already Very Polarizing",
+      "url": "https://www.cbr.com/ebenezer-rotten-tomatoes-score/",
+      "summary": "Filmgoers may need to see the dark fantasy film for themselves with the critics split down the middle.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:05:55.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/ebenezer-johnny-depp-and-a-ghost.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "Yuri Is My Job! Manga Gets Short Drama Adaptation Next Spring",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775",
+      "summary": "Drama to debut on Tatedora app",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T04:03:18.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF3/cms/news.7/212066/yuriismyjob.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Manga"
+    },
+    {
+      "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
+      "url": "https://arynews.tv/trump-says-us-does-not-need-iran-deal-directs-vance-to-focus-on-domestic-corruption",
+      "summary": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T04:02:16.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Donald-Trump-Iran-war.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "publisher": "BBC Technology",
+      "category": "World News",
+      "publishedAt": "2026-11-13T03:57:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
+      "url": "https://arynews.tv/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands",
+      "summary": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
+      "publisher": "ARY News",
+      "category": "Sports",
+      "publishedAt": "2026-11-13T03:56:02.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Microsoft-1.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "10 Strongest Pokémon Owned by Team Plasma, Ranked",
+      "url": "https://www.cbr.com/strongest-team-plasma-pokemon-ranked/",
+      "summary": "Team Plasma preaches that Pokémon deserve freedom from trainers, yet the group’s Pokémon fight as obedient weapons.",
+      "publisher": "Comic Book Resources",
+      "category": "Sports",
+      "publishedAt": "2026-11-13T03:45:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/05/pok-mon-team-plasma-could-have-saved-black-white-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Constrained partnership",
+      "url": "https://www.dawn.com/news/2044221/constrained-partnership",
+      "summary": "“Trust takes years to build, seconds to break, and forever to repair.” Anonymous THIS observation aptly describes Pakistan’s relationship with one of its most important international health partners. Since 2003, the Global Fund to Fight AIDS, Tu­­berculosis and Malaria has disbursed more than $1.1 billion to Pakistan’s HIV, tuberculosis and malaria programme",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T03:19:49.000Z",
+      "image": "https://i.dawn.com/large/2024/07/66a31d2925124.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "summary": "This live blog is now closed. Chris Van Hollen to challenge Chuck Schumer for Senate majority leader Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T03:04:16.000Z",
+      "image": "https://i.guim.co.uk/img/media/d151820dd96f644a510e876cd48686056cafc4e2/689_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2d8e96acae31bb7b5c0561284485e542",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T03:02:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+      "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs , including one that involved an alleged Chinese spy and two wit",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T03:02:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/16a9e0aed91c3b4022e42015b6599e223f5d81ab/0_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ee231f477f9f6916b617e58d71aa04d5",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
+      "summary": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to tif.questions@theguardian.com He has been leading protests since he was 14. Joshua Wong has been on the cover of Time magazine, the focus of a Netflix documentary an",
+      "publisher": "The Guardian",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T03:00:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/2f692a0889fecf071b874a4533743ccc5fa34564/409_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=352aaca4dea16d907e591e9bfc88a049",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Teto Kasane Comes to Fortnite Festival",
+      "url": "https://www.animenewsnetwork.com/interest/2026-11-12/teto-kasane-comes-to-fortnite-festival/.243754",
+      "summary": "And will appear in Fortnite Battle Royale with Vocaloid idol Hatsune Miku",
+      "publisher": "Anime News Network",
+      "category": "Gaming",
+      "publishedAt": "2026-11-13T03:00:00.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/interest.3/243754/kasane-teto-fortnite-festival.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Ambition without scale?",
+      "url": "https://www.dawn.com/news/2044217/ambition-without-scale",
+      "summary": "PAKISTAN’S newly announced Auto Policy 2026-31 promises cheaper vehicles, higher localisation, exports, employment, improved safety and cleaner transportation. These are worthy objectives. But can they be achieved simultaneously in an industry constrained by limited scale, proliferating makes and models, and the absence of competitive upstream steel, petroch",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T02:57:18.000Z",
+      "image": "https://i.dawn.com/large/2025/09/68d0ad88b3c24.png",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Rizwan, Imam probe nearing completion, says Naqvi",
+      "url": "https://www.dawn.com/news/2044234/rizwan-imam-probe-nearing-completion-says-naqvi",
+      "summary": "LAHORE: The investigation into senior cricketers Mohammad Rizwan and Imam-ul-Haq by the National Cyber Crime Investigation Agency (NCCIA) is nearing completion, while the Pakistan Cricket Board (PCB) is also set to announce new central contracts for its players, chairman Mohsin Naqvi said on Thursday. Talking to the media here, Naqvi said he had spoken to th",
+      "publisher": "Dawn",
+      "category": "Sports",
+      "publishedAt": "2026-11-13T02:53:22.000Z",
+      "image": "https://i.dawn.com/large/2026/09/071344522822fc5.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Cricket"
+    },
+    {
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "publisher": "BBC World News",
+      "category": "Technology",
+      "publishedAt": "2026-11-13T02:48:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Cybersecurity"
+    },
+    {
+      "title": "Global Microsoft outage affecting tens of thousands of users",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-13T02:38:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber’s majority in January. “In this election, the American people",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-13T02:30:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/bd5948d3a86dcb725370ac7b2860e4a9b940c3e8/305_0_6133_4910/master/6133.jpg?width=140&quality=85&auto=format&fit=max&s=c54f3e3e2af0fe12644ef1779223cf30",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Work in full swing to plug crater at Tarbela project site",
+      "url": "https://www.dawn.com/news/2044133/work-in-full-swing-to-plug-crater-at-tarbela-project-site",
+      "summary": "HARIPUR: The civil work, meant to plug the crater caused by the collapse of a weak rock mass in the intake pit area of the Tarbela Dam 5th Extension Hydropower Project (T-5), is in full swing. Engineers and project workers are busy round the clock to ensure the project is commissioned according to schedule, according to an official source at the project site",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T02:21:36.000Z",
+      "image": "https://i.dawn.com/large/2026/11/1303105555fbace.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Security withdrawn from both PML-N, ‘Q’ MPs in Gujrat, claim officials",
+      "url": "https://www.dawn.com/news/2044120/security-withdrawn-from-both-pml-n-q-mps-in-gujrat-claim-officials",
+      "summary": "GUJRAT: The district police withdrew the policemen deployed for the security of both the PML-Q and PML-N ministers, lawmakers and ex-lawmakers on merit and without any discrimination, claim officials. Official sources say that a total of 30 policemen deployed for the security of political figures belonging to different parties have been withdrawn. However, o",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T02:01:58.000Z",
+      "image": "https://i.dawn.com/large/2025/11/02153854c49e8e1.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-13T02:01:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "14 killed in UAE as driver loses control of truck",
+      "url": "https://www.dawn.com/news/2044202/14-killed-in-uae-as-driver-loses-control-of-truck",
+      "summary": "DUBAI: A crash and fire involving a truck and several other vehicles in the United Arab Emirates’ Fujairah emirate killed 14 people and injured 30 others, police said on Thursday, in one of the UAE’s deadliest road crashes. Fujairah Police said the truck driver lost control of his vehicle shortly before midnight on Sheikh Khalifa bin Zayed Road, near the ent",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T01:59:33.000Z",
+      "image": "https://i.dawn.com/large/2026/11/130946548f2f442.webp",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Visa barriers push students from US and UK to Asia",
+      "url": "https://www.dawn.com/news/2044197/visa-barriers-push-students-from-us-and-uk-to-asia",
+      "summary": "AMSTERDAM: Inter­national students are turning away from the United States and Britain in favour of universities in Asia and continental Europe, a global university survey showed on Thursday, as tighter visa rules redraw the global map of higher education. International students typically pay far higher fees than domestic ones and are a major source of reven",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T01:59:33.000Z",
+      "image": "https://i.dawn.com/large/2026/11/130956381f2ac0b.webp",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Police ban private jirgas in Peshawar",
+      "url": "https://www.dawn.com/news/2044193/police-ban-private-jirgas-in-peshawar",
+      "summary": "• Wedding halls, hotels warned against hosting such gatherings • CCPO cites gun culture, clashes and hefty charges as reasons behind instructions PESHAWAR: Police have imposed a ban on private jirgas (informal dispute-resolution gatherings) and warned wedding halls and other venues against allowing such meetings on their premises, cautioning that violations",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T01:58:07.000Z",
+      "image": "https://i.dawn.com/large/2016/01/56a6d4e57b8bf.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "After igniting new provinces debate, Naqvi floats option of referendum",
+      "url": "https://www.dawn.com/news/2044196/after-igniting-new-provinces-debate-naqvi-floats-option-of-referendum",
+      "summary": "• Assures political parties will be taken into confidence before any decision is made • Acknowledges widespread corruption amid controversy over Salik’s allegations • Dismisses speculation about deal involving PTI founder LAHORE: Interior Minister Mohsin Naqvi on Thursday floated the idea of holding a referendum to gauge public opinion on the creation of new",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-13T01:58:07.000Z",
+      "image": "https://i.dawn.com/large/2026/09/05150455cce9cc8.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Wolfenstein 3 is in production at MachineGames",
+      "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+      "summary": "Blazkowicz is backscowicz.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-13T01:35:32.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kLcpoTPbNywZi79u2Nox5C-1920-80.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748",
+      "summary": "Akira film animation director Takashi Nakamura helms film, credited for original concept",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T01:00:00.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/youtube/p4TQLRaQZH4.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o",
+      "summary": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T00:54:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
     },
     {
       "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
@@ -28,26 +1049,13 @@
       "subcategory": "Cricket"
     },
     {
-      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senat",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-13T00:41:50.000Z",
-      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
-      "summary": "Former police officer tells court he bought sim card under name ‘Bob Ballard’ because he planned to go to media about alleged bullying from sergeant Beau Lamarre-Condon has told a Sydney court he obtained a sim card under a pseudonym a month before allegedly murdering two men because he wanted to go to the media about bullying allegations in the police force",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-13T00:34:23.000Z",
-      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/568_316_2704_2164/master/2704.jpg?width=140&quality=85&auto=format&fit=max&s=dedebc6ad3ee4e3b8a0b19c66271e51f",
+      "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo",
+      "summary": "She is the first British female solo singer to play a five-gig residency at the venue.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-13T00:24:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5082/live/72d9ab70-df33-11f1-a701-fddedf244c16.jpg",
       "regions": [
         "GLOBAL"
       ],
@@ -116,19 +1124,6 @@
         "GLOBAL"
       ],
       "subcategory": "TV Shows"
-    },
-    {
-      "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-      "summary": "Chief financial officer Colette Kress to take over on interim basis but other names are in mix to be permanent successor The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs , including one that involved an alleged Chinese spy an",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-13T00:03:57.000Z",
-      "image": "https://i.guim.co.uk/img/media/16a9e0aed91c3b4022e42015b6599e223f5d81ab/0_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ee231f477f9f6916b617e58d71aa04d5",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
     },
     {
       "title": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
@@ -209,6 +1204,32 @@
       "subcategory": null
     },
     {
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
+      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-12T23:42:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "'Utter nonsense', Australia skipper Cummins denies involvement in sandpaper plot",
+      "url": "https://www.dawn.com/news/2044173/utter-nonsense-australia-skipper-cummins-denies-involvement-in-sandpaper-plot",
+      "summary": "Australia captain Pat Cummins has again denied any involvement in the plot to use sandpaper on the ball in a 2018 Test against South Africa, calling the allegations in Usman Khawaja’s autobiography “utter nonsense”. Former Australian batsman Khawaja, whose autobiography was published this week, said last weekend that all the players at Newlands knew about th",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-12T23:38:14.000Z",
+      "image": "https://i.dawn.com/large/2026/11/1304361293a2c2d.webp",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
       "title": "Football Daily",
       "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn",
       "summary": "Harry Kane becomes the most-capped England men's player in history.",
@@ -220,19 +1241,6 @@
         "GLOBAL"
       ],
       "subcategory": "Football"
-    },
-    {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "publisher": "BBC Technology",
-      "category": "Technology",
-      "publishedAt": "2026-11-12T23:34:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Artificial Intelligence"
     },
     {
       "title": "10 Strongest Hidden Village Leaders in Naruto Ranked",
@@ -568,6 +1576,33 @@
       "image": "https://i.guim.co.uk/img/media/b4acac1601b9f710431ded13966983fd4bbb8c0b/0_164_1170_935/master/1170.jpg?width=140&quality=85&auto=format&fit=max&s=7aacb82c58148d1f8eb11fde4b7fbe66",
       "regions": [
         "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Punjab CM offers incentives to attract investment in mineral sector",
+      "url": "https://www.nation.com.pk/13-Nov-2026/punjab-cm-offers-incentives-attract-investment-mineral-sector",
+      "summary": "ISLAMABAD/LAHORE - Punjab Chief Minister Maryam Nawaz Sharif on Thursday has announced a range of incentives for domestic and foreign investors in the province’s mining sector, including interest-free loans of up to Rs5 billion, concessional land leases and dedicated mineral processing zones.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-12T20:33:00.000Z",
+      "image": "https://www.nation.com.pk/print_images/large/2026-11-13/punjab-cm-offers-incentives-attract-investment-mineral-sector-1794515602-3641.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "One dead, four hurt as gunman opens fire in neighborhood near White House",
+      "url": "https://www.nation.com.pk/13-Nov-2026/one-dead-four-hurt-gunman-opens-fire-neighborhood-near-white-house",
+      "summary": "WASHINGTON - Five people were shot, one of them fatally, on Thursday in a trendy Washington neighborhood within walking distance of the White House, prompting a widespread law enforcement response in the area, police said.",
+      "publisher": "The Nation",
+      "category": "World News",
+      "publishedAt": "2026-11-12T20:31:00.000Z",
+      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-13/Lahore/epaper_img_1794535254.jpg",
+      "regions": [
+        "PK"
       ],
       "subcategory": null
     },
@@ -1090,6 +2125,19 @@
         "GLOBAL"
       ],
       "subcategory": "Artificial Intelligence"
+    },
+    {
+      "title": "IGP Sindh reviews progress of 40 model police stations",
+      "url": "https://arynews.tv/igp-sindh-reviews-progress-of-40-model-police-stations",
+      "summary": "IGP Sindh reviews progress of 40 model police stations",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-12T18:13:15.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-3-1.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
     },
     {
       "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
@@ -3422,19 +4470,6 @@
         "PK"
       ],
       "subcategory": null
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwm2jnz3nrvno",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-12T06:29:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-      "subcategory": "Football",
-      "regions": [
-        "GLOBAL"
-      ]
     },
     {
       "title": "Kane's top 10 England moments - which was your favourite?",
