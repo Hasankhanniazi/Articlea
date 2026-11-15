@@ -1,6 +1,930 @@
 {
-  "updatedAt": "2026-11-15T15:50:51.849Z",
+  "updatedAt": "2026-11-15T20:59:07.786Z",
   "articles": [
+    {
+      "title": "Yemen’s Houthis 60 km away from Aden city: military, govt sources to AFP",
+      "url": "https://arynews.tv/yemens-houthis-60-km-away-from-aden-city-military-govt-sources-to-afp",
+      "summary": "Yemen’s Houthis 60 km away from Aden city: military, govt sources to AFP",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T20:55:36.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Yemen-Houthis-fight.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Criminal Minds Gets More Bad Streaming News After Being Canceled by Paramount+",
+      "url": "https://www.cbr.com/criminal-minds-streaming-paramount-plus-november-2026/",
+      "summary": "Criminal Minds is finally losing steam after fans flocked to the series in response to its unexpected cancellation at Paramount+.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T20:53:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/04/criminal-minds-evolution-emily-prentiss-looking-ahead.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Johnny Depp's Hollywood comeback is proving to be lucrative.",
+      "url": "https://www.cbr.com/ebenezer-number-one-box-office-johnny-depp/",
+      "summary": "After almost a decade, Johnny Depp's Hollywood comeback is proving to be lucrative.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T20:52:40.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/johnny-depp-ebenezer.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o",
+      "summary": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T20:47:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a569/live/89f0acc0-e12f-11f1-ac15-d140d3bbd516.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Maryam Nawaz calls for modern technology to fight organised crime",
+      "url": "https://arynews.tv/maryam-nawaz-calls-for-modern-technology-to-fight-organised-crime",
+      "summary": "Maryam Nawaz calls for modern technology to fight organised crime",
+      "publisher": "ARY News",
+      "category": "Technology",
+      "publishedAt": "2026-11-15T20:40:14.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-22.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "COP31 Pakistan proposes green university and climate innovation fund",
+      "url": "https://arynews.tv/cop31-pakistan-proposes-green-university-and-climate-innovation-fund",
+      "summary": "COP31 Pakistan proposes green university and climate innovation fund",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T20:33:03.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-21.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Environment"
+    },
+    {
+      "title": "Sophie Cunningham pulls back the curtain on Stephanie White’s coaching style",
+      "url": "https://arynews.tv/sophie-cunningham-pulls-back-the-curtain-on-stephanie-whites-coaching-style",
+      "summary": "Sophie Cunningham pulls back the curtain on Stephanie White’s coaching style",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T20:28:38.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Sophie-Cunningham-Calls-Out-Stephanie.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Netflix's 2-Part Keira Knightley Spy Thriller Returns as 1 of the Biggest Shows in the World",
+      "url": "https://www.cbr.com/black-doves-season-2-netflix-streaming-success-november-2026/",
+      "summary": "Days after Keira Knightley's spy thriller returned, the series is one of the biggest shows in the world.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T20:27:27.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/keira-knightley-as-helen-webb-on-black-doves.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "7 Weakest Autobot Combiners, Ranked",
+      "url": "https://www.cbr.com/weakest-autobot-combiners-ranked/",
+      "summary": "Being an Autobot doesn't automatically make a combiner impressive and some Transformers prove even a giant robot can be a massive disappointment.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T20:15:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/transformers-armada-autobot-perceptor.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Dave Bautista's 3-Part Apple TV Sci-Fi Show Is Taking Over the World Ahead of God of War",
+      "url": "https://www.cbr.com/dave-bautista-see-apple-tv-success-november-2026/",
+      "summary": "Four years after its finale, Apple TV's hit sci-fi show has climbed up the charts in over a dozen countries.",
+      "publisher": "Comic Book Resources",
+      "category": "World News",
+      "publishedAt": "2026-11-15T20:06:52.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/06/dave-bautista-see.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "London City's 'bravery' paying off in top three pursuit",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o",
+      "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T20:03:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/95a0/live/0eabd970-e12c-11f1-8eed-17fbb70d2a8a.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Axa Review: A Classic Comics Femme-Fatale (Mostly) Holds Up Nearly 50 Years Later",
+      "url": "https://www.cbr.com/axa-comics-review/",
+      "summary": "One of the most underrated femme fatale's in comics history is back, and Enrique Badía Romero's Axa still holds up after five decades... mostly.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T20:00:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/axa-comics-cover-header.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Comics"
+    },
+    {
+      "title": "5 Overlooked Disney+ Fantasy Series Worth Discovering",
+      "url": "https://www.cbr.com/overlooked-disney-fantasy-series-list/",
+      "summary": "Disney+ has some of the most popular shows and movies of any entertainment platform, but these five overlooked fantasy shows deserve more attention.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T20:00:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/theowlhouse_witch.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "5 Unwatchable Family Movies That Were Once Considered Masterpieces",
+      "url": "https://www.cbr.com/unwatchable-family-movies-list/",
+      "summary": "Even the best-intentioned family movies are subject to changing audience tastes, and some stand out as having aged far worse than others.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T20:00:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/06/1-song-of-the-south-1946.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
+      "url": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
+      "summary": "Guard allegedly tried to flee traffic stop in Baton Rouge Tigers say they are aware of situation involving player LSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leading scorers, was arrested after allegedly striking a police officer while attempting to flee from a traffic stop. LSU’s athletic department, in a written statement provided to The A",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:53:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/d0cdc7ba293e89a7643406bdac809c2973100068/510_0_2548_2039/master/2548.jpg?width=140&quality=85&auto=format&fit=max&s=6f16fa20cf5b814f547ed279890aee40",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Aston Villa beat Birmingham in WSL derby",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o",
+      "summary": "Mathilde Harviken scores the only goal as Aston Villa beat Birmingham City in their first Women's Super League derby since May 2022.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T19:47:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2b5a/live/dbf1e190-e10e-11f1-a2d0-ff163dc3689d.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Struggling Charlton make WSL history after defeat at West Ham",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo",
+      "summary": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T19:43:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9ede/live/02b680b0-e10f-11f1-93e1-3b657b665bcf.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+      "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+      "summary": "Professor calls on ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice system in England and Wales, the government’s independent adviser on rape ha",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:40:23.000Z",
+      "image": "https://i.guim.co.uk/img/media/70da16c077d52bf4ba97063e669ba34a16329c85/645_0_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=16427c154be1f5d516fa4caa85b7d6e4",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "John Cena's Rescued Looney Tunes Movie Stages Another Comeback After WB Tried to Bury It",
+      "url": "https://www.cbr.com/john-cena-coyote-vs-acme-prime-video-success-november-2026/",
+      "summary": "The most hotly-anticipated Looney Tunes film of the decade continues to dominate the streaming charts after just barely making its way into theaters.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T19:33:30.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/john-cena-grabbing-tweety-in-coyote-vs-acme.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:32:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Lahore: Criminal records of over 2,000 commercial drivers revealed",
+      "url": "https://arynews.tv/lahore-criminal-records-of-over-2000-commercial-drivers-revealed",
+      "summary": "Lahore: Criminal records of over 2,000 commercial drivers revealed",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:32:15.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Lahore-CCTV.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo",
+      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T19:31:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Islamabad hosts foreign dignitaries for two-day ECO ministerial meeting",
+      "url": "https://www.dawn.com/news/2044691/islamabad-hosts-foreign-dignitaries-for-two-day-eco-ministerial-meeting",
+      "summary": "Foreign dignitaries arrived in Islamabad on Sunday as Pakistan hosts the two-day 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers, starting today . Currently, Pakistan, Afghanistan, Azerbaijan, Tajikistan, Iran, Turkiye, Kazakhstan, Turkmenistan, Kyrgyz Republic and Uzbekistan are part of the ECO. Deputy Prime Minister and For",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:29:06.000Z",
+      "image": "https://i.dawn.com/large/2026/11/160026184ab1b01.webp",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
+      "summary": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the st",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:27:24.000Z",
+      "image": "https://i.guim.co.uk/img/media/d4d6a76c012facd782c4b989badcf7516260404c/0_69_3352_2682/master/3352.jpg?width=140&quality=85&auto=format&fit=max&s=3df23a284c8724fefc52ded224b26c9d",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "CBS's 147-Episode Action Classic Is Back as a Streaming Hit 47 Years Later",
+      "url": "https://www.cbr.com/dukes-of-hazzard-cbs-apple-tv-store-november-2026/",
+      "summary": "Over 40 years later, CBS' iconic action series is an unexpected streaming hit.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T19:24:37.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/the-dukes-of-hazzard.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:20:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Authorities ban gatherings in five districts of KP for 30 days, citing law and order situation",
+      "url": "https://www.dawn.com/news/2044702/authorities-ban-gatherings-in-five-districts-of-kp-for-30-days-citing-law-and-order-situation",
+      "summary": "BANNU/BAJAUR/LAKKI MARWAT/SWABI: The district administrations of Khyber Pakhtunkhwa’s Bannu, Bajaur, Lakki Marwat, Swabi and Tank on Sunday imposed Section 144 of the Code of Criminal Procedure (CrPC) for a month, banning public gatherings and several other activities amid the prevailing law and order situation. Three of the five districts — Bannu, Bajaur an",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:19:17.000Z",
+      "image": "https://i.dawn.com/large/2026/11/15132833bb5c961.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Leaked GTA 6 review details reveal 50 hour main story length",
+      "url": "https://arynews.tv/leaked-gta-6-review-details-reveal-50-hour-main-story-length",
+      "summary": "Leaked GTA 6 review details reveal 50 hour main story length",
+      "publisher": "ARY News",
+      "category": "Gaming",
+      "publishedAt": "2026-11-15T19:09:22.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Jason-and-Lucia-in-GTA-6.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Earthquake tremors felt across several KP districts",
+      "url": "https://arynews.tv/earthquake-tremors-felt-across-several-kp-districts",
+      "summary": "Earthquake tremors felt across several KP districts",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:07:24.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Earthquake.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Environment"
+    },
+    {
+      "title": "Trump admin warns US air travellers of another messy day",
+      "url": "https://www.dawn.com/news/2044632/trump-admin-warns-us-air-travellers-of-another-messy-day",
+      "summary": "The Trump administration said on Sunday that the air travel havoc triggered by a no-takeoff order could drag on for another day, pushing back its timetable for a return to normal. Hundreds more flights were cancelled and questions remained over how such chaos could unfold in the world’s largest economy, a country that prides itself on its technological prowe",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-15T19:02:37.000Z",
+      "image": "https://i.dawn.com/large/2026/11/15235808fc9a876.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Trident nuclear submarine concludes record underwater deployment",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+      "summary": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes Streeting. HMS Vengeance began its patrol on 12 April and spent 21",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:50:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/092370dd24a52c58bc3c62c308a112aa0c5eccdc/426_0_2757_2206/master/2757.jpg?width=140&quality=85&auto=format&fit=max&s=c00ae2720ed98d34faa562fd4079d8f6",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+      "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presi",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:48:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/4abbdc3b45c3f90c56abf04023eb18752ef75fce/750_0_6515_5212/master/6515.jpg?width=140&quality=85&auto=format&fit=max&s=c2aa9252e91f0fe2ac6aa483b2825c0b",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "In call with Fazl, Bilawal condemns 'govt actions, political vengeance' against JUI-F",
+      "url": "https://www.dawn.com/news/2044724/in-call-with-fazl-bilawal-condemns-govt-actions-political-vengeance-against-jui-f",
+      "summary": "SWABI/CHARSADDA: PPP Chairman Bilawal Bhutto-Zardari on Sunday spoke to Jamiat Ulema-i-Islam-Fazl chief Maulana Fazlur Rehman and condemned the “government’s actions” against him. The telephone conversation comes as tensions have remained high between the JUI-F chief and the PML-N-led federal government over the past month. On Sunday, Fazl’s party also held",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:48:00.000Z",
+      "image": "https://i.dawn.com/large/2026/11/152313328b15208.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "summary": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers Democratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather than Chuck Schumer , asserting that he has a path to victory amid a dedicated campaign that includes a series of television appea",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:46:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/6e0a2c263ff4be7091b975eef0135a62230b8800/0_103_4566_3653/master/4566.jpg?width=140&quality=85&auto=format&fit=max&s=a098af7d36b89b145008f118d1b496b7",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:38:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
+      "url": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
+      "summary": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changes As many as 100 Labour MPs could sign a letter opposing the giant Rosebank oilfield, as discontent among backbenchers looks likely to surge this week, with rebellions also brewing over Europe and welfare changes. A total of 75 MPs have alr",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:35:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/4ecc02fb0d0fc19818ecb0509a94abb8c809af8d/283_0_6172_4940/master/6172.jpg?width=140&quality=85&auto=format&fit=max&s=087ed29827ad9a46cb71ef1906d4ef63",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Bangladesh and India to jointly host the 2031 ICC Men’s Cricket World Cup",
+      "url": "https://arynews.tv/bangladesh-and-india-to-jointly-host-the-2031-icc-mens-cricket-world-cup",
+      "summary": "Bangladesh and India to jointly host the 2031 ICC Men’s Cricket World Cup",
+      "publisher": "ARY News",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T18:29:08.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/ICC-Worldcup.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Cricket"
+    },
+    {
+      "title": "Islamabad: Police officer’s wife arrested after domestic worker allegedly tortured",
+      "url": "https://arynews.tv/islamabad-police-officers-wife-arrested-after-domestic-worker-allegedly-tortured",
+      "summary": "Islamabad: Police officer’s wife arrested after domestic worker allegedly tortured",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:27:42.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Ambulance.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko",
+      "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T18:27:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Children's tournament abandoned for parents' behaviour",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno",
+      "summary": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T18:24:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d368/live/30545390-e11d-11f1-a7a2-7bb21fac8f0b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+      "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+      "summary": "Authorities say Russian intelligence service ordered attack Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was ordered by Russia’s GRU military intelligence service. On Sat",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:23:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "FIA books 8 Pakistanis deported from Turkiye for violating immigration laws",
+      "url": "https://www.dawn.com/news/2044721/fia-books-8-pakistanis-deported-from-turkiye-for-violating-immigration-laws",
+      "summary": "ISLAMABAD: The Federal Investigation Agency (FIA) said on Sunday it has registered a case against eight Pakistanis deported from Turkiye for allegedly violating immigration laws. FIA Islamabad registered the case against the eight deportees, who had travelled to Turkiye on work visas but allegedly started working elsewhere illegally instead of joining the co",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:22:28.000Z",
+      "image": "https://i.dawn.com/large/2016/08/57c084a121600.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+      "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+      "summary": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom. The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters drew more than 350,000 pe",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:20:36.000Z",
+      "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "CDA modernises major commercial centres in Islamabad",
+      "url": "https://arynews.tv/cda-modernises-major-commercial-centres-in-islamabad",
+      "summary": "CDA modernises major commercial centres in Islamabad",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:14:26.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-19.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Charlotte Church closes wellness retreat after five 'beautiful' years",
+      "url": "https://www.bbc.co.uk/news/articles/c65y13z1d8eyo",
+      "summary": "Church previously said she blew \"pretty much all my life savings\" on the £1.5m home.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T18:09:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fc25/live/d9db2e30-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal",
+      "url": "https://arynews.tv/us-fda-declines-to-approve-summit-lung-cancer-drug-after-trial-misses-key-survival-goal",
+      "summary": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal",
+      "publisher": "ARY News",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T18:04:54.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FDA.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Iran launches drone attacks against US military base in Bahrain",
+      "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone at",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T18:03:56.000Z",
+      "image": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=140&quality=85&auto=format&fit=max&s=a186d5c5f515b7ca0b75c2c9875cf564",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
+      "summary": "Quiet and unassuming, or loud and proud?",
+      "publisher": "PC Gamer",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T18:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8UjRcaUfKEg2L3g8bRmv3D-1920-80.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o",
+      "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T17:56:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Asif hopeful of consensus on new provinces, says it will bring 'progressive' change in political landscape",
+      "url": "https://www.dawn.com/news/2044732/asif-hopeful-of-consensus-on-new-provinces-says-it-will-bring-progressive-change-in-political-landscape",
+      "summary": "Defence Minister Khawaja Asif on Sunday said the country’s political landscape would change in a progressive way if a consensus was reached on the matter of creating new provinces. The defence minister made the remarks in an interview on Geo News programme ‘Naya Pakistan’ with Shahzad Iqbal. He was asked about reports that discussions were taking place on ge",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-15T17:56:49.000Z",
+      "image": "https://i.dawn.com/large/2025/04/2820471965550c3.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+      "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+      "summary": "\"We want League to stand the test of time.\"",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-15T17:45:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9ioSw2Gug8fVTiMxZ36YyA-1920-80.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
+      "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+      "summary": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-15T17:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1920-80.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "AS FAR retain Women's African Champions League title",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo",
+      "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T17:23:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T17:23:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "New year may bring new system as consensus on new provinces nears, says Khawaja Asif",
+      "url": "https://arynews.tv/new-year-may-bring-new-system-as-consensus-on-new-provinces-nears-says-khawaja-asif",
+      "summary": "New year may bring new system as consensus on new provinces nears, says Khawaja Asif",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T17:21:03.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Khawaja-Asif.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Chapecoense air crash survivor wins promotion in final game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go",
+      "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T17:10:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/306d/live/586b44a0-e10f-11f1-b3df-4961589d9b68.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+      "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a wat",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T17:04:55.000Z",
+      "image": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=ac37a8f6dd0b557e724874bc86532ce8",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Ege University study claims our Sun swallowed a planet larger than Earth",
+      "url": "https://arynews.tv/ege-university-study-claims-our-sun-swallowed-a-planet-larger-than-earth",
+      "summary": "Ege University study claims our Sun swallowed a planet larger than Earth",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T17:04:37.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Sun.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
+      "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+      "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
+      "publisher": "PC Gamer",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZL99unBNACpzEBF2YsvoM6-1920-80.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+      "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells A Home Office plan to build asylum seeker detention facilities next to a sewage pump is facing objections after water company officials warned that detainees should expect to experience insect swarms and strong smells. Proposed secure accommodati",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T16:47:39.000Z",
+      "image": "https://i.guim.co.uk/img/media/d09ed18d9dd0cdd685e28614ca19c5a774a69750/268_0_2268_1816/master/2268.jpg?width=140&quality=85&auto=format&fit=max&s=a94ae645f7999f7bde5d4240fd8be790",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Saudi Arabia’s construction boom: Ministry issues 80,775 permits in nine months",
+      "url": "https://arynews.tv/saudi-arabias-construction-boom-ministry-issues-80775-permits-in-nine-months",
+      "summary": "Saudi Arabia’s construction boom: Ministry issues 80,775 permits in nine months",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T16:45:58.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Saudi-Municipalities-Ministry.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Tenerife return to action after death of De Miguel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o",
+      "summary": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T16:38:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "GB police register case as PPP protests alleged malpractice in Diamer repolling",
+      "url": "https://www.dawn.com/news/2044693/gb-police-register-case-as-ppp-protests-alleged-malpractice-in-diamer-repolling",
+      "summary": "GILGIT: Re-polling was held at three polling stations in Gilgit-Baltistan’s GBA-16 (Diamer-II) on Sunday, with PPP staging protests in Diamer’s Chilas, as well as Gilgit, against alleged electoral malpractice by the Istehkam-i-Pakistan Party (IPP). PPP’s Attaullah Shah and IPP’s Imam Malik are the main contenders vying for the seat in the partial repolling,",
+      "publisher": "Dawn",
+      "category": "World News",
+      "publishedAt": "2026-11-15T16:38:10.000Z",
+      "image": "https://i.dawn.com/large/2026/11/15195937d67503d.webp",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+      "summary": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds Donald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional funding – though a Democratic senator argued that the Trump administration hasn",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T16:18:49.000Z",
+      "image": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=625834678800cdf432db16929672492d",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T16:15:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Why Northern Ireland won't focus on point they need in Hungary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo",
+      "summary": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T16:04:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/53e4/live/2360fe80-e0ce-11f1-9e51-e12509ba597c.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Could the Indiana Fever reunite Kate Martin and Caitlin Clark after her WNBL stint?",
+      "url": "https://arynews.tv/could-the-indiana-fever-reunite-kate-martin-and-caitlin-clark-after-her-wnbl-stint",
+      "summary": "Could the Indiana Fever reunite Kate Martin and Caitlin Clark after her WNBL stint?",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T16:01:16.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Kate-Martin.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
+      "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+      "summary": "I won't miss.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-15T16:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/u8CE4nwC7yPfoUuGx45ytR-1920-80.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+      "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly condemned the attack and expressed solidarity wi",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-15T15:59:04.000Z",
+      "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "publisher": "BBC World News",
+      "category": "Sports",
+      "publishedAt": "2026-11-15T15:57:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Yemeni government force retreats from strait in major setback in war against Houthis",
+      "url": "https://arynews.tv/yemeni-government-force-retreats-from-strait-in-major-setback-in-war-against-houthis",
+      "summary": "Yemeni government force retreats from strait in major setback in war against Houthis",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-15T15:56:52.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/f-Bab-el-Mandeb.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
     {
       "title": "Inside Sophie Cunningham’s $55M Paradise valley mansion tour: House hunting or content?",
       "url": "https://arynews.tv/inside-sophie-cunninghams-55m-paradise-valley-mansion-tour-house-hunting-or-content",
@@ -15,19 +939,6 @@
       "subcategory": null
     },
     {
-      "title": "In call with Fazl, Bilawal condemns 'govt actions, political vengeance' against JUI-F",
-      "url": "https://www.dawn.com/news/2044724/in-call-with-fazl-bilawal-condemns-govt-actions-political-vengeance-against-jui-f",
-      "summary": "PPP Chairman Bilawal Bhutto-Zardari on Sunday spoke to Jamiat Ulema-i-Islam-Fazl chief Maulana Fazlur Rehman and condemned the “government’s actions” against him. The telephone conversation comes as tensions have remained high between the JUI-F chief and the PML-N-led federal government over the past month. On Sunday, Fazl’s party also held street protests i",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-15T15:45:42.000Z",
-      "image": "https://i.dawn.com/large/2024/10/160852496246b47.png",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
       "title": "UAE goes zero bureaucracy: Work permits just got easier",
       "url": "https://arynews.tv/uae-goes-zero-bureaucracy-work-permits-just-got-easier",
       "summary": "UAE goes zero bureaucracy: Work permits just got easier",
@@ -39,19 +950,6 @@
         "GLOBAL"
       ],
       "subcategory": null
-    },
-    {
-      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
-      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-      "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly condemned the attack and expressed solidarity wi",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-15T15:41:38.000Z",
-      "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "World Affairs"
     },
     {
       "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
@@ -78,20 +976,6 @@
         "GLOBAL"
       ],
       "subcategory": "World Affairs"
-    },
-    {
-      "title": "Islamabad hosts foreign dignitaries for two-day ECO ministerial meeting",
-      "url": "https://www.dawn.com/news/2044691/islamabad-hosts-foreign-dignitaries-for-two-day-eco-ministerial-meeting",
-      "summary": "Foreign dignitaries arrived in Islamabad on Sunday as Pakistan hosts the two-day 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers, starting today . Currently, Pakistan, Afghanistan, Azerbaijan, Tajikistan, Iran, Turkiye, Kazakhstan, Turkmenistan, Kyrgyz Republic and Uzbekistan are part of the ECO. Shanghai Cooperation Organisa",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-15T15:33:35.000Z",
-      "image": "https://i.dawn.com/large/2026/11/1511104481b08bb.webp",
-      "regions": [
-        "PK",
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
     },
     {
       "title": "Chaudhry Salik sends written response to Maryam Nawaz’s legal notice: sources",
@@ -914,19 +1798,6 @@
       "subcategory": "Politics"
     },
     {
-      "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
-      "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-      "summary": "Hundreds of thousands rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom. The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters could be one of the b",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-15T11:17:18.000Z",
-      "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
       "title": "Blasts rattle Bahrain as Iran launches second drone attack in 3 days",
       "url": "https://www.dawn.com/news/2044711/blasts-rattle-bahrain-as-iran-launches-second-drone-attack-in-3-days",
       "summary": "Blasts echoed over Bahrain on Sunday as the tiny Gulf nation was rattled by the second Iranian drone attack in three days, ending a long lull in strikes during the Middle East war . Sirens rang out, and authorities posted several alerts on social media urging residents to seek shelter, their first warnings since September. Iran’s Revolutionary Guards said th",
@@ -1487,19 +2358,6 @@
       "subcategory": "World Affairs"
     },
     {
-      "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
-      "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells A Home Office plan to build asylum seeker detention facilities next to a sewage pump is facing objections after water company officials warned that detainees should expect to experience insect swarms and strong smells. Proposed secure accommodati",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-15T06:00:05.000Z",
-      "image": "https://i.guim.co.uk/img/media/d09ed18d9dd0cdd685e28614ca19c5a774a69750/268_0_2268_1816/master/2268.jpg?width=140&quality=85&auto=format&fit=max&s=a94ae645f7999f7bde5d4240fd8be790",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
-    },
-    {
       "title": "Punjab announces November 15 start for sugarcane crushing season",
       "url": "https://arynews.tv/punjab-announces-nov-15-start-for-sugarcane-crushing-season",
       "summary": "Punjab announces November 15 start for sugarcane crushing season",
@@ -1823,19 +2681,6 @@
         "PK"
       ],
       "subcategory": "Politics"
-    },
-    {
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-      "publisher": "BBC World News",
-      "category": "Sports",
-      "publishedAt": "2026-11-15T03:21:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
     },
     {
       "title": "HBO's 2-Season Sleeper Remains the Scariest Horror Show in TV History, 8 Years Later",
