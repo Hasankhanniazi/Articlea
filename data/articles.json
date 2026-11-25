@@ -1,6 +1,1559 @@
 {
-  "updatedAt": "2026-11-25T03:00:39.458Z",
+  "updatedAt": "2026-11-25T12:40:58.671Z",
   "articles": [
+    {
+      "title": "Between hope and grief, Palestinian families wait for sons’ bodies",
+      "url": "https://arynews.tv/between-hope-and-grief-palestinian-families-wait-for-sons-bodies",
+      "summary": "Between hope and grief, Palestinian families wait for sons’ bodies",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:40:27.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/gaza-missing-person.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide",
+      "url": "https://arynews.tv/amnesty-says-israeli-actions-in-gaza-preventing-births-urges-icc-to-investigate-genocide",
+      "summary": "Amnesty says Israeli actions in Gaza preventing births, urges ICC to investigate genocide",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:37:56.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/gaza-children.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan’s first astronaut to be served halal food aboard Chinese space mission",
+      "url": "https://arynews.tv/pakistans-first-astronaut-to-be-served-halal-food-aboard-chinese-space-mission",
+      "summary": "Pakistan’s first astronaut to be served halal food aboard Chinese space mission",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:35:34.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/pakistan-astronaut.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "China warns US against imposing new tariffs",
+      "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
+      "summary": "China warns US against imposing new tariffs",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:31:11.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Trump-to-host-Xi-.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+      "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer. “Two groups of hackers accessed Russia’s main statistics database last month and discovered a cache of 11m death certificates that revealed n",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:27:23.000Z",
+      "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=5c33a0c896355061a8862fcf26f2bd15",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+      "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University a",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:26:59.000Z",
+      "image": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=140&quality=85&auto=format&fit=max&s=d6446463cd080ea39a8a1b8c61f5664b",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "PPP won’t allow denying people of their rights: Bilawal Bhutto",
+      "url": "https://arynews.tv/ppp-wont-allow-denying-people-their-rights-bilawal-bhutto",
+      "summary": "PPP won’t allow denying people of their rights: Bilawal Bhutto",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:26:19.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Bilawal-Bhutto-1.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T12:24:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "Hillsborough law ‘could leave families without vital legal funding after a death’",
+      "url": "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
+      "summary": "Campaigners say current draft of public office bill would deny bereaved families early access to representation The current draft of the Hillsborough law will leave families without funding in the early stages following a death when legal advice and support are critical, ministers have been warned. The public office (accountability) bill, for which families",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:22:02.000Z",
+      "image": "https://i.guim.co.uk/img/media/81a73845c8c737758c669d932981ada583960049/9_0_2981_2386/master/2981.jpg?width=140&quality=85&auto=format&fit=max&s=b6d764aea1bf61f3a11327ddab373934",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:21:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Kremlin brushes off reports of 700,000 Russian war deaths",
+      "url": "https://arynews.tv/kremlin-brushes-off-reports-700000-russian-war-deaths",
+      "summary": "Kremlin brushes off reports of 700,000 Russian war deaths",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:20:52.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kremlin.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:20:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "Pakistan, China discuss LPG plant, MoGas imports to strengthen energy security",
+      "url": "https://arynews.tv/pakistan-china-discuss-lpg-plant-mogas-imports-to-strengthen-energy-security",
+      "summary": "Pakistan, China discuss LPG plant, MoGas imports to strengthen energy security",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:17:22.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/pak-china.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing Sign up for the Breaking News US email to get newsletter alerts in your inbox ⁠Nine additional ⁠children have ⁠been reunited ​with their ⁠families amid ⁠the ​war ‌in ‌Ukraine, bringing the ‌total to 43 amid an ‌effort led by ​US first lady Melania ⁠Trump, the",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T12:15:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
+      "summary": "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations. Plus a woman has an untimely encounter with some turkeys before Thanksgiving Good morning. Chuck Schumer has accused Jensen Huang , the newly reinstated Nvidia CEO, of shipping “extremely advanced chips to China” and violating US export control la",
+      "publisher": "The Guardian",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T12:14:52.000Z",
+      "image": "https://i.guim.co.uk/img/media/bd465fbbb9b4468832ef8838dd41b9325e351461/283_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d1d514c50cad44391a1e342e2be9b845",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Computers"
+    },
+    {
+      "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
+      "url": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o",
+      "summary": "Jacob Murrell took a big step out of his comfort zone leaving the United States for Falkirk and is enjoying a blistering run of form in Scotland, if not the food.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T12:03:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ac5c/live/46791780-e8bd-11f1-ac76-db9e97f93d67.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "10 Most Unwatchable Action Movies Released Since 2000",
+      "url": "https://www.cbr.com/unwatchable-action-movies-since-2000-list/",
+      "summary": "The 21st century has shown the best and worst of the action genre, with some productions being so poorly-made they're completely unwatchable.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T12:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/thumb_7de92a4f-4a9f-4be2-87f1-47266fa855a8.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+      "url": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+      "summary": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card fraud against tourists in the Japanese capital. In a recent clip made in conjunction with the embass",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:59:22.000Z",
+      "image": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=be19aa86367c1f0c56cc82c12fbf3d6f",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o",
+      "summary": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T11:57:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f4af/live/82a22580-e8c2-11f1-99a1-253766e7ad8b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
+      "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
+      "summary": "Exclusive: Private members’ motion comes amid concern about Christian symbols being appropriated by the far right Church of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at the General Synod. The move is an attempt to replicate the decision by bishops 17 years ago prohibit",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:48:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/839a6dbb59551038bdcdee9376e63e28684fb809/1386_0_7023_5618/master/7023.jpg?width=140&quality=85&auto=format&fit=max&s=7f3c0e1a1aca2610aac2501df6182f3f",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
+      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:45:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Environment"
+    },
+    {
+      "title": "GTA 6 Online: Don’t believe this viral rumor",
+      "url": "https://arynews.tv/gta-6-online-dont-believe-this-viral-rumor",
+      "summary": "GTA 6 Online: Don’t believe this viral rumor",
+      "publisher": "ARY News",
+      "category": "Gaming",
+      "publishedAt": "2026-11-25T11:44:41.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/GTA-6-Online.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+      "summary": "He gets 12-month sentence suspended for 18 months Former England forward pleaded guilty in September Raheem Sterling has avoided jail for dangerous driving while inhaling nitrous oxide, receiving a 12-month sentence suspended for 18 months at Basingstoke magistrates court on Wednesday. The former England international was also ordered to do 100 hours of comm",
+      "publisher": "The Guardian",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T11:34:10.000Z",
+      "image": "https://i.guim.co.uk/img/media/352149c4c0e7d10afd2ec32aeed4f886c2ddeb46/94_76_1259_1007/master/1259.jpg?width=140&quality=85&auto=format&fit=max&s=3511296fdaa7e049a35b96734510ea42",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Lincoln sack head coach duo Cohen and Shaw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no",
+      "summary": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T11:32:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cb84/live/59c159f0-e8be-11f1-ac76-db9e97f93d67.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:29:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+      "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no connection and where he killed himself. Kishanth Peramalya was part of a group that set sail from India",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:28:05.000Z",
+      "image": "https://i.guim.co.uk/img/media/9e08eeab0ec12cf5f7ba59ef8c7028f6affd5184/104_0_1840_1472/master/1840.jpg?width=140&quality=85&auto=format&fit=max&s=d2fbfc2ed05af5ebc82e287cb5f899e2",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Why are there 2:05pm kick-offs in the Premier League on Sunday?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo",
+      "summary": "Our Ask Me Anything team explain why the Premier League fixtures have some unusual kick-off times this weekend.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T11:25:51.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/93e1/live/1b641f20-e8bf-11f1-99b6-a35a62fa4264.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "MQM-P seeks NOC from Commissioner for Nov 29 rally at Jinnah ground",
+      "url": "https://arynews.tv/mqm-p-seeks-noc-from-commissioner-for-nov-29-rally-at-jinnah-ground",
+      "summary": "MQM-P seeks NOC from Commissioner for Nov 29 rally at Jinnah ground",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:25:02.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/mqm.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "'At 25:00, in Akasaka' Boys-Love Manga Gets TV Anime in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-25/at-25-00-in-akasaka-boys-love-manga-gets-tv-anime-in-2027/.244187",
+      "summary": "Sōma Saitō, Takuya Satō star in anime of Hiroko Natsuno's manga",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T11:17:56.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.10/244187/akasaka.jpeg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
+      "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
+      "summary": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak A leader of India’s youth-led Cockroach movement has asked the Delhi high court to give him permission to fly to the UK after immigration officials at Delhi airport stopped him boarding a flight early on Tuesday morning. The court is schedu",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:15:35.000Z",
+      "image": "https://i.guim.co.uk/img/media/5b3f61e3ae43b66936a59bd1fded59309335e537/478_69_4441_3552/master/4441.jpg?width=140&quality=85&auto=format&fit=max&s=a7b4f32e67c909fd55ae36b20de71237",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Watford appoint Iordanescu as head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po",
+      "summary": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T11:15:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/18bc/live/26f95460-e809-11f1-95bb-3f37d3e026b0.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-best-lore-drops-happen-when-youre-chilling-with-your-partner-so-stop-leaving-them-at-home-all-the-time/",
+      "summary": "Learning things about your partner by spending time with them? Say it ain't so.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-25T11:14:42.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MybRDJeCE4mrHokyi4PpA5-1920-80.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Trump says cheating Nvidia CEO Jensen Huang and his wife have ‘worked it out’: ‘Very good wife’",
+      "url": "https://arynews.tv/trump-says-cheating-nvidia-ceo-jensen-huang-and-his-wife-have-worked-it-out-very-good-wife",
+      "summary": "Trump says cheating Nvidia CEO Jensen Huang and his wife have ‘worked it out’: ‘Very good wife’",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:11:37.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Trump-1.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
+      "summary": "More than 200 people endorsed by Everytown for Gun Safety won state and federal races in loss of dominance for NRA The US midterm elections were not only a big win for the Democrats, but also a huge victory for the gun violence prevention movement, and a sign of the declining power of the once-feared gun lobby. More than 200 people who were endorsed by Every",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:00:47.000Z",
+      "image": "https://i.guim.co.uk/img/media/51d7e69cab6939935fa4a076de75a98ed9833713/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1654d7aab058872266773ac23873289b",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
+      "url": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
+      "summary": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly China is misusing Interpol to target and silence dissidents, a leading British lawyer has claimed, as Hong Kong prepares to host the police organisation’s general assembly for the first time. Ben Keith, a specialist in “red notices” - the Interpo",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:00:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/ee37a60f0b9565d5f2075db0ca21679ea90c30be/424_0_3327_2661/master/3327.jpg?width=140&quality=85&auto=format&fit=max&s=81fbdb80c25fc80e846cca1a78f76c5c",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+      "summary": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views James “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told the Guardian that he is “not asking anyone to endorse my ideas or not think I’m a jerk – but I still have a right to my",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T11:00:46.000Z",
+      "image": "https://i.guim.co.uk/img/media/deb06c73325454024f2b7cd1ba57a283f6c99a74/0_550_3993_3194/master/3993.jpg?width=140&quality=85&auto=format&fit=max&s=0b27ba5e7f3fdbd4150ee56cd1a618d5",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Taylor Sheridan Confirms Tulsa King Season 4's New Main Villain",
+      "url": "https://www.cbr.com/tulsa-king-season-4-main-villain-agent-musso/",
+      "summary": "Tulsa King's latest episode changes everything we know about this main character.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T11:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/sylvester-stallone-as-dwight-manfredi-on-tusla-king.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "10 Funniest Far Side Comics About Driving and Cars",
+      "url": "https://www.cbr.com/best-far-side-comics-about-driving-and-cars/",
+      "summary": "In Gary Larson's The Far Side, a simple drive down the road can lead to some utterly devastating consequences for the driver and the passengers alike.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T11:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/05/10-funniest-far-side-comics-about-driving-and-cars.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Comics"
+    },
+    {
+      "title": "The Lord of the Rings: The Hunt for Gollum is the New Andor",
+      "url": "https://www.cbr.com/the-lord-of-the-rings-reboot-andor-style-movie/",
+      "summary": "Andor revitalized the Star Wars universe, and now The Hunt for Gollum is going to do the same for The Lord of the Rings.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T11:00:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/frodo-reaches-for-the-one-ring-in-the-lord-of-the-rings-the-fellowship-of-the-ring-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "Millwall face partial stadium closure after discriminatory chants",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o",
+      "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T10:58:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Pakistan and China discuss new opportunities in energy and mining sectors",
+      "url": "https://arynews.tv/pakistan-and-china-discuss-new-opportunities-in-energy-mining-sectors",
+      "summary": "Pakistan and China discuss new opportunities in energy and mining sectors",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:57:54.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/petrol-minister.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "publisher": "BBC Technology",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:52:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Two charged with burglary and trespass at Prince and Princess of Wales’s home",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
+      "summary": "Mirgen Doku and Arilen Ndoci to appear before magistrates over suspected break-in at Anmer Hall in Norfolk Two men have been charged with burglary and trespass after a suspected break-in at the Prince and Princess of Wales’s country mansion. Mirgen Doku, 34, and Arilen Ndoci, 32, both Albanian nationals, were due to appear at Norwich magistrates court on Wed",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:51:50.000Z",
+      "image": "https://i.guim.co.uk/img/media/f6b523a9f71d8c35f339c0cf48cea470295fda70/361_0_2778_2223/master/2778.jpg?width=140&quality=85&auto=format&fit=max&s=3b5fac8baff2bc76d837d8bce006ddd2",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "'Now That We Draw' Anime's New Video Unveils More Cast, Ending Song Artist, January 8 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-25/now-that-we-draw-anime-new-video-unveils-more-cast-ending-song-artist-january-8-debut/.244186",
+      "summary": "Hina Yomiya joins cast; Inner Journey perform ending song \"Serifu wa Iranai\"",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T10:50:35.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/encyc/A38035-2959408585.1776838019.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "Sophie Cunningham’s Las Vegas F1 outfit goes viral",
+      "url": "https://arynews.tv/sophie-cunninghams-las-vegas-f1-outfit-goes-viral",
+      "summary": "Sophie Cunningham’s Las Vegas F1 outfit goes viral",
+      "publisher": "ARY News",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T10:43:40.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Sophie-Cunningham-14.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Formula 1"
+    },
+    {
+      "title": "Bangladesh players register for IPL auction",
+      "url": "https://arynews.tv/bangladesh-players-register-for-ipl-auction",
+      "summary": "Bangladesh players register for IPL auction",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:41:26.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/1-129.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Wales and West Ham's Morgan suffers serious injury",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo",
+      "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T10:38:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e1bf/live/a9284a50-e407-11f1-ab35-e1af93fa5cce.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "PM lauds Musadik for effectively representing Pakistan at SCO Civilization Dialogue",
+      "url": "https://arynews.tv/pm-shehbaz-lauds-musadik-malik-for-effectively-representing-pakistan-at-sco-civilization-dialogue",
+      "summary": "PM lauds Musadik for effectively representing Pakistan at SCO Civilization Dialogue",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:35:48.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/PM-2.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Tashima vows to serve single term if he wins FIFA election",
+      "url": "https://arynews.tv/tashima-vows-to-serve-single-term-if-he-wins-fifa-election",
+      "summary": "Tashima vows to serve single term if he wins FIFA election",
+      "publisher": "ARY News",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T10:20:43.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/1-128.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Large bushfire threatens homes and properties on remote island off Tasmania",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+      "summary": "Blaze spreads significantly across the north of Flinders Island after being started by lightning strikes Get our breaking news email , free app or daily news podcast Homes and properties on a picturesque remote island were under threat on Wednesday night from an out-of-control bushfire that had sent smoke hundreds of kilometres south. The blaze on Flinders I",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:18:31.000Z",
+      "image": "https://i.guim.co.uk/img/media/233bcc415b139a4c7cb303ad0a176d9ff6433c48/66_0_880_704/master/880.jpg?width=140&quality=85&auto=format&fit=max&s=b202b3c29c5683ffa86cc26b07ff0f0b",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Mohammad Abbas climbs in ICC Test rankings",
+      "url": "https://arynews.tv/mohammad-abbas-climbs-in-icc-test-rankings",
+      "summary": "Mohammad Abbas climbs in ICC Test rankings",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:14:35.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-170.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Israeli strike kills Hamas official, his wife and children",
+      "url": "https://arynews.tv/israeli-strike-kills-hamas-official-his-wife-and-children",
+      "summary": "Israeli strike kills Hamas official, his wife and children",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:12:16.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Israel-2.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+      "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+      "publisher": "BBC Sport",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T10:11:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Artificial Intelligence"
+    },
+    {
+      "title": "'Most frustrating of career' - Martin on Foxes draw at Blackpool",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y97xpqe4e5o",
+      "summary": "Leicester City boss Russell Martin describes Tuesday's 1-1 draw with Blackpool as the most frustrating result of his career.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T10:09:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4458/live/c2e53fb0-e8b3-11f1-9e64-bddd508b9881.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
+      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+      "publisher": "BBC Technology",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T10:03:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Artificial Intelligence"
+    },
+    {
+      "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+      "summary": "Controlled blast to proceed after multiple delays and outpouring of concern about potential health and environmental effects The US Army is set to detonate the nation’s entire stockpile of lead azide in Iowa on Wednesday morning, moving ahead after multiple delays and despite an outpouring of public concern about potential health and environmental effects. T",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T10:00:12.000Z",
+      "image": "https://i.guim.co.uk/img/media/8170d6fcedd53aa93400f6d124cb450c8937f23d/677_691_4453_3564/master/4453.jpg?width=140&quality=85&auto=format&fit=max&s=97b2997ad15290589b335c4f574129f7",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Govt, PPP agree to convene National Assembly session on Dec 1: Sources",
+      "url": "https://arynews.tv/govt-ppp-agree-to-convene-national-assembly-session-on-dec-1-sources",
+      "summary": "Govt, PPP agree to convene National Assembly session on Dec 1: Sources",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T09:49:16.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/National-Assembly.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Migratory Birds & Snail TV Anime Debuts Next Summer",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-25/migratory-birds-and-snail-tv-anime-debuts-next-summer/.244185",
+      "summary": "Adaptation of Makoto Takatsu's road trip manga announced in 2024",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T09:44:34.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/244185/birds2.png.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "Why Man City can't wear their new kit in Premier League",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgvezj19yyo",
+      "summary": "BBC Sport's Ask Me Anything team explains why Manchester City will not be able to wear their new fourth kit in the Premier League.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T09:38:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0469/live/eb169590-e8b0-11f1-a094-5fdc692f3e33.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League",
+      "url": "https://arynews.tv/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league",
+      "summary": "Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League",
+      "publisher": "ARY News",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T09:27:50.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/1-127.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
+      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "summary": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian security forces have stormed a supermarket in the Caribbean city of Cartagena, ending a daylong hostage siege, with the president saying all those held had been rescued and one hostage-taker killed. Several explosions",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T09:26:25.000Z",
+      "image": "https://i.guim.co.uk/img/media/a5c069113373baf36b55dbce4358afd21f67fadf/0_0_4722_3777/master/4722.jpg?width=140&quality=85&auto=format&fit=max&s=b06d2e6ee80812a76566c3303409e9c8",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Newly built 6-floor building collapses in Karachi’s Admin Society",
+      "url": "https://arynews.tv/karachi-newly-built-5-floor-building-collapses-in-admin-society",
+      "summary": "Newly built 6-floor building collapses in Karachi’s Admin Society",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T09:24:42.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Karachi-building-collapse.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Khawaja says disappointed by Cummins’ Sandpapergate ‘attack’",
+      "url": "https://arynews.tv/khawaja-says-disappointed-by-cummins-sandpapergate-attack",
+      "summary": "Khawaja says disappointed by Cummins’ Sandpapergate ‘attack’",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T09:18:12.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/1-36.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "PM Shehbaz Sharif orders restructuring of NCCIA, proposes establishment of Pakistan Cyber Police",
+      "url": "https://arynews.tv/pm-shehbaz-sharif-orders-restructuring-of-nccia",
+      "summary": "PM Shehbaz Sharif orders restructuring of NCCIA, proposes establishment of Pakistan Cyber Police",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T09:08:55.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/11/13-more-NCCIA-officials-under-radar-in-multi-million-extortion-from-call-centers.jpg.jpeg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "South Africa declare with 403-run lead against Bangladesh",
+      "url": "https://arynews.tv/south-africa-declare-with-403-run-lead-against-bangladesh",
+      "summary": "South Africa declare with 403-run lead against Bangladesh",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T09:07:16.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/1-126.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Kindergarten Wars Anime's Video Reveals More Staff, ado's Opening Song, April Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-25/kindergarten-wars-anime-video-reveals-more-staff-ado-opening-song-april-debut/.244176",
+      "summary": "Ado performs anime's opening theme \"Bibayatarametta\"",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T09:00:00.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/youtube/o5Ua73kZCUU.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "Underage drivers face heavy fines, vehicle impoundment in Lahore",
+      "url": "https://arynews.tv/underage-drivers-face-heavy-fines-vehicle-impoundment-in-lahore",
+      "summary": "Underage drivers face heavy fines, vehicle impoundment in Lahore",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T08:40:59.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Underage-drivers-Lahore-crackdown.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
+      "url": "https://arynews.tv/iran-says-it-is-prepared-to-withstand-us-blockade-seeks-to-curb-price-rises",
+      "summary": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T08:36:03.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Iran-2.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Pakistan closes multiple air routes for two days",
+      "url": "https://arynews.tv/pakistan-closes-multiple-air-routes-for-two-days",
+      "summary": "Pakistan closes multiple air routes for two days",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T08:34:39.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Pakistan-Air-Traffic-Control-Diverts-30-Planes-from-Iran-War-Zone.jpg.jpeg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Peshawar High Court halts extradition of Afghan house job doctors",
+      "url": "https://arynews.tv/peshawar-high-court-halts-extradition-of-afghan-house-job-doctors",
+      "summary": "Peshawar High Court halts extradition of Afghan house job doctors",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T08:32:47.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Afghan-studetns.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "IVF, elective abortion, gender-affirming care and VAD to cease under Catholic ownership of private hospitals",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb",
+      "summary": "ACCC approves Calvary’s takeover of 14 hospitals around Australia, with critics concerned move will add to pressures on public health system Get our breaking news email , free app or daily news podcast Advocates say access to voluntary assisted dying, IVF, elective abortions and gender-affirming care is under threat after the competition watchdog approved th",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T08:05:27.000Z",
+      "image": "https://i.guim.co.uk/img/media/6ebe6074312b0df5c8a62642fa32e3fe391286ba/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a2aa69f3972fd5ec6772c959eb3f092f",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "The Kept Man of the Princess Knight Anime's New Video Reveals More Cast, Ending Song, January 3 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-25/the-kept-man-of-the-princess-knight-anime-new-video-reveals-more-cast-ending-song-january-3-debut/.244177",
+      "summary": "Yūya Hirose, Manaka Iwami, Shion Wakayama, Saori Ōnishi join anime's cast",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIK/cms/news.10/244177/knight.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "Pakistan’s first astronaut Zeeshan Ali in space as China successfully launches Shenzhou-24",
+      "url": "https://arynews.tv/pakistan-makes-history-as-zeeshan-ali-embarks-on-chinas-shenzhou-24-space-mission",
+      "summary": "Pakistan’s first astronaut Zeeshan Ali in space as China successfully launches Shenzhou-24",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:59:40.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Pakistan-astronout-Zeeshan-Ali-Chinese-space-mission.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Karachi ranks second among world’s most polluted cities",
+      "url": "https://arynews.tv/karachi-ranks-second-among-worlds-most-polluted-cities",
+      "summary": "Karachi ranks second among world’s most polluted cities",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:50:48.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Karachi-AQ-Index-weather-pollution.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "MEPCO announces rewards for consumers paying bills via Raast",
+      "url": "https://arynews.tv/mepco-announces-rewards-for-consumers-paying-bills-via-raast",
+      "summary": "MEPCO announces rewards for consumers paying bills via Raast",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:48:38.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/MEPCO.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Armed forces thank China for support in Pakistan’s first human spaceflight mission",
+      "url": "https://arynews.tv/armed-forces-thank-china-for-support-in-pakistans-first-human-spaceflight-mission",
+      "summary": "Armed forces thank China for support in Pakistan’s first human spaceflight mission",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:42:27.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/pakistan-space-mission.jpg",
+      "regions": [
+        "PK",
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
+      "title": "PCB announces 15-member women’s squad for West Indies tour",
+      "url": "https://arynews.tv/pcb-announces-15-member-womens-sqaud-for-west-indies-tour",
+      "summary": "PCB announces 15-member women’s squad for West Indies tour",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:37:11.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/PCB-womens-squad-WI-tour.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes – as it happened",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:34:44.000Z",
+      "image": "https://i.guim.co.uk/img/media/b1c138581dfdb0d3ad5c3e6a9f769bebe5972389/623_0_6230_4984/master/6230.jpg?width=140&quality=85&auto=format&fit=max&s=ddfd1ece9479566612f5edac3d3148d1",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Saudi Arab’s Ministry of Tourism makes 5 digital services available through Tawakkalna App",
+      "url": "https://arynews.tv/saudi-arabs-ministry-of-tourism-makes-5-digital-services-available-through-tawakkalna-app",
+      "summary": "Saudi Arab’s Ministry of Tourism makes 5 digital services available through Tawakkalna App",
+      "publisher": "ARY News",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T07:31:04.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Ministry-of-Tourism.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": "Apps & Software"
+    },
+    {
+      "title": "Azma Bokhari slams Fazlur Rehman over ‘below-the-belt’ remarks against institution",
+      "url": "https://arynews.tv/azma-bokhari-slams-fazlur-rehman-over-below-the-belt-remarks-against-institution",
+      "summary": "Azma Bokhari slams Fazlur Rehman over ‘below-the-belt’ remarks against institution",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:28:25.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Azma-Bokhari.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
+      "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:26:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "How to unearth young stars, the Bayern Munich way",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o",
+      "summary": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T07:22:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1ef6/live/befff4e0-e4f2-11f1-8781-bf15c9202663.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
+      "summary": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party’s support in Senate Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Private jet owners will no longer receive fuel tax subsidies after the Albanese government secured",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:16:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/959c4b15a9beeb3c9d69e745fc424540b5cd1e6f/500_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ebf7a122d4f4a3d084f902cfc390aa18",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
+      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T07:08:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Karachi Police Chief transfers airport snatching cases to AVCC",
+      "url": "https://arynews.tv/karachi-police-chief-transfers-airport-snatching-cases-to-avcc",
+      "summary": "Karachi Police Chief transfers airport snatching cases to AVCC",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T06:59:25.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Karachi-airport.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T06:56:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+      "subcategory": "Football",
+      "regions": [
+        "GLOBAL"
+      ]
+    },
+    {
+      "title": "NDMA issues alert for intensifying smog in Punjab",
+      "url": "https://arynews.tv/ndma-issues-alert-intensifying-smog-punjab",
+      "summary": "NDMA issues alert for intensifying smog in Punjab",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T06:44:56.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Smog.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Books, wisdom keepers and psychic abilities among sources of birth keeper’s knowledge, inquest hears",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/books-wisdom-keepers-and-psychic-abilities-among-sources-of-birth-keepers-knowledge-inquest-hears-ntwnfb",
+      "summary": "Sita Kali tells NSW coroner ‘there’s a lot of mystery’ around pregnancies involving twins Get our breaking news email , free app or daily news podcast A self-taught birth keeper who failed to recognise a woman was carrying twins says she doubted her psychic abilities after two babies died in free-birth tragedies. Sita Kali was present in 2022 when a New Sout",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T06:38:51.000Z",
+      "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Maryam Nawaz cannot think of replacing Nawaz Sharif, says Rana Sanaullah",
+      "url": "https://arynews.tv/maryam-nawaz-cannot-think-of-replacing-nawaz-sharif-says-rana-sanaullah",
+      "summary": "Maryam Nawaz cannot think of replacing Nawaz Sharif, says Rana Sanaullah",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T06:37:21.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/rana-sana.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Bilawal Bhutto Zardari reaffirms 1973 Constitution as the only way forward for Pakistan",
+      "url": "https://arynews.tv/bilawal-bhutto-zardari-reaffirms-1973-constitution-as-the-only-way-forward-for-pakistan",
+      "summary": "Bilawal Bhutto Zardari reaffirms 1973 Constitution as the only way forward for Pakistan",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T06:35:33.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/PPP-Bilawal-Bhutto-Zardari-Multan.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno",
+      "summary": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T06:28:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aa20/live/499a3970-e814-11f1-ab42-55d8d8278025.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Artificial Intelligence"
+    },
+    {
+      "title": "Are Manchester United this season's Tottenham?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o",
+      "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
+      "publisher": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T06:22:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6874/live/00c21c60-e8b2-11f1-869a-f96fd5660210.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Football"
+    },
+    {
+      "title": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
+      "url": "https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities",
+      "summary": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T06:12:50.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/11/FBR-clarifies-criteria.jpg.jpeg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T06:00:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "LHC directs CCPO Lahore to explain ‘detention’ of Maulana Fazlur Rehman",
+      "url": "https://arynews.tv/lhc-seeks-explanation-on-detention-of-maulana-fazlur-rehman",
+      "summary": "LHC directs CCPO Lahore to explain ‘detention’ of Maulana Fazlur Rehman",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T05:53:06.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Fazlur-Rehman-LHC-confinement.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Fatbergs, feathers and flocks of sheep - inside the new London Museum",
+      "url": "https://www.bbc.co.uk/news/articles/cky9708qj7wdo",
+      "summary": "The venue's new site at Smithfield Market opens on Saturday following a £437m restoration project.",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "World News",
+      "publishedAt": "2026-11-25T05:50:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ce98/live/80ea8350-e826-11f1-93d4-6d580946ad80.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Oil slips over 1% as supply glut prospect offsets Middle East disruption fears",
+      "url": "https://arynews.tv/oil-slips-over-1-as-supply-glut-prospect-offsets-middle-east-disruption-fears",
+      "summary": "Oil slips over 1% as supply glut prospect offsets Middle East disruption fears",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T05:46:56.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/oIL-1.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Two Libyan soldiers die from injuries in attack on Russian vessels",
+      "url": "https://arynews.tv/two-libyan-soldiers-die-injuries-attack-russian-vessels",
+      "summary": "Two Libyan soldiers die from injuries in attack on Russian vessels",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T05:36:26.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Russia.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Tech firms back in crosshairs as Huang rally reverses",
+      "url": "https://arynews.tv/tech-firms-back-crosshairs-huang-rally-reverses",
+      "summary": "Tech firms back in crosshairs as Huang rally reverses",
+      "publisher": "ARY News",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T05:35:08.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/NVIDIA-CEO.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Australia, Solomon Islands sign sweeping pact seen as countering China",
+      "url": "https://arynews.tv/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china",
+      "summary": "Australia, Solomon Islands sign sweeping pact seen as countering China",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T05:30:38.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Australia-Solomon-Islands.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "In charts: how power could shift in Europe’s big year of elections",
+      "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
+      "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations Over the coming 12 months, more than half of the EU’s electorate will go to the polls in",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T05:00:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6c8d875c651e2501485fc0d31e2f52d2",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+      "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+      "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of safety. The Saudi-backed Yemeni government had made the city its temporary capital; the hundreds of k",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T05:00:06.000Z",
+      "image": "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a72a13a74d03822c02704754be504b08",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Marvel Reveals Spider-Man's Official Debut as the Avengers' New Leader",
+      "url": "https://www.cbr.com/spider-man-new-avengers-leader-marvel-preview/",
+      "summary": "In a preview of this week's Amazing Spider-Man #1004, see Spider-Man's first official appearance as the leader of the Avengers",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T04:56:32.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/spider-man-avengers-header.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Comics"
+    },
+    {
+      "title": "Peshawar administration plans crackdown on illegal rickshaws",
+      "url": "https://arynews.tv/peshawar-administration-plans-crackdown-on-illegal-rickshaws",
+      "summary": "Peshawar administration plans crackdown on illegal rickshaws",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T04:54:50.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Rickshaw.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "R-Rated 'Gremlins, but With Elves' Horror Movie Streams for Free Next Month",
+      "url": "https://www.cbr.com/theres-something-in-the-barn-tubi-december-2026/",
+      "summary": "The bloody holiday horror flick has also been praised for its \"eye-popping practical effects.\"",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T04:54:32.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/there-is-something-in-the-barn.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Movies"
+    },
+    {
+      "title": "7 Mid Manga That Are Only Popular Because of Anime Adaptations",
+      "url": "https://www.cbr.com/manga-only-popular-after-anime-adaptation-list/",
+      "summary": "Manga like Demon Slayer are hugely popular, but these series are coasting on the success of their anime adaptations.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T04:45:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/demon-slayer-anime-and-manga-collage.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "Bangladesh garment workers win 36 percent wage rise",
+      "url": "https://arynews.tv/bangladesh-garment-workers-win-36-percent-wage-rise",
+      "summary": "Bangladesh garment workers win 36 percent wage rise",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T04:37:46.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Bangladesh-garments-workers-salary-raise.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "15 Ways Calvin and Hobbes Has Aged Poorly",
+      "url": "https://www.cbr.com/how-calvin-and-hobbes-has-aged-poorly/",
+      "summary": "While Calvin and Hobbes is generally regarded as an iconic, timeless comic strip, there are some ways in which it hasn't aged especially well.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T04:30:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/04/calvin-and-hobbes-hugging.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Comics"
+    },
+    {
+      "title": "Peacock's New Epic Science Fantasy Series Is Coming to Dethrone Star Wars for Good",
+      "url": "https://www.cbr.com/peacock-dungeon-crawler-carl-adaptation-dethrone-star-wars/",
+      "summary": "Peacock's upcoming Dungeon Crawler Carl adaptation is set to shake up the streaming world with its unique blend of high fantasy and sci-fi.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T04:30:11.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/ryan-gosling-and-flynn-gray-in-star-wars-starfighter.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
+    },
+    {
+      "title": "China’s Huawei says US conviction ‘without legal or factual merit’",
+      "url": "https://arynews.tv/chinas-huawei-says-us-conviction-without-legal-or-factual-merit",
+      "summary": "China’s Huawei says US conviction ‘without legal or factual merit’",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T04:17:00.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/huawei.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "10 Best Atari 2600 Games, Ranked Once and for All",
+      "url": "https://www.cbr.com/greatest-atari-2600-games-all-time-list/",
+      "summary": "Atari 2600 games like Centipede rank far above other titles on the 1977 system.",
+      "publisher": "Comic Book Resources",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T04:15:12.000Z",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/atari-2600-game-console.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Historie Anime's Video Unveils More Cast & Staff, Theme Songs, January 8 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-24/historie-anime-video-unveils-more-cast-and-staff-theme-songs-january-8-debut/.244173",
+      "summary": "Fumihiko Tachiki, Akira Sekine, Toshiki Masuda, Ryōta Takeuchi, Seiichirō Yamashita join cast",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T04:08:53.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/youtube/MSYV142dqsg.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
+    {
+      "title": "Nvidia’s Huang said he violated code of conduct, source says",
+      "url": "https://arynews.tv/nvidias-jansen-huang-said-he-violated-code-of-conduct",
+      "summary": "Nvidia’s Huang said he violated code of conduct, source says",
+      "publisher": "ARY News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T04:03:42.000Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Nvidia.jpg",
+      "regions": [
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "summary": "Abelardo de la Espriella to take control of operation trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage inside a supermarket in Cartagena, a popular tourist city. Abelardo de la Espriella’s motorcade arrived in Cartagena on Tuesda",
+      "publisher": "The Guardian",
+      "category": "World News",
+      "publishedAt": "2026-11-25T03:57:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "publisher": "BBC Technology",
+      "category": "World News",
+      "publishedAt": "2026-11-25T03:44:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+      "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
+      "summary": "Turns out Fortnite players are more loyal.",
+      "publisher": "PC Gamer",
+      "category": "Gaming",
+      "publishedAt": "2026-11-25T03:34:01.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5EWnGC9pvFVHwRsPbdM4uV-1920-80.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo",
+      "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T03:28:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg",
+      "regions": [
+        "GLOBAL",
+        "PK"
+      ],
+      "subcategory": null
+    },
+    {
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
+      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T03:15:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
+    },
+    {
+      "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Anime's Teaser Reveals More Cast, Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-24/haru-to-gen-~70-sai-hajimete-kosodate~-anime-teaser-reveals-more-cast-ending-song/.244149",
+      "summary": "Jin Urayama, HItomi Shogawa, Nao Shiraki, Akiko Seri join cast with music by Kuricorder Quartet",
+      "publisher": "Anime News Network",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-25T03:12:53.000Z",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/youtube/q-LKeN4TruM.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Anime"
+    },
     {
       "title": "Tom Cruise's 125-Minute Sci-Fi Answer to Inception Is a Global Netflix Hit",
       "url": "https://www.cbr.com/oblivion-sci-fi-netflix-success-november-2026/",
@@ -28,38 +1581,25 @@
       "subcategory": "TV Shows"
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "publisher": "BBC Technology",
-      "category": "World News",
-      "publishedAt": "2026-11-25T02:59:27.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
-    },
-    {
-      "title": "Politics live: Chalmers says economy faces ‘serious moment’ amid inflation; NSW ‘scaling up’ response after fire ants found in Sydney",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero",
+      "title": "The Russian army’s secret death toll – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+      "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to tif.questions@theguardian.com Russia has kept the death toll of its soldiers in the Ukraine war a carefully guarded secret. Now documents leaked to the Guardian have revealed i",
       "publisher": "The Guardian",
       "category": "World News",
-      "publishedAt": "2026-11-25T02:54:27.000Z",
-      "image": "https://i.guim.co.uk/img/media/a52577627a519ab236dadaee472b496faaba887d/504_0_6055_4844/master/6055.jpg?width=140&quality=85&auto=format&fit=max&s=deb65e83810f32432421c48c989b2dc3",
+      "publishedAt": "2026-11-25T03:00:03.000Z",
+      "image": "https://i.guim.co.uk/img/media/73eb1f79e1f589dbc01f5457078faa6090ee6ee2/17_0_3549_2838/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=8f2b91771886bc5fe0b2dd8f2686ebf1",
       "regions": [
         "GLOBAL"
       ],
-      "subcategory": "Business"
+      "subcategory": "Conflicts"
     },
     {
-      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-      "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest",
+      "summary": "This live blog is now closed. Schumer accuses Huang of violating US export control laws amid shipments of chips to China Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Tr",
       "publisher": "The Guardian",
       "category": "World News",
-      "publishedAt": "2026-11-25T02:53:48.000Z",
+      "publishedAt": "2026-11-25T02:58:18.000Z",
       "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c",
       "regions": [
         "GLOBAL"
@@ -224,6 +1764,19 @@
       "subcategory": "Movies"
     },
     {
+      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
+      "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do",
+      "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T01:51:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/92ff/live/1284fd50-e871-11f1-99a1-253766e7ad8b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
       "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
       "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
       "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’ The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific are over as he signed a sweeping agreement to make Australia the primary security partner and limit tie",
@@ -274,6 +1827,19 @@
         "GLOBAL"
       ],
       "subcategory": "Business"
+    },
+    {
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T01:40:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
     },
     {
       "title": "China investigates politburo star in Xi Jinping’s latest purge",
@@ -341,6 +1907,45 @@
       "subcategory": "Football"
     },
     {
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T01:03:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T01:02:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Business"
+    },
+    {
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o",
+      "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T01:00:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7dac/live/653c0750-e7d1-11f1-83ab-9953b30aab1f.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
       "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
       "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
       "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, according to research . Smoking is the leading cause of preventable death and illness in the UK. While overall smoking rates in England have declined in recent decades, rates in some re",
@@ -352,6 +1957,19 @@
         "GLOBAL"
       ],
       "subcategory": null
+    },
+    {
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo",
+      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T00:58:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8cda/live/86305ac0-e811-11f1-ab42-55d8d8278025.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
     },
     {
       "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
@@ -380,6 +1998,19 @@
       "subcategory": "Manga"
     },
     {
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o",
+      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T00:54:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Conflicts"
+    },
+    {
       "title": "What will Victoria’s election result mean for nine datacentre projects awaiting approval?",
       "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
       "summary": "Despite community backlash, some firms are confident they will get the green light as Coalition says datacentres ‘will be an important part of Victoria’s future’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Nine datacentre projects are seeking approval in Victoria as the state heads t",
@@ -391,6 +2022,19 @@
         "GLOBAL"
       ],
       "subcategory": "Politics"
+    },
+    {
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-25T00:38:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "World Affairs"
     },
     {
       "title": "Why tiny cars are taking off across Europe",
@@ -549,6 +2193,32 @@
       "subcategory": "Football"
     },
     {
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-24T23:05:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "Politics"
+    },
+    {
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-24T23:03:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
+    },
+    {
       "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
       "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
       "summary": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6.",
@@ -573,6 +2243,19 @@
         "GLOBAL"
       ],
       "subcategory": "TV Shows"
+    },
+    {
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o",
+      "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "publisher": "BBC World News",
+      "category": "World News",
+      "publishedAt": "2026-11-24T22:07:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/183e/live/1983e580-e853-11f1-99a1-253766e7ad8b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": null
     },
     {
       "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
@@ -666,19 +2349,6 @@
       "subcategory": null
     },
     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "publisher": "BBC Technology",
-      "category": "World News",
-      "publishedAt": "2026-11-24T21:19:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
       "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o",
       "summary": "Aaron Ramsey's Oxford United beat Tottenham Under-21s to secure one of the final two Jersey Mike's Trophy knockout spots.",
@@ -690,19 +2360,6 @@
         "GLOBAL"
       ],
       "subcategory": null
-    },
-    {
-      "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
-      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-      "summary": "Police say at least 20 held in supermarket and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men are holding at least 20 people hostage in a supermarket in Cartagena, one of Colombia’s most popular tourist cities. About 30 people were initially seized by the group of armed men early on Tuesday morning, but by nightfall,",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-24T21:06:37.000Z",
-      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "World Affairs"
     },
     {
       "title": "An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year",
@@ -980,6 +2637,19 @@
         "GLOBAL"
       ],
       "subcategory": null
+    },
+    {
+      "title": "Archers fans urged to back fight to keep show in city",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo",
+      "summary": "Cast members will be protesting with actors union Equity to ask fans to back their campaign",
+      "publisher": "BBC Entertainment & Arts",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-24T19:09:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/381e/live/78102330-e82a-11f1-99a1-253766e7ad8b.jpg",
+      "regions": [
+        "GLOBAL"
+      ],
+      "subcategory": "TV Shows"
     },
     {
       "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
@@ -2116,19 +3786,6 @@
       "subcategory": null
     },
     {
-      "title": "Millwall face partial stadium closure after discriminatory chants",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o",
-      "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T14:23:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
       "title": "GTA 6 became the first game played on 70 percent of new PS5s",
       "url": "https://arynews.tv/gta-6-became-the-first-game-played-on-70-percent-of-new-ps5s",
       "summary": "GTA 6 became the first game played on 70 percent of new PS5s",
@@ -3180,19 +4837,6 @@
         "GLOBAL"
       ],
       "subcategory": null
-    },
-    {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T06:42:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-      "subcategory": "Football",
-      "regions": [
-        "GLOBAL"
-      ]
     },
     {
       "title": "Malir Jail CCTV project under scrutiny over Rs47.5mn financial irregularities",
@@ -63523,1646 +65167,6 @@
         "GLOBAL"
       ],
       "subcategory": "Anime"
-    },
-    {
-      "title": "Interview: ONE OR EIGHT - First Manila Concert and “EN-GÏNE” Album",
-      "url": "https://www.animenewsnetwork.com/advertorial/2026-11-08/interview-one-or-eight-first-manila-concert-and-en-gine-album/.243467",
-      "summary": "The group behind the Black Clover ED Yellow Brick Road and the viral sensation Tokyo Drift talks about their music, band dynamics and performing.",
-      "publisher": "Anime News Network",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T04:09:57.000Z",
-      "image": "https://cdn.animenewsnetwork.com/images/system/bookmark-shorturl.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Ingoku Danchi: Deviant's Apartment Complex Anime's English Dub Streams on November 11",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-08/ingoku-danchi-deviant-apartment-complex-anime-english-dub-streams-on-november-11/.243606",
-      "summary": "English dub cast revealed for anime based on writer Sakusei Kenkyūjo, artist Yui Jōyama's manga",
-      "publisher": "Anime News Network",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T04:02:35.000Z",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEO/encyc/A38301-623165368.1776256881.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Anime"
-    },
-    {
-      "title": "Perfume Member Ayano Ōmoto Announces Marriage",
-      "url": "https://www.animenewsnetwork.com/interest/2026-11-08/perfume-member-ayano-omoto-announces-marriage/.243622",
-      "summary": "\"NOCCHi's\" partner is actor Kento Shibuya",
-      "publisher": "Anime News Network",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T04:00:00.000Z",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCD/cms/interest.3/243622/omoto-ayano-2025.jpeg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "The Rookie Scores an Exciting Streaming Update Ahead of Season 9",
-      "url": "https://www.cbr.com/the-rookie-season-9-procedural-streaming-success-november-2026/",
-      "summary": "After The Rookie's Season 9 premiere date was confirmed, the ABC procedural is rising up the streaming charts.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T03:56:57.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/nathan-fillion-as-john-nolan-on-the-rookie.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "TV Shows"
-    },
-    {
-      "title": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-      "summary": "Roberto Urbano, 51, appears in court via video link after death of 47-year-old Feng Jianming in the CBD on Friday night Get our breaking news email , free app or daily news podcast A food delivery rider’s alleged murderer has pulled down his pants and exposed himself as he appeared in court. Roberto Urbano, 51, appeared in Melbourne magistrates court via vid",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T03:47:21.000Z",
-      "image": "https://i.guim.co.uk/img/media/4954ad8d5503c8161345548e255e4fdf2719dd1d/585_40_1083_867/master/1083.jpg?width=140&quality=85&auto=format&fit=max&s=5ec33b002d331556a841dce611707272",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Sylvester Stallone Admits He Forgot He Was Watching an Actor Play Him in New Biopic",
-      "url": "https://www.cbr.com/sylvester-stallone-review-i-play-rocky/",
-      "summary": "Sylvester Stallone, who has no direct involvement with the film, shares his thoughts on how it turned out.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T03:47:17.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/i-play-rocky-annasophia-robb-and-anthony-ippolito.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Movies"
-    },
-    {
-      "title": "5 Turn-Based RPGs With Class Systems You Can Play With for Months",
-      "url": "https://www.cbr.com/turn-based-rpgs-class-systems-play-for-months/",
-      "summary": "These turn-based RPGS feature class systems that will keep you busy and lost in gameplay for months.",
-      "publisher": "Comic Book Resources",
-      "category": "Gaming",
-      "publishedAt": "2026-11-09T03:45:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/fire-emblem-three-houses-offical-screeshot-example-of-a-character-in-the-game.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
-      "summary": "Chris Minns and race discrimination commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticket Get our breaking news email , free app or daily news podcast The New South Wales premier and the Australian Human Rights Commission have criticised comments by the man who heads One Nation’s upper house ticket in NSW after he said",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T03:33:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/39f09dedf1330fa12ee7faa964b23d239dcb80af/375_0_6309_5051/master/6309.jpg?width=140&quality=85&auto=format&fit=max&s=c60578f8c92047cb0bee9b7f85ead937",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Live-Action My Sister's Boyfriend Film's Clip Shows Sui, Midori Rescuing Dog",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-08/live-action-my-sister-boyfriend-film-clip-shows-sui-midori-rescuing-dog/.243632",
-      "summary": "Sui rescues abandoned dog with her sister's boyfriend in clip from December 4 film",
-      "publisher": "Anime News Network",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T03:22:43.000Z",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/youtube/ps5_Y77mmi0.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Movies"
-    },
-    {
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
-      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-09T02:50:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Heatwaves in Punjab threaten agriculture, food security: UN",
-      "url": "https://www.dawn.com/news/2043154/heatwaves-in-punjab-threaten-agriculture-food-security-un",
-      "summary": "• Report says fruit yields plunge 50pc; heat stress spreads livestock disease, cuts milk output • Shrinking incomes, food spoilage limit rural families’ healthy diets • Women bear brunt of crisis due to heavy outdoor labour; preterm birth risk jumps 26pc in severe weather ISLAMABAD: Increasingly frequent and severe heatwaves in Punjab’s rain-fed rural areas",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T02:44:54.000Z",
-      "image": "https://i.dawn.com/large/2026/11/09074409da8a795.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "World Affairs"
-    },
-    {
-      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo",
-      "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
-      "publisher": "BBC Entertainment & Arts",
-      "category": "World News",
-      "publishedAt": "2026-11-09T02:34:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Khyber Pakhtunkhwa, Gilgit-Baltistan agree to settle old boundary disputes",
-      "url": "https://www.dawn.com/news/2043155/khyber-pakhtunkhwa-gilgit-baltistan-agree-to-settle-old-boundary-disputes",
-      "summary": "KP Governor Faisal Karim Kundi and GB Chief Minister Amjad Hussain meet in Islamabad.—Dawn GILGIT/MANSEHRA: In a move towards resolving decades-old territorial issues, Gilgit-Baltistan Chief Minister Amjad Hussain and Khyber Pakhtunkhwa Governor Faisal Karim Kundi have agreed to initiate negotiations to settle boundary disputes between the two regions, inclu",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T02:33:44.000Z",
-      "image": "https://i.dawn.com/large/2026/11/09042633f5f72c1.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Minister supports creation of up to 12 provinces",
-      "url": "https://www.dawn.com/news/2043163/minister-supports-creation-of-up-to-12-provinces",
-      "summary": "• Khawaja Asif says new units should be created on administrative grounds, not linguistic, ethnic or political lines • Calls for transfer of powers, resources from provincial capitals to local institutions • MQM-P renews demand for new administrative units; calls for ending ‘deprivation’ of urban Sindh SIALKOT / KARACHI: As a debate around the possible creat",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T02:27:44.000Z",
-      "image": "https://i.dawn.com/large/2026/06/241434534c99ac5.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
-      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
-      "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The economy must be at the service of the people",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T02:11:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "10 Best Sci-Fi Anime of All Time, According to MyAnimeList",
-      "url": "https://www.cbr.com/best-sci-fi-anime-ever-myanimelist-ranked-list/",
-      "summary": "Some of anime's best and most beloved hits are sci-fi titles, but there are some extra special series that fans have championed as the genre's best.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:45:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/steins-gate-s-okabe-and-kurisu-in-front-of-multiple-screens-1.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Anime"
-    },
-    {
-      "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-      "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird nor realise there was a “massive” gunshot wound to the 26-yea",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:44:14.000Z",
-      "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Firecrackers, earthen lamps and sweets — Hindu community shares colours of Diwali",
-      "url": "https://www.dawn.com/news/2043164/firecrackers-earthen-lamps-and-sweets-hindu-community-shares-colours-of-diwali",
-      "summary": "A woman holds an ignited sparkler as people watch the fireworks during a Diwali celebration, while (right) another woman decorates a rangoli pattern with earthen lamps at Shri Swami Narayan Temple on M.A. Jinnah Road.—Shakil Adil/ White Star / PPI KARACHI: Firecrackers went off, sparks flew, and earthen lamps glowed as the Hindu community in Pakistan celebra",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:41:14.000Z",
-      "image": "https://i.dawn.com/large/2026/11/090359203eafeba.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Pope Leo urges men to respect their wives",
-      "url": "https://www.dawn.com/news/2043174/pope-leo-urges-men-to-respect-their-wives",
-      "summary": "FLORIDA: Pope Leo XIV told men to treat their wives with respect, as he concluded the first leg of his tour of Latin America, which is plagued by gender-based violence. “Dear fathers and grandfathers… treat your wives with respect, ask for forgiveness and live with integrity, even when doing so requires sacrifice,” the head of the Catholic Church said during",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:38:07.000Z",
-      "image": "https://i.dawn.com/large/2026/10/131417419a3257b.webp",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Rawalpindi’s historic buildings crumble amid official apathy",
-      "url": "https://www.dawn.com/news/2043220/rawalpindis-historic-buildings-crumble-amid-official-apathy",
-      "summary": "Old buildings, temples and Gurdwaras in Rawalpindi tell the story of the garrison city’s majestic past, when Hindus and Sikhs made up a dominant share of its population before the partition of the Indian subcontinent. However, these buildings are now in a state of disrepair, as little has been done to preserve them over the past 79 years. Jamia Masjid in Raw",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:36:47.000Z",
-      "image": "https://i.dawn.com/large/2026/11/09060047961a0d2.webp",
-      "regions": [
-        "PK",
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "PM raises youth loan amount, lowers minimum age limit",
-      "url": "https://www.dawn.com/news/2043142/pm-raises-youth-loan-amount-lowers-minimum-age-limit",
-      "summary": "LAHORE: Prime Minister Shehbaz Sharif has increased the limit of personal loans available under the Youth Business and Agriculture Loan schemes, and reduced the minimum age limit to allow 18-year-olds to avail the scheme as well. Chairing a meeting to review progress and implementation of the PM’s Youth Business and Agriculture Loan schemes on Sunday, the pr",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:36:07.000Z",
-      "image": "https://i.dawn.com/large/2026/11/09091843f8a8d34.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Business"
-    },
-    {
-      "title": "Senate opposition leader urges govt to stay out of Yemen",
-      "url": "https://www.dawn.com/news/2043143/senate-opposition-leader-urges-govt-to-stay-out-of-yemen",
-      "summary": "ISLAMABAD: Senate Opposition Leader Allama Raja Nasir Abbas on Sunday urged the government to keep Pakistan out of the conflict in Yemen and instead pursue a mediatory role, warning that violating the unanimous parliamentary resolution of 2015 would damage national interests. Addressing the Shuhada-i-Muqawamat and Tajdeed-i-Ahd Conference organised by the Ma",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:36:07.000Z",
-      "image": "https://i.dawn.com/large/2026/07/15073322b350182.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "High cost of crumbling infrastructure in Karachi",
-      "url": "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi",
-      "summary": "For thousands of Karachi’s industrial workers, the daily commute is less about distance and more about endurance. Muhammad Ali leaves his Baloch Colony home an hour before his 8am shift at a SITE area pharmaceutical plant. While he can zip 14 kilometres to Nazimabad in 15 minutes via the Karsaz corridor, the final 6km crawl to his factory takes twice as long",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:34:28.000Z",
-      "image": "https://i.dawn.com/large/2026/07/14182426c667006.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Maritime Trade: Cashing on shifting trade routes, ME conflict",
-      "url": "https://www.dawn.com/news/2043193/maritime-trade-cashing-on-shifting-trade-routes-me-conflict",
-      "summary": "With sufficient capacity, agile policy responses and unusually effective public-private collaboration, Pakistan is well-positioned to capitalise on shifting trade routes amid Middle East turmoil, turning short-term gains into lasting economic advantage. Building on March 2025’s tariff cuts and cargo discounts, the government introduced transshipment incentiv",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:34:28.000Z",
-      "image": "https://i.dawn.com/large/2026/09/18081843165ae2f.webp",
-      "regions": [
-        "PK",
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
-    },
-    {
-      "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
-      "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Get our breaking news email , free app or daily news podcast Family members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime. Emergency",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T01:30:36.000Z",
-      "image": "https://i.guim.co.uk/img/media/6cdcfeabc345f0a7e521638862e85ad5c5125b6e/0_174_1516_1212/master/1516.jpg?width=140&quality=85&auto=format&fit=max&s=da413ca53e68c59303cae117c71ea52d",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "10 Greatest Street Fighter Bosses of All Time, Ranked",
-      "url": "https://www.cbr.com/street-fighter-greatest-bosses-of-all-time-ranked/",
-      "summary": "Street Fighter's history of bosses contains some of the hardest challenges in fighting games.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:30:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/street-fighter-ii-m-bison.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "10 Strongest Demon Slayer Characters at the End of the Manga",
-      "url": "https://www.cbr.com/strongest-demon-slayer-characters-end-of-manga-list/",
-      "summary": "Not every Demon Slayer character made it to the end of the manga, but the ones that survived were true powerhouses.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:15:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/muzan-is-wearing-a-suit-and-smiling-softly-while-addressing-the-head-of-the-demon-slayer-corps-in-demon-slayer.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Manga"
-    },
-    {
-      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
-      "summary": "President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fighters Donald Trump said on Sunday that he “was only kidding” when he announced a day earlier that he had offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship ( UFC ). Speaking to",
-      "publisher": "The Guardian",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T01:10:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/bd59d8bbfe95eb6a46d7a98c6c485d6c246d296c/1023_574_3265_2613/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=6f79b9b2de71d5627a16c8f3746aa578",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Boxing & MMA"
-    },
-    {
-      "title": "Every Lightsaber Color's Meaning, Explained",
-      "url": "https://www.cbr.com/star-wars-lightsaber-color-meanings-explained/",
-      "summary": "Each fan has their favorite lightsaber color, but each hue has its own meaning in Star Wars continuity that defines its wielder and their philosophy.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:00:13.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/darth-sidious-still.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "One Piece Officially Gives Luffy a New Rubber Duck Transformation",
-      "url": "https://www.cbr.com/one-piece-luffy-rubber-duck-transformation/",
-      "summary": "Every One Piece fan is talking about Luffy's new form in the manga, but it's actually his rubber ducky form that's bound to make the biggest splash.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/d40f2b2a-6163-456b-a34a-2ec4e602c0d0-1.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Anime"
-    },
-    {
-      "title": "Forget Reacher, Alan Ritchson's R-Rated Revenge Thriller Is a Certified Streaming Smash",
-      "url": "https://www.cbr.com/alan-ritchson-motor-city-streaming-hit-november-2026/",
-      "summary": "Alan Ritchson is quickly becoming one of streaming's biggest stars, with his R-rated revenge thriller shooting up the most-watched chart.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/09/motor-city-alan-ritchson.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "TV Shows"
-    },
-    {
-      "title": "10 Hardest Turn-Based RPGs of the 2000s",
-      "url": "https://www.cbr.com/hardest-turn-based-rpgs-of-the-2000s/",
-      "summary": "These turn-based RPGs from the 2000s not only punished players for mistakes, they crushed gamers' souls with games that felt impossible to beat.",
-      "publisher": "Comic Book Resources",
-      "category": "Gaming",
-      "publishedAt": "2026-11-09T01:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/vagrant-story-artwork.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Say Goodbye To The Punisher As His Replacement Is Officially Announced",
-      "url": "https://www.cbr.com/the-punisher-replacement-officially-announced/",
-      "summary": "Move over Frank Castle, Marvel Comics original vigilante psychopath is officially back.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/the-punisher-one-last-kill-header.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Comics"
-    },
-    {
-      "title": "Lanterns Got One Thing Very Wrong About The Green Lantern Corps",
-      "url": "https://www.cbr.com/lanterns-got-one-thing-very-wrong-about-the-green-lantern-corps/",
-      "summary": "The HBO series divided a lot of opinions, but it's no secret that it got one thing very wrong with the Green Lantern Corps.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T01:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/10/the-green-lanterns-pose-together-with-guy-gardner-kyle-rayner-hal-jordan-john-stewart-and-kilowog.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "TV Shows"
-    },
-    {
-      "title": "Jamie Foxx's Halloween Party Ends in Chaos With Stabbing and Arrest",
-      "url": "https://www.cbr.com/jamie-foxx-halloween-party-stabbing/",
-      "summary": "Jamie Foxx's annual Halloween bash took a violent turn on Saturday night.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T00:55:04.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/05/jamie-foxx-in-number-one-on-the-call-sheet.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Warhammer Blood Bowl has been delayed into early 2027",
-      "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
-      "summary": "One more turn.",
-      "publisher": "PC Gamer",
-      "category": "Gaming",
-      "publishedAt": "2026-11-09T00:45:39.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yYFgBZtpHgQ9MwUKngZ8tV-1920-80.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Gen Hoshino Performs Hirayasumi TV Anime's Opening Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-08/gen-hoshino-performs-hirayasumi-tv-anime-opening-song/.243631",
-      "summary": "Series debuts next January",
-      "publisher": "Anime News Network",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T00:44:26.000Z",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.10/242284/cwop-26817-hirayasumi-japansociety-posters-1-copy.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Maya Jama steps down as Love Island host after nine seasons",
-      "url": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
-      "summary": "‘Time to throw myself into something new,’ 32-year-old presenter announces on social media while hailing her ‘unforgettable time’ on the show Maya Jama has announced she is stepping down as the host of Love Island after three years. The 32-year-old presenter of the reality TV show made the announcement on Instagram. Continue reading...",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T00:43:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/066efd5ebd16c1941181a5d4525fb02da2a33a6f/446_0_3804_3044/master/3804.jpg?width=140&quality=85&auto=format&fit=max&s=ea502f242227544cec124dc3deb52191",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Godzilla Minus Zero Earns Record $32 Million in N. American Opening Weekend",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-08/godzilla-minus-zero-earns-record-32-million-in-n-american-opening-weekend/.243628",
-      "summary": "Highest-ever U.S. opening for live-action foreign film adds to global total of US$63 million",
-      "publisher": "Anime News Network",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-09T00:41:47.000Z",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.9/239467/bafkreieus7mvngxcunaow4evfcbc7skdfjw4wy5w4mmtqdxj6alchyvpie.webp",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Movies"
-    },
-    {
-      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-      "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The New York Times reported in ​October that Donald Trump had been b",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T00:25:28.000Z",
-      "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=140&quality=85&auto=format&fit=max&s=57b1a4b39c9e4d81da1942f21f2da458",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
-    },
-    {
-      "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
-      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-      "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is increasing disengagement from education. Lucy Powell wants schools to end the wi",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-09T00:01:05.000Z",
-      "image": "https://i.guim.co.uk/img/media/29cf0e38613d5172328a5e922b8a72c9980a3b77/517_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=6ae6737332d56f99bafc50538b6adb85",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo",
-      "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T23:53:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a524/live/05c078e0-dbcb-11f1-93e1-3b657b665bcf.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Why defenders hate playing against brilliant Brobbey",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo",
-      "summary": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T23:53:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/467d/live/c9a93670-dbcb-11f1-93e1-3b657b665bcf.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "'A horrible place to be' - What's gone wrong for Palace?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o",
-      "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T23:53:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ede/live/d9895230-dbcd-11f1-b441-2b33b063138f.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o",
-      "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T23:41:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T23:34:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
-      "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
-      "summary": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support from their GP as part of a £40m drive aimed at keeping them out of hospital this winter. As the NHS gears up for the pressures of the coming months, family doctors wi",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T22:30:51.000Z",
-      "image": "https://i.guim.co.uk/img/media/cb9d98c7d6af56a8ddc942e7ca0ecbd07ab9f309/1650_0_4722_3780/master/4722.jpg?width=140&quality=85&auto=format&fit=max&s=6d19c6d6f5d41d448b789a52d638d903",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "5 Strongest Ninja Villages in Naruto, Ranked",
-      "url": "https://www.cbr.com/strongest-ninja-villages-naruto-ranked-list/",
-      "summary": "The Five Great Shinobi Countries are the strongest villages in all of Naruto, but which one is the most powerful among them?",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T22:15:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/hokage-rock-in-naruto-1.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Anime"
-    },
-    {
-      "title": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo",
-      "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T22:14:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/29a2/live/9f6069b0-dbb7-11f1-be74-51c499abf6a8.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Godzilla Minus Zero Breaks Major Global Record With First-Ever No. 1 Debut",
-      "url": "https://www.cbr.com/godzilla-minus-zero-breaks-international-box-office-record-japan-toho/",
-      "summary": "The newest Godzilla film is not only a critical success, but a monster financial success as well!",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T22:13:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/godzilla-minus-zero-courtesy-of-gkids.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Movies"
-    },
-    {
-      "title": "Netflix's Twilight Reboot Recasts Bella Swan and Edward Cullen",
-      "url": "https://www.cbr.com/twilight-netflix-reboot-bella-edward/",
-      "summary": "Bella and Edward's romance is being reimagined on Netflix.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T22:12:19.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/04/untitled-design-2023-04-19t182957-857.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "TV Shows"
-    },
-    {
-      "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
-      "summary": "CEO Mike Bilder doesn't see AI as having much to offer Jackbox.",
-      "publisher": "PC Gamer",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T22:06:56.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZimasKeFtUuoHSCqpCekQo-1920-80.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Artificial Intelligence"
-    },
-    {
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o",
-      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T22:05:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
-    },
-    {
-      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko",
-      "summary": "Oldham Athletic stage an FA Cup upset by beating Sheffield Wednesday 2-1 in extra time at Boundary Park, with a 110th-minute winner from Will Sutton securing victory and handing Dave Challinor defeat in his first game in charge for The Owls.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T22:01:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ae7f/live/bf7f5970-dbaf-11f1-b441-2b33b063138f.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo",
-      "summary": "It was a Premier League classic at Old Trafford but what as Man Utd's 4-4 draw with Aston Villa done to Michael Carrick's future?",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T21:50:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Bundesliga",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l00591pp",
-      "summary": "Watch highlights from matchday nine in the Bundesliga.",
-      "publisher": "BBC Sport",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:45:31.000Z",
-      "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p8slj9.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "TV Shows"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
-      "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
-      "summary": "Good lord what is happening in there.",
-      "publisher": "PC Gamer",
-      "category": "World News",
-      "publishedAt": "2026-11-08T21:38:31.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/VE3dBZCG8wUwPxHWNzqwD9-1920-80.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Business"
-    },
-    {
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo",
-      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T21:37:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "10 Years Later, David Duchovny's Best Detective Role Is Still the Perfect Anti-Mulder",
-      "url": "https://www.cbr.com/aquarius-david-duchovny-best-detective-role-perfect-anti-mulder/",
-      "summary": "While the world loves him as Fox Mulder, David Duchovny played a far better detective in NBC's Aquarius before it was canceled too soon.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:30:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/david-duchovny-as-detective-sam-hodiak-in-aquarius.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
-      "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow blanketed parts of New South Wales, Victoria and Tasmania across the weekend as an unseasonal cold blast whipped through Australia’s south-east, but forecasters say warm temperatures and thun",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T21:25:10.000Z",
-      "image": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=f0b668a0c2353f200a661bd995771642",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Maya Jama steps down as host of reality TV show Love Island",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo",
-      "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
-      "publisher": "BBC Entertainment & Arts",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:19:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "TV Shows"
-    },
-    {
-      "title": "10 Greatest Anime Worlds of the '90s, Ranked",
-      "url": "https://www.cbr.com/greatest-anime-worlds-of-the-90s-ranked/",
-      "summary": "The '90s gave fans a lot of memorable anime worlds, from kingdoms ripped apart by war to distant planets crawling with giant monsters.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:15:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/lain-iwakura-in-the-serial-experiments-lain-opening.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Anime"
-    },
-    {
-      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-      "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday have been hailed as heroes. One of them is Jakub Kulik, a former paratrooper and volunteer firefighter, who was left critically injured after",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T21:11:40.000Z",
-      "image": "https://i.guim.co.uk/img/media/7f8112bf9742147977087d1aca2e17658270fb08/156_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=1e057f6462b3a90dfb471f4c3ef1cfbd",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "World Affairs"
-    },
-    {
-      "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o",
-      "summary": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T21:08:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5ca1/live/18cc3840-dbb0-11f1-9047-0dde0754755b.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
-      "summary": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says The US midterm elections saw voters elect a slew of historic representatives – from the country’s first Muslim senator to the first Black female governor – but among the most significant gains were those for Native American women. On Tuesday, vote",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T21:04:49.000Z",
-      "image": "https://i.guim.co.uk/img/media/d5136ba6cc395069555a94fc1fa69c5b198f8bf2/197_0_4321_3457/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=01770a9983b1230f8e62416df55f9929",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Anya Taylor-Joy's $1 Billion Space Adventure Runs Out of Gas on Streaming",
-      "url": "https://www.cbr.com/super-mario-galaxy-movie-sci-fi-streaming-success-peacock-november-2026/",
-      "summary": "A billion-dollar sci-fi family film has had its day in the sun, but is finally dropping down the streaming charts.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/anya-taylor-joy.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Studio Ghibli's Sold-Out Howl's Moving Castle Tote Bag Makes Another Official Return",
-      "url": "https://www.cbr.com/studio-ghibli-howls-moving-castle-tote-bag-restock/",
-      "summary": "One of the most sought after pieces of Studio Ghibli merchandise in years, the Howl's Moving Castle Tote Bag has officially returned again.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/studio-ghibli-returns-howl-s-moving-castle-tote-bag-to-official-store-after-2-years.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Dragon Ball Z Officially Brings Back Goku's Original Yardrat Design in 2027",
-      "url": "https://www.cbr.com/dragon-ball-z-goku-yardrat-outfit-figure-2027/",
-      "summary": "The latest Dragon Ball Z release recreates the fight between Super Saiyan Goku and Future Trunks.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/11/Goku-Instant-Transmission.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Anime"
-    },
-    {
-      "title": "It's Officially A New Era For Mega Man As He Fights His Strongest Foes Yet",
-      "url": "https://www.cbr.com/new-era-for-mega-man-fights-strongest-foes-yet/",
-      "summary": "How in the world does Mega Man plan to defeat THAT?!",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/b662f52550bebed982511d9727371743f333ef2239e52474.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "10 Movies That Are Way Too Long For Their Own Good",
-      "url": "https://www.cbr.com/best-movies-that-are-too-long-list/",
-      "summary": "From action-packed blockbusters to science fiction juggernauts, these 10 films are much longer than they should be",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T21:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/neytiri-pulling-back-arrow.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Movies"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time 2026 Game Review",
-      "url": "https://www.animenewsnetwork.com/review/game/nintendo-switch-2/the-legend-of-zelda/ocarina-of-time-2026/.243568",
-      "summary": "The big holiday release from Nintendo, brave enough to challenge the looming release of Grand Theft Auto VI , is finally here—and we have plenty to gush about!",
-      "publisher": "Anime News Network",
-      "category": "Gaming",
-      "publishedAt": "2026-11-08T21:00:00.000Z",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/game-review/243568/ann-the-legend-of-zelda-ocarina-of-time-5.png.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Nintendo"
-    },
-    {
-      "title": "Palace consider replacing Sage, with Frank among contenders",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o",
-      "summary": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T20:49:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "CM Maryam removes Jhelum DC over exam postponement ahead of her visit",
-      "url": "https://www.nation.com.pk/09-Nov-2026/cm-maryam-removes-jhelum-dc-exam-postponement-ahead-visit",
-      "summary": "JHELUM/LAHORE - Punjab Chief Minister Maryam Nawaz Sharif on Sunday removed Deputy Commissioner Jhelum Mir Reza Ozgen from his post after the district administration sought postponement of an HSSC examination scheduled for November 10, coinciding with her planned visit to the district.",
-      "publisher": "The Nation",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:21:00.000Z",
-      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Nation observes 149th birth anniversary of Allama Iqbal today",
-      "url": "https://www.nation.com.pk/09-Nov-2026/nation-observes-149th-birth-anniversary-allama-iqbal-today",
-      "summary": "LAHORE - The nation will observe the 149th birth anniversary of national poet and philosopher Dr Allama Muhammad Iqbal on Monday (November 9) with renewed commitment to his vision of an independent Muslim state, self-respect, unity and intellectual awakening.",
-      "publisher": "The Nation",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:14:00.000Z",
-      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Hamza Shahbaz meets Hindu community delegation, extends Diwali greetings",
-      "url": "https://www.nation.com.pk/09-Nov-2026/hamza-shahbaz-meets-hindu-community-delegation-extends-diwali-greetings",
-      "summary": "ISLAMABAD - Former Punjab chief minister Hamza Shahbaz Sharif on Sunday met a delegation of the Hindu community, led by Member of the National Assembly (MNA) Dr Darshan, at the Prime Minister’s Office here on the occasion of Diwali.",
-      "publisher": "The Nation",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:14:00.000Z",
-      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
-      "summary": "Man taken to hospital after falling off Royal Caribbean ship in Pacific Ocean, with Coast Guard investigating incident A pianist for a Royal Caribbean cruise ship is expected to survive after two Newport Beach, California , fishermen discovered him treading water in the Pacific Ocean nearly 20 miles (32km) offshore on Friday. The unidentified man was taken t",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:13:09.000Z",
-      "image": "https://i.guim.co.uk/img/media/423d070d53b9dd92f040e4ac2454f5b46f083823/2305_0_4695_3756/master/4695.jpg?width=140&quality=85&auto=format&fit=max&s=43cfccaff83f84dc505e7c79cea0f365",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "PM felicitates President Aliyev, Azerbaijan nation on Victory Day",
-      "url": "https://www.nation.com.pk/09-Nov-2026/pm-felicitates-president-aliyev-azerbaijan-nation-victory-day",
-      "summary": "ISLAMABAD - Prime Minister Muhammad Shehbaz Sharif, Sunday, extended his warmest felicitations to President Ilham Aliyev and the brave and brotherly people of Azerbaijan on the sixth anniversary of Victory Day.",
-      "publisher": "The Nation",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:13:00.000Z",
-      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "NCCIA recovers Rs2.94m for woman defrauded of Rs 9.5m",
-      "url": "https://www.nation.com.pk/09-Nov-2026/nccia-recovers-rs2-94m-woman-defrauded-rs-9-5m",
-      "summary": "ISLAMABAD - The National Cyber Crime Investigation Agency (NCCIA) Islamabad has recovered Rs 2.",
-      "publisher": "The Nation",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:13:00.000Z",
-      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Trump says he is unlikely to order Iran attack if talks progress",
-      "url": "https://www.nation.com.pk/09-Nov-2026/trump-says-unlikely-order-iran-attack-talks-progress",
-      "summary": "WASHINGTON - US President Donald Trump has said he is highly unlikely to order fresh attacks on Iran as long as talks to end the conflict progress, CNN reported.",
-      "publisher": "The Nation",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:13:00.000Z",
-      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "NAB seeks NHA procurement record relating to Asad Mehmood’s tenure",
-      "url": "https://www.nation.com.pk/09-Nov-2026/nab-seeks-nha-procurement-record-relating-asad-mehmood-s-tenure",
-      "summary": "ISLAMABAD - The National Accountability Bureau (NAB) has directed the Chairman of the National Highway Authority (NHA) to furnish procurement records relating to the tenure of former federal minister for communications Maulana Asad Mehmood within the next 48 hours, in what appears to be an expansion of the ongoing investigation against the former.",
-      "publisher": "The Nation",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:11:00.000Z",
-      "image": "https://www.nation.com.pk/epaper_image/medium/2026-11-09/Lahore/epaper_img_1794184047.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "$28K To Millions: Sophie Cunningham and WNBA’s big change",
-      "url": "https://arynews.tv/28k-to-millions-sophie-cunningham-and-wnbas-big-change",
-      "summary": "$28K To Millions: Sophie Cunningham and WNBA’s big change",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:09:57.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Sophie-Cunningham-recalls-job-need.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo",
-      "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T20:05:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/910b/live/15fd4900-da13-11f0-a8dc-93c15fe68710.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Oman steps into future with nucleus Oman project",
-      "url": "https://arynews.tv/oman-steps-into-future-with-nucleus-oman-project",
-      "summary": "Oman steps into future with nucleus Oman project",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T20:04:31.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Oman-launches-radiopharma-project.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo",
-      "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T20:01:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4f78/live/514a5d20-dba9-11f1-93e1-3b657b665bcf.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Brighton breeze past 10-man Brentford to move up to second",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po",
-      "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T20:00:21.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "CDA chief reviews 35pc progress on Margalla Avenue extension",
-      "url": "https://arynews.tv/cda-chief-reviews-35pc-progress-on-margalla-avenue-extension",
-      "summary": "CDA chief reviews 35pc progress on Margalla Avenue extension",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:59:57.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-2026-11-09T005436.562.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Bournemouth beat Ipswich to extend winning streak",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo",
-      "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:59:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Liverpool dispatch Palace to pile pressure on Sage",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o",
-      "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:58:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo",
-      "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:58:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "publisher": "BBC World News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:58:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "What can you read into Premier League table after 10 games?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo",
-      "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:40:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo",
-      "summary": "Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point from their 4-4 draw.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:39:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d367/live/1f25a4c0-dbaa-11f1-a701-fddedf244c16.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "NA-77 Gujranwala by-election unofficial result announced",
-      "url": "https://arynews.tv/na-77-gujranwala-by-election-unofficial-result-announced",
-      "summary": "NA-77 Gujranwala by-election unofficial result announced",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:33:23.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/AJK-election-2026-CEC-phase-wise.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Small plane crashes into pickup truck on busy Florida highway",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
-      "summary": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboard A small plane crashed into the rear of a pickup truck as it made an emergency landing on a busy Florida highway on Saturday but miraculously no one was injured in the dramatic incident. Video footage obtained from the sheriff’s office shows a Cessna 172",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:29:05.000Z",
-      "image": "https://i.guim.co.uk/img/media/6aaeec2598d0cffd64c883efac3f30ccd5da1506/127_0_1919_1536/master/1919.jpg?width=140&quality=85&auto=format&fit=max&s=dc4f9446579f26ed12aa41abc0e43c4f",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o",
-      "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:24:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "IESCO introduces 24/7 QR code payment facility for consumers",
-      "url": "https://arynews.tv/iesco-introduces-24-7-qr-code-payment-facility-for-consumers",
-      "summary": "IESCO introduces 24/7 QR code payment facility for consumers",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:20:26.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-2026-11-09T001356.706.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "PML-N retains both Gujranwala's NA-77 and Sahiwal's PP-203, unofficial results show",
-      "url": "https://www.dawn.com/news/2043037/pml-n-retains-both-gujranwalas-na-77-and-sahiwals-pp-203-unofficial-results-show",
-      "summary": "LAHORE: The ruling PML-N retained Gujranwala’s National Assembly constituency NA-77 and Sahiwal’s Punjab Assembly constituency PP-203 in Sunday’s by-election. Both seats had fallen vacant after the deaths of their respective lawmakers in September. Polling in the constituencies began at 8am and concluded at 5pm, with the Election Commission of Pakistan (ECP)",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:15:49.000Z",
-      "image": "https://i.dawn.com/large/2024/02/0710593389988bd.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "'Misplaced over-smartness': Maryam removes Jhelum DC over exam postponement for her visit",
-      "url": "https://www.dawn.com/news/2043049/misplaced-over-smartness-maryam-removes-jhelum-dc-over-exam-postponement-for-her-visit",
-      "summary": "Punjab Chief Minister Maryam Nawaz removed the Jhelum deputy commissioner (DC) from his post on Sunday, after it emerged that computer science papers for intermediate students in the district had been postponed in the district owing to arrangements for the provincial chief executive’s scheduled visit on Nov 10. Originally scheduled for Nov 10, the computer s",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:15:06.000Z",
-      "image": "https://i.dawn.com/large/2019/06/5d0e155875380.png",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Man Utd making it 'hard on ourselves' - Carrick",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo",
-      "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:13:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "27 terrorists killed in two-phase Operation Radd-ul-Fitna 3 in Balochistan",
-      "url": "https://arynews.tv/27-terrorists-killed-in-two-phase-operation-radd-ul-fitna-3-in-balochistan",
-      "summary": "27 terrorists killed in two-phase Operation Radd-ul-Fitna 3 in Balochistan",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:13:38.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Army-deployed-In-Rawalpindi.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Leeds condemn racist abuse of Bogle after Tel incident",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo",
-      "summary": "Leeds United condemn the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:12:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/680c/live/40978c40-dba0-11f1-81e8-61c133a2b43c.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Turkiye's President Erdogan, Azerbaijan counterpart vow unity after tensions",
-      "url": "https://www.dawn.com/news/2043078/turkiyes-president-erdogan-azerbaijan-counterpart-vow-unity-after-tensions",
-      "summary": "Turkiye’s President Recep Tayyip Erdogan and Azerbaijan’s President Ilham Aliyev vowed on Sunday that their countries’ alliance would remain solid, in a show of unity aimed at overcoming a public rift between the close neighbours. Tensions flared in September, when Baku revised school uniform regulations to prohibit clothing deemed incompatible with secular",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:11:43.000Z",
-      "image": "https://i.dawn.com/large/2026/11/0821163226dc314.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
-      "summary": "House Democrat is a ‘hard yes’ on impeachment resolution against defense secretary who ‘has abused his power’ House minority leader Hakeem Jeffries, poised to become majority leader, said on Sunday that he strongly supports impeaching defense secretary Pete Hegseth as a Republican lawmaker prepares to force a House vote. The top Democrat made his position cl",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:11:33.000Z",
-      "image": "https://i.guim.co.uk/img/media/951893fa5f4c12077ed8bdcbf1fee7a1489f34b6/291_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=a16d96c783f9733826397be0af678781",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "With Stephen Miller at the helm, Trump charts a course for confrontation",
-      "url": "https://www.dawn.com/news/2043072/with-stephen-miller-at-the-helm-trump-charts-a-course-for-confrontation",
-      "summary": "US President Donald Trump’s decision to elevate loyalist Stephen Miller to run his White House indicates that he plans to ramp up confrontation in his final two years in office and block outside political and economic pressures, Trump administration officials and other Republicans say. Voters delivered a historic rebuke to Republicans in Tuesday’s midterm el",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:09:08.000Z",
-      "image": "https://i.dawn.com/large/2026/11/081950479064637.webp",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
-      "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-      "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations after Russell Brand’s conviction for rape and sexual assault. She said women who came",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T19:05:04.000Z",
-      "image": "https://i.guim.co.uk/img/media/762ae91c8ce0a67e86d117452274a6e484f8f369/273_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=87193a1cb8cf69e755e2b161163e96c1",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo",
-      "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T18:56:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo",
-      "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T18:46:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Eisenkot says Israel in 'devastating diplomatic crisis' as he seeks to form govt",
-      "url": "https://www.dawn.com/news/2043085/eisenkot-says-israel-in-devastating-diplomatic-crisis-as-he-seeks-to-form-govt",
-      "summary": "Israel’s former military chief Gadi Eisenkot started the tough task on Sunday of forming a government, reaching out to Benjamin Netanyahu’s allies as he warned the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, a political novice who has vowed to bridge Israel’s deep polarisation under Netanyahu, formally received a mandat",
-      "publisher": "Dawn",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:45:22.000Z",
-      "image": "https://i.dawn.com/large/2026/11/08224852380eecc.webp",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "U19 sensation Hamza Zahoor’s secret note steals the show",
-      "url": "https://arynews.tv/u19-sensation-hamza-zahoors-secret-note-steals-the-show",
-      "summary": "U19 sensation Hamza Zahoor’s secret note steals the show",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:44:53.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Hamza-Zahoors-Note-Pakistan.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
-      "summary": "I love being Cyrodiil's one-man deep state in charge of all major economic, social, criminal, and paramilitary organizations.",
-      "publisher": "PC Gamer",
-      "category": "Gaming",
-      "publishedAt": "2026-11-08T18:33:45.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9fXDM6ZgfniUps2Mv9Gmei-1920-80.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
-      "summary": "Two people arrested after Robinson’s presence inflames tensions in scenes witnessed by many on social media Two people were arrested at an influencer boxing event that descended into a riot in Ireland after the presence of the far-right activist Tommy Robinson inflamed tensions in the crowd. The riot took place at about midnight on Saturday at an event organ",
-      "publisher": "The Guardian",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T18:33:34.000Z",
-      "image": "https://i.guim.co.uk/img/media/87f5b6d7ff6da81bced2401d25741d31451aabae/6_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f196b0365e7b2e082e383553bae54bda",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Boxing & MMA"
-    },
-    {
-      "title": "NCCIA returns Rs 2.94 million to online fraud victim",
-      "url": "https://arynews.tv/nccia-returns-rs-2-94-million-to-online-fraud-victim",
-      "summary": "NCCIA returns Rs 2.94 million to online fraud victim",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:29:45.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-2026-11-08T232344.293.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "No marital dispute reported between Rabia Ahsan and husband, family tells police",
-      "url": "https://arynews.tv/no-marital-dispute-reported-between-rabia-ahsan-and-husband-family-tells-police",
-      "summary": "No marital dispute reported between Rabia Ahsan and husband, family tells police",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:22:04.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Rabia-Ahasan.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo",
-      "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
-      "publisher": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T18:20:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ad64/live/45acce10-db9c-11f1-81e8-61c133a2b43c.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Football"
-    },
-    {
-      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-      "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoin the EU, underlining divisions at the top of government over revisiting Brexit. Lisa Nandy, the culture secretary, appe",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:20:06.000Z",
-      "image": "https://i.guim.co.uk/img/media/5157f3976eae5a90891ee70050849ee9c60e26cb/540_86_2393_1914/master/2393.jpg?width=140&quality=85&auto=format&fit=max&s=b8a34d6bb3e1889ef0a95b2f5cdaf1c9",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "10 Classic Nintendo 3DS Games That Are 100% Unplayable Today",
-      "url": "https://www.cbr.com/classic-nintendo-3ds-games-unplayable-today/",
-      "summary": "The 3DS was a bigger success than anyone expected it would be when it launched, but that doesn't change that some of its games are still unplayable.",
-      "publisher": "Comic Book Resources",
-      "category": "Gaming",
-      "publishedAt": "2026-11-08T18:15:11.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/03/nintendo-3ds-with-games.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Nintendo"
-    },
-    {
-      "title": "Trump vows comeback as bitter showdown with Congress looms",
-      "url": "https://arynews.tv/trump-vows-comeback-as-bitter-showdown-with-congress-looms",
-      "summary": "Trump vows comeback as bitter showdown with Congress looms",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:03:42.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Donald-Trump-1.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
-      "summary": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwise Labour expected to cut EV targets for car industry despite MPs’ climate concerns Andy Burnham insists he is committed to the green transition, but his MPs worry that in decision after decision, he is showing that other priorities come first. “Our cha",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T18:01:01.000Z",
-      "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Environment"
-    },
-    {
-      "title": "Remake of 36-Year-Old Arnold Schwarzenegger Sci-Fi Classic Blow Up on Prime Video",
-      "url": "https://www.cbr.com/total-recall-action-sci-fi-success-prime-video-november-2026/",
-      "summary": "The 2012 remake of one of the best sci-fi movies of all time, Total Recall, is now rising on the streaming charts.",
-      "publisher": "Comic Book Resources",
-      "category": "Entertainment",
-      "publishedAt": "2026-11-08T18:00:12.000Z",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/msdtore_ec012-cropped.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "TV Shows"
-    },
-    {
-      "title": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2",
-      "url": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
-      "summary": "I impale myself with a sword to heal? I'm sold!",
-      "publisher": "PC Gamer",
-      "category": "Gaming",
-      "publishedAt": "2026-11-08T18:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rsmfHbpNsdX4uoZqE5dEUR-1920-80.png",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "My apologies Deadlock, I wasn't familiar with your (musical) game",
-      "url": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
-      "summary": "Yeah, yeah, I'm the Hidden King.",
-      "publisher": "PC Gamer",
-      "category": "Gaming",
-      "publishedAt": "2026-11-08T18:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pbYEWFvkgVi8QrjcR2QAea-1920-80.jpg",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Spain’s Alcaraz wins Paris Masters for first time",
-      "url": "https://arynews.tv/spains-alcaraz-wins-paris-masters-for-first-time",
-      "summary": "Spain’s Alcaraz wins Paris Masters for first time",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T17:59:05.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Spains-Carlos-Alcaraz.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": null
-    },
-    {
-      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-      "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a “giant step back” by widely rejecting his party. The US president’s hardline aide, Stephen Miller, will begin as White Hous",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T17:58:43.000Z",
-      "image": "https://i.guim.co.uk/img/media/ebaa793edf007e24d57fafa59f1090d96cdcbe60/332_0_3323_2658/master/3323.jpg?width=140&quality=85&auto=format&fit=max&s=3a805f3c5d5fb31128b72712d90154ab",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
-      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
-      "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis. Eisenkot,",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T17:53:59.000Z",
-      "image": "https://i.guim.co.uk/img/media/c89093b1bdff428195f0ad9be24f6d4eac75b842/555_286_3230_2586/master/3230.jpg?width=140&quality=85&auto=format&fit=max&s=e5e03cc0e5601cb1524de4d029ca1130",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "PPP’s Khalil Ahmed Hot wins UC-8 vice-chairman by-election in Karachi",
-      "url": "https://arynews.tv/ppps-khalil-ahmed-hot-wins-uc-8-vice-chairman-by-election-in-karachi",
-      "summary": "PPP’s Khalil Ahmed Hot wins UC-8 vice-chairman by-election in Karachi",
-      "publisher": "ARY News",
-      "category": "World News",
-      "publishedAt": "2026-11-08T17:52:50.000Z",
-      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/PPP-Gilgit-Baltistan-cabinet.jpg",
-      "regions": [
-        "PK"
-      ],
-      "subcategory": "Politics"
-    },
-    {
-      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
-      "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction plan Analysis: Climate always comes second – are green issues slipping down Burnham’s agenda? Ministers are expected to make steep cuts to the government’s electric vehicle (EV) targets this week, in a move that will relieve carmakers but alarm many Labour MP",
-      "publisher": "The Guardian",
-      "category": "World News",
-      "publishedAt": "2026-11-08T17:51:19.000Z",
-      "image": "https://i.guim.co.uk/img/media/2db94dc51d06421443808c322eecd0e97b2d330b/27_0_4763_3811/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=1b4cf9fd666a4b3707f6b50a2765ee86",
-      "regions": [
-        "GLOBAL"
-      ],
-      "subcategory": "Environment"
     }
   ]
 }
